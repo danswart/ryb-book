@@ -1,0 +1,23 @@
+Arrow-like characters in Unicode:
+
+    Leftwards Arrow: ← &#x2190;
+    Upwards Arrow: ↑ &#x2191;
+    Rightwards Arrow: → &#x2192;
+    Downwards Arrow: ↓ &#x2193;
+    Diagonal Arrow Up: ↗ &#x2197;
+    Diagonal Arrow Down: ↘ &#x2198;
+    Bent Arrow Right: ↪ &#x21AA;
+    Bent Arrow Left: ↩ &#x21A9;
+
+
+# Jim C
+
+Leftwards Arrow: ← &#x2190;
+Upwards Arrow: ↑ &#x2191;
+Rightwards Arrow: → &#x2192;
+Downwards Arrow: ↓ &#x2193;
+Diagonal Arrow: ↗ &#x2197;
+Diagonal Arrow: ↘ &#x2198;
+Bent Arrow: ↪ &#x21AA;
+Bent Arrow: ↩ &#x21A9;
+

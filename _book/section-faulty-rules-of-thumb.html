@@ -1,0 +1,242 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <title>Chapter 6 Faulty Rules-of-Thumb | Reimagine Your Business</title>
+
+    <meta name="author" content="Dan Swart" />
+  
+   <meta name="description" content="<p>The HTML output format for this example is bookdown::bs4_book,
+set in the _output.yml file.</p>" />
+   <meta name="generator" content="placeholder" />
+  <meta property="og:title" content="Chapter 6 Faulty Rules-of-Thumb | Reimagine Your Business" />
+  <meta property="og:type" content="book" />
+  
+  
+  <meta property="og:description" content="<p>The HTML output format for this example is bookdown::bs4_book,
+set in the _output.yml file.</p>" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Chapter 6 Faulty Rules-of-Thumb | Reimagine Your Business" />
+  
+  <meta name="twitter:description" content="<p>The HTML output format for this example is bookdown::bs4_book,
+set in the _output.yml file.</p>" />
+  
+  <!-- JS -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.js" integrity="sha512-zv6Ywkjyktsohkbp9bb45V6tEMoWhzFzXis+LrMehmJZZSys19Yxf1dopHx7WzIKxr5tK2dVcYmaCk2uqdjF4A==" crossorigin="anonymous"></script>
+  <script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script>
+    <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet" />
+    <script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script>
+    <link href="libs/Libre_Baskerville-0.4.7/font.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=DM%20Mono&amp;display=swap" rel="stylesheet"/>
+    <link href="libs/Frank_Ruhl_Libre-0.4.7/font.css" rel="stylesheet" />
+    <script src="libs/bs3compat-0.6.0/transition.js"></script>
+    <script src="libs/bs3compat-0.6.0/tabs.js"></script>
+    <script src="libs/bs3compat-0.6.0/bs3compat.js"></script>
+    <link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet" />
+    <script src="libs/bs4_book-1.0.0/bs4_book.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/autocomplete.js/0.38.0/autocomplete.jquery.min.js" integrity="sha512-GU9ayf+66Xx2TmpxqJpliWbT5PiGYxpaG8rfnBEk1LL8l1KGkRShhngwdXK1UgqhAzWpZHSiYPc09/NwDQIGyg==" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js" integrity="sha512-5CYOlHXGh6QpOFA/TeTylKLWfB3ftPsde7AnmhuitiTX4K5SqCLBeKro6sPS8ilsz1Q4NRx3v8Ko2IBiszzdww==" crossorigin="anonymous"></script>
+
+  <!-- CSS -->
+  <style type="text/css">
+    
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  </style>
+    <style type="text/css">
+    /* Used with Pandoc 2.11+ new --citeproc when CSL is used */
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+        }
+    .hanging div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }
+  </style>
+      <link rel="stylesheet" href="r-colors.css" />
+    <link rel="stylesheet" href="tachyons.min.css" />
+    <link rel="stylesheet" href="swart.css" />
+  
+</head>
+
+<body data-spy="scroll" data-target="#toc">
+
+<div class="container-fluid">
+<div class="row">
+  <header class="col-sm-12 col-lg-3 sidebar sidebar-book">
+    <a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+
+    <div class="d-flex align-items-start justify-content-between">
+      <h1>
+        <a href="index.html" title="<em>A Personalized Guide to Beating Your Competition</em>"><em>Reimagine Your Business</em></a>:
+        <small class="text-muted"><em>A Personalized Guide to Beating Your Competition</em></small>
+      </h1>
+      <button class="btn btn-outline-primary d-lg-none ml-2 mt-1" type="button" data-toggle="collapse" data-target="#main-nav" aria-expanded="true" aria-controls="main-nav"><i class="fas fa-bars"></i><span class="sr-only">Show table of contents</span></button>
+    </div>
+
+    <div id="main-nav" class="collapse-lg">
+      <form role="search">
+        <input id="search" class="form-control" type="search" placeholder="Search" aria-label="Search">
+      </form>
+
+      <nav aria-label="Table of contents">
+        <h2>Table of contents</h2>
+        <div id="book-toc"></div>
+
+        <div class="book-extra">
+          <p><a id="book-repo" href="#">View book source <i class="fab fa-github"></i></a></li></p>
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <main class="col-sm-12 col-md-9 col-lg-7" id="content">
+<div id="section-faulty-rules-of-thumb" class="section level1" number="6">
+<h1><span class="header-section-number">Chapter 6</span> Faulty Rules-of-Thumb</h1>
+<blockquote class="my-box" style="text-align: center;">
+<p>
+<span style="font-size: 14px;">ASPIRATIONS</span>
+<span style="font-size: 24px;">+</span>
+<span style="font-size: 14px">VALUE CREATION</span>
+<span style="font-size: 24px;">+</span>
+<span style="font-size: 14px;">COMPETITIVE STRATEGY </span>
+<span style="font-size: 24px;">+</span>
+<span style="font-size: 14px;">MARKET TACTICS</span>
+<span style="font-size: 24px;">+</span>
+<span style="font-size: 14px;">PHILOSOPY</span>
+<span style="font-size: 24px;">+</span>
+<span style="font-size: 14px;">OPERATIONS</span>
+<span style="font-size: 24px;">+</span>
+<span style="font-size: 14px;">CUSTOMERS</span>
+<span style="font-size: 24px;">+</span>
+<span style="font-size: 14px;">SOME LUCK</span>
+<span style="font-size: 14px;">=</span>
+<strong><span style="color: green; font-size: 20px">SUCCESS</span></strong>
+</p>
+</blockquote>
+<blockquote class="my-quote">
+<p>
+<strong>“I honestly beleave it is better to know nothing than two know what ain’t so. Wisdom don’t consist in knowing more that is true, but in knowing less that is false.”</strong>
+</p>
+<p class="quote-author">
+— paraphrased from Josh Billings (1874)
+</p>
+<p class="quote-description">
+(19th-century American humorist Henry Wheeler Shaw)
+</p>
+</blockquote>
+<p><span style="color: maroon;">MARKETPLACE ASPIRATION: <strong>“We want to… be the market of choice for dairy products and produce in the tri-state area…to do that we must…create delighted customers.”</strong></span></p>
+<p>Becomes…<span style="color: maroon;"><strong>“Our Mission is to Create Delighted Customers”</strong></span></p>
+<p>Everyone in that enterprise knows a happy customer when they see one, and an unhappy customer when they see one. That mission statement informs people from the top of the organization chart to the bottom whether the company did a great job, or whether the value delivery system could improve.</p>
+<p><span style="color: maroon;">PHILOSOPHY:</span> <strong>Rule #1 - The Customer is Always Right. If the Customer is Ever Wrong, See Rule #1”</strong></p>
+<p><span style="color: maroon;">MARKETPLACE STRATEGY:</span> <strong>Offer freshest produce and dairy products at the lowest cost with an in-store experience that leaves customers saying “WOW!” The in-store experience will be very difficult for competitors to duplicate.</strong></p>
+<p><span style="color: maroon;">MARKETPLACE TACTICS:</span> <strong>Produce our own in-store, super-high-quality, super-low-cost dairy products. Buy produce directly from farmers from coast-to-coast to guarantee quality and freshness (and cut out the middleman). Insist on highest quality on all other store products. Sell fewer products but buy in higher quantities and pass the savings on. This alone will make us meaningfully different than the competition.</strong></p>
+<p><span style="color: maroon;">BECOMES:</span> <strong>“Our mission is to create delighted customers.”</strong></p>
+
+<p>Arrow-like characters in Unicode:</p>
+<pre><code>Leftwards Arrow: ← &amp;#x2190;
+Upwards Arrow: ↑ &amp;#x2191;
+Rightwards Arrow: → &amp;#x2192;
+Downwards Arrow: ↓ &amp;#x2193;
+Diagonal Arrow: ↗ &amp;#x2197;
+Diagonal Arrow: ↘ &amp;#x2198;
+Bent Arrow: ↪ &amp;#x21AA;
+Bent Arrow: ↩ &amp;#x21A9;</code></pre>
+<div class="rmdcaution">
+<p>RED BOX Example of an <strong>.rmdcaution</strong> block.</p>
+</div>
+<div class="rmdimportant">
+<p>GREEN BOX Example of an <strong>.rmdimportant</strong> block.</p>
+</div>
+<div class="rmdtip">
+<p>BLUE BOX Example of an <strong>.rmdtip</strong> block.</p>
+</div>
+<div class="rmdwarning">
+<p>BLUE VIOLET BOX Example of an <strong>.rmdwarning</strong> block.</p>
+</div>
+</div>
+  </main>
+
+  <div class="col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-chapter">
+    <nav id="toc" data-toggle="toc" aria-label="On this page">
+      <h2>On this page</h2>
+      <div id="book-on-this-page"></div>
+
+      <div class="book-extra">
+        <ul class="list-unstyled">
+          <li><a id="book-source" href="#">View source <i class="fab fa-github"></i></a></li>
+          <li><a id="book-edit" href="#">Edit this page <i class="fab fa-github"></i></a></li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+
+</div>
+</div> <!-- .container -->
+
+<footer class="bg-primary text-light mt-5">
+  <div class="container"><div class="row">
+
+  <div class="col-12 col-md-6 mt-3">
+    <p>"<strong><em>Reimagine Your Business</em></strong>: <em>A Personalized Guide to Beating Your Competition</em>" was written by Dan Swart. It was last built on 2023-11-30.</p>
+  </div>
+
+  <div class="col-12 col-md-6 mt-3">
+    <p>This book was built by the <a class="text-light" href="https://bookdown.org">bookdown</a> R package.</p>
+  </div>
+
+</div></div>
+</footer>
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/latest.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+<script type="text/x-mathjax-config">const popovers = document.querySelectorAll('a.footnote-ref[data-toggle="popover"]');
+for (let popover of popovers) {
+  const div = document.createElement('div');
+  div.setAttribute('style', 'position: absolute; top: 0, left:0; width:0, height:0, overflow: hidden; visibility: hidden;');
+  div.innerHTML = popover.getAttribute('data-content');
+
+  var has_math = div.querySelector("span.math");
+  if (has_math) {
+    document.body.appendChild(div);
+    MathJax.Hub.Queue(["Typeset", MathJax.Hub, div]);
+    MathJax.Hub.Queue(function() {
+      popover.setAttribute('data-content', div.innerHTML);
+      document.body.removeChild(div);
+    })
+  }
+}
+</script>
+</body>
+
+</html>

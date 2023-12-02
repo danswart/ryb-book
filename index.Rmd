@@ -1,0 +1,82 @@
+--- 
+title: "*Reimagine Your Business*"
+subtitle: "*A Personalized Guide to Beating Your Competition*"
+author: "Dan Swart"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: 
+  bookdown::bs4_book:
+    css: [r-colors.css, tachyons.min.css, swart.css]
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  The HTML output format for this example is bookdown::bs4_book,
+  set in the _output.yml file.
+biblio-style: apalike
+csl: chicago-fullnote-bibliography.csl
+---
+
+`r if (knitr::is_latex_output()) '<!--'` 
+
+# Welcome {-}
+
+
+<blockquote class="my-quote">
+  <p><strong>"Help comes from the outside...by invitation."</strong></p>
+  <p class="quote-author">          — W. Edwards Deming</p>
+  <p class="quote-description">(father of the Japanese economic miracle. See https://en.wikipedia.org/wiki/Deming_Prize)</p>
+</blockquote>
+
+This is the website for my first book ever, __[*Reimagine Your Business, A Personalized Guide to Beating Your Competition* (Swart 2023)]()__.  
+
+It is a book with remarkable qualities, above and beyond its written content.  Due to recent advances in web-based technology this book is not just a good read but is a personalized <span style="color: darkgreen; font-size: 1.25em; font-weight: 700; font-style: italic;">experience</span>.
+
+Beyond the 'learning' there is the 'doing.'  Readers can commit their thoughts to 'writing' by composing their reimagined business ideas on-screen.  No data is retained anywhere so readers can save them to a pdf file.  Or, they can use the old fashioned way of actual handwriting.  
+
+Interactive graphics invite readers to drop in their own company numbers and see how the ideas might (hypothetically) affect their company.  It's a great way to 'test' an idea on your business before you commit to a change.  Again, no data is retained anywhere so you can keep the results of those 'tests' by creating a pdf file for future use in reimagining your company.
+
+When (not if) readers change their minds, or circumstances change, they can revisit a section of the book and complete the exercise again and preserve their revised work.  There is no limit to the number of iterations you can perform.  It is a great example of Deming's 'Plan-Do-Study-Act' improvement cycle.
+
+I'm 'seasoned' enough that, to me, it's like magic.  I've not heard of a 'self-help' book quite like it.  If you have, please let me know.
+<br>
+<br>
+
+::: {.rmdwarning}
+<span style="font-size: 20px">ONLINE SECURITY CAUTION:  The online version of this book is housed on a static website that should not preserve any user input or information whatsoever.  However, security best practices advise that you should not put any personally identifiable information (PII) onto a website that cannot certify the security of the third-party servers.</span>
+
+<span style="font-size: 20px">Accordingly, I designed the interactive elements of the book so that no PII input is required for you to derive the full benefits from them.  They are meant to be interesting and informative.  Use your real thoughts and data, just be mindful that it should not contain any PII.</span>  
+
+<span style="font-size: 20px">If you have any security concerns whatsoever please complete the exercises outside of the interactive input elements.  Most illustrators and calculators included accept user input but contain default values that illustrate the concepts without user input.</span>  
+
+<span style="font-size: 20px">NO WARRANTIES OR GUARANTEES OF DATA SECURITY ARE EXPRESSED OR IMPLIED.  (for more information about PII, see here: https://csrc.nist.gov/glossary/term/PII)</span>
+
+<span style="font-size: 20px">NUMERICAL ACCURACY DISCLAIMER:  Every illustrator and calculator provided produces information that is hypothetical.  Every effort has been made to verify numerical accuracy at the time of publication.  However, they are not a substitute for competent professional assistance.  Seek professional consultation before relying on them in your business.</span>  
+
+<span style="font-size: 20px">NO WARRANTIES OR GUARANTEES OF NUMERICAL ACCURACY ARE GIVEN OR IMPLIED.</span>
+:::
+
+
+## License {-}
+
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
+
+This work, as a whole, is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+The code contained in this book is simultaneously available under the [MIT license](https://opensource.org/licenses/MIT); this means that you are free to use it in your own packages, as long as you cite the source.
+
+## Other books {-}
+
+You may also be interested in:
+
+* __"[The New Economics (3rd Edition)](https://www.amazon.com/exec/obidos/ISBN=0262535947/thewedwdemins-20)"__ by W. Edwards Deming (https://deming.org/), who demonstrates that only by viewing your organization as a system, and considering how decisions impact the entire system over the long term, can you gain the most powerful marketplace advantages possible (see for example, Toyota Motor Company https://en.wikipedia.org/wiki/Toyota).
+
+* __"[Beyond Command and Control (2019)](https://www.amazon.com/Beyond-Command-Control-John-Seddon/dp/152723956X)"__ wherein John Seddon explains the pitfalls of the Command & Control management style, what it is, and how this style of management might be good for the military but is wholly incompatible with most of the quality practices of the most successful organizations. (He spells words in that funny British way, but don't let that stop you!) https://whatisthevanguardmethod.net/
+
+* __"[Entrepreneur to Millionaire: How to Build a Highly Profitable, Fast-Growth Company and Become Embarrassingly Rich Doing It (2021) ](https://www.amazon.com/Entrepreneur-Millionaire-Profitable-Fast-Growth-Embarrassingly/dp/1264257120)"__ Mr. Billingsley teaches you the power of knowing ***exactly*** why your company exists, and how to make the most of that knowledge in the marketplace of today.
+
+
+`r if (knitr::is_latex_output()) '-->'`
+
+

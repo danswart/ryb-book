@@ -1,0 +1,34 @@
+book_filename: "reimaginingyourbusiness"
+new_session: true
+before_chapter_script: _common.R
+delete_merged_file: true
+output: 
+  bookdown::bs4_book:
+    css: [r-colors.css, tachyons.min.css, swart.css]
+documentclass: book
+language:
+  ui:
+    chapter_name: "Chapter "
+
+# rmd_files:
+#   [
+#     "index.Rmd",
+#     "00-preface.Rmd",
+#     "01-introduction.Rmd",
+#     "02-purpose.Rmd",
+#     "03-scope-value-proposition.Rmd",
+#     "04-creating-value.Rmd",
+#     "05-exploring-listen-then-provide.Rmd",
+#     "06-framework-for-progress.Rmd",
+#     "07-implementing.Rmd",
+#     "08-understand-customer-needs-cross-refs.Rmd",
+#     "09-design-products-services-parts.Rmd",
+#     "10-deliverying-value-citations.Rmd",
+#     "11-sales-blocks.Rmd",
+#     "12-leadership-blocks.Rmd",
+#     "13-courage-as-strategy.Rmd",
+#     "14-owner-issues-blocks.Rmd",
+#     "15-finance-blocks.Rmd",
+#     "16-share.Rmd",
+#     "17-references.Rmd",
+#   ]

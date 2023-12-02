@@ -1,0 +1,92 @@
+bookdown::bs4_book:
+  Includes:
+      in_header: <link rel="stylesheet" href="https://unpkg.com/tachyons@4/css/tachyons.min.css">
+  css: [r-colors.css, tachyons.min.css, swart.css]
+  theme:
+    primary: "teal" # "#0d6efd"   # default .rmdnote = blue
+    danger:  "#dc3545"   # default .rmdcaution = red
+    success: "#198754"   # default .rmdimportant = green
+    info:    "#0dcaf0"   # default .rmdtip = cyan
+    warning: "#ffc107"   # default .rmdwarning = yellow
+    base_font:
+      google: "Libre Baskerville"
+    heading_font:
+      google:
+        family: "Frank Ruhl Libre"
+        wght: 600
+    code_font:
+      google:
+        # arguments to sass::font_google()
+        family: DM Mono
+        local: false
+
+
+
+# bookdown::gitbook:
+#   config:
+#     toc:
+#       collapse: subsection
+#       scroll_highlight: true
+#       before: null
+#       after: null
+#     toolbar:
+#       position: fixed
+#     edit : null
+#     download: null
+#     search:
+#       engine: lunr # or fuse
+#       # options to control/tune search engine behavior (for
+#       # fuse.js, refer to https://fusejs.io/api/options.html)
+#       options: null
+#     fontsettings:
+#       theme: white
+#       family: sans
+#       size: 2
+#     sharing:
+#       facebook: true
+#       github: false
+#       twitter: true
+#       linkedin: false
+#       weibo: false
+#       instapaper: false
+#       vk: false
+#       whatsapp: false
+#       all: ['facebook', 'twitter', 'linkedin', 'weibo', 'instapaper']
+#     info: true
+
+
+
+# bookdown::tufte_book2:
+#   toc: true
+#   keep_tex: true
+#   number_sections: yes
+
+# bookdown::gitbook:
+#   includes:
+#     in_header: [ga_script.html]
+#   config:
+#     toc:
+#       collapse: section
+#       before: |
+#         <li><strong><a href="./">Advanced R</a></strong></li>
+#     edit:
+#       link: https://github.com/hadley/adv-r/edit/master/%s
+#       text: "Edit"
+#     sharing: no
+#   css: adv-r.css
+# 
+# 
+# bookdown::pdf_book:
+#   includes:
+#     in_header: latex/preamble.tex
+#     before_body: latex/before_body.tex
+#     after_body: latex/after_body.tex
+#   keep_tex: true
+#   dev: "cairo_pdf"
+#   latex_engine: xelatex
+#   citation_package: natbib
+#   pandoc_args: ["--top-level-division=chapter", "--lua-filter=latex/sidebar.lua"]
+#   template: null
+#   quote_footer: ["\\hspace*{\\fill} ", ""]
+#   toc_unnumbered: false
+#   number_sections: true
