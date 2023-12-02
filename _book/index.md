@@ -33,6 +33,8 @@ csl: chicago-fullnote-bibliography.csl
   <p class="quote-description">(father of the Japanese economic miracle. See https://en.wikipedia.org/wiki/Deming_Prize)</p>
 </blockquote>
 
+THIS IS A TEST EDIT CREATED FROM THE 'EDIT THIS PAGE' LINK IN THE BOOKDOWN BOOK HOSTED ON NETLIFY
+
 This is the website for my first book ever, __[*Reimagine Your Business, A Personalized Guide to Beating Your Competition* (Swart 2023)]()__.  
 
 It is a book with remarkable qualities, above and beyond its written content.  Due to recent advances in web-based technology this book is not just a good read but is a personalized <span style="color: darkgreen; font-size: 1.25em; font-weight: 700; font-style: italic;">experience</span>.
