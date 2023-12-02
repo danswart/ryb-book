@@ -19,6 +19,8 @@ bookdown::bs4_book:
         # arguments to sass::font_google()
         family: DM Mono
         local: false
+  repo: https://github.com/danswart/ryb-book
+
 
 
 
@@ -76,17 +78,17 @@ bookdown::bs4_book:
 #   css: adv-r.css
 # 
 # 
-# bookdown::pdf_book:
-#   includes:
-#     in_header: latex/preamble.tex
-#     before_body: latex/before_body.tex
-#     after_body: latex/after_body.tex
-#   keep_tex: true
-#   dev: "cairo_pdf"
-#   latex_engine: xelatex
-#   citation_package: natbib
-#   pandoc_args: ["--top-level-division=chapter", "--lua-filter=latex/sidebar.lua"]
-#   template: null
-#   quote_footer: ["\\hspace*{\\fill} ", ""]
-#   toc_unnumbered: false
-#   number_sections: true
+bookdown::pdf_book:
+  includes:
+    in_header: latex/preamble.tex
+    before_body: latex/before_body.tex
+    after_body: latex/after_body.tex
+  keep_tex: true
+  dev: "cairo_pdf"
+  latex_engine: xelatex
+  citation_package: natbib
+  pandoc_args: ["--top-level-division=chapter", "--lua-filter=latex/sidebar.lua"]
+  template: null
+  quote_footer: ["\\hspace*{\\fill} ", ""]
+  toc_unnumbered: false
+  number_sections: true

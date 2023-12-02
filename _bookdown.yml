@@ -1,4 +1,4 @@
-book_filename: "reimaginingyourbusiness"
+book_filename: "reimagineyourbusiness"
 new_session: true
 before_chapter_script: _common.R
 delete_merged_file: true
@@ -9,6 +9,8 @@ documentclass: book
 language:
   ui:
     chapter_name: "Chapter "
+edit: github
+
 
 # rmd_files:
 #   [

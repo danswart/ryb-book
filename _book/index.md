@@ -4,8 +4,12 @@ subtitle: "*A Personalized Guide to Beating Your Competition*"
 author: "Dan Swart"
 date: "2023-12-02"
 site: bookdown::bookdown_site
+# github-repo: danswart/ryb-book
 output: 
   bookdown::bs4_book:
+    repo:
+      base: https://github.com/danswart/ryb-book
+      branch: main
     css: [r-colors.css, tachyons.min.css, swart.css]
 documentclass: book
 bibliography: [book.bib, packages.bib]
