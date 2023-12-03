@@ -47,6 +47,8 @@ I'm 'seasoned' enough that, to me, it's like magic.  I've not heard of a 'self-h
 <br>
 <br>
 
+## Disclaimers {-}
+
 ::: {.rmdwarning}
 <span style="font-size: 20px">ONLINE SECURITY CAUTION:  The online version of this book is housed on a static website that should not preserve any user input or information whatsoever.  However, security best practices advise that you should not put any personally identifiable information (PII) onto a website that cannot certify the security of the third-party servers.</span>
 
@@ -70,7 +72,7 @@ This work, as a whole, is licensed under a <a rel="license" href="https://creati
 
 The code contained in this book is simultaneously available under the [MIT license](https://opensource.org/licenses/MIT); this means that you are free to use it in your own packages, as long as you cite the source.
 
-## Other books {-}
+## Other Books {-}
 
 You may also be interested in:
 

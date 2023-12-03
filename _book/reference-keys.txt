@@ -13,7 +13,7 @@ ideas-to-actions
 awareness-of-marketplace-needs
 considerations-when-answering-the-3-questions
 exercises-1-2-and-1-3
-aspirations-to-mission
+aspirations-and-missions
 why-build-a-business
 from-personal-aspiration-to-marketplace-aspiration
 introducing-to-do-that-diagrams
@@ -21,7 +21,7 @@ simple-is-best
 to-do-that-elements-are-interdependent
 theory-and-you
 ideas-to-actions-1
-creating-value
+customers-and-value
 creating-value-in-the-marketplace
 product-driven-strategy-make-then-sell
 customer-driven-strategy-listen-then-provide

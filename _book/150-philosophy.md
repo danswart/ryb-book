@@ -462,37 +462,6 @@ This version of the book was built with R version 4.3.0 (2023-04-21) and the fol
 
 
 
-|package     |version    |source                                                         |
-|:-----------|:----------|:--------------------------------------------------------------|
-|bench       |1.1.3.9000 |Github (r-lib/bench\@8d4ab5ea8219f00cc476a4702df91d2b18f47b12) |
-|bookdown    |0.36       |CRAN (R 4.3.0)                                                 |
-|bslib       |0.6.0      |CRAN (R 4.3.0)                                                 |
-|dbplyr      |2.4.0      |CRAN (R 4.3.0)                                                 |
-|desc        |1.4.2      |CRAN (R 4.3.0)                                                 |
-|downlit     |0.4.3      |CRAN (R 4.3.0)                                                 |
-|emo         |0.0.0.9000 |Github (hadley/emo\@3f03b11491ce3d6fc5601e210927eff73bf8e350)  |
-|ggbeeswarm  |0.7.2      |CRAN (R 4.3.0)                                                 |
-|ggplot2     |3.4.4      |CRAN (R 4.3.0)                                                 |
-|jsonlite    |1.8.7      |CRAN (R 4.3.0)                                                 |
-|knitr       |1.45       |CRAN (R 4.3.0)                                                 |
-|lobstr      |1.1.2      |CRAN (R 4.3.0)                                                 |
-|memoise     |2.0.1      |CRAN (R 4.3.0)                                                 |
-|png         |0.1-8      |CRAN (R 4.3.0)                                                 |
-|profvis     |0.3.8      |CRAN (R 4.3.0)                                                 |
-|Rcpp        |1.0.11     |CRAN (R 4.3.0)                                                 |
-|rlang       |1.1.2      |CRAN (R 4.3.0)                                                 |
-|RSQLite     |2.3.3      |CRAN (R 4.3.0)                                                 |
-|scales      |1.2.1      |CRAN (R 4.3.0)                                                 |
-|sessioninfo |1.2.2      |CRAN (R 4.3.0)                                                 |
-|sloop       |1.0.1      |CRAN (R 4.3.0)                                                 |
-|testthat    |3.2.0      |CRAN (R 4.3.0)                                                 |
-|tidyr       |1.3.0      |CRAN (R 4.3.0)                                                 |
-|vctrs       |0.6.4      |CRAN (R 4.3.0)                                                 |
-|xml2        |1.3.5      |CRAN (R 4.3.0)                                                 |
-|zeallot     |0.1.0      |CRAN (R 4.3.0)                                                 |
-
-
-
 
 
 [r-help]: https://stat.ethz.ch/mailman/listinfo/r-help

@@ -1,5 +1,3 @@
-\mainmatter
-
 Arrow-like characters in Unicode:
 
     Leftwards Arrow: ← &#x2190;
@@ -33,7 +31,7 @@ BLUEVIOLET BOX Example of an **.rmdwarning** block.
 :::
 
 
-# Aspirations to Mission 
+# Aspirations and Missions 
 
 <blockquote class="my-box" style="text-align: center;">
 <p>

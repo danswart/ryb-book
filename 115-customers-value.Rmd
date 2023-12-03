@@ -31,7 +31,7 @@ BLUEVIOLET BOX Example of an **.rmdwarning** block.
 :::
 
 
-# **Creating Value** 
+# **Customers and Value** 
 
 <blockquote class="my-box" style="text-align: center;">
 <p>

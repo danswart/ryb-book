@@ -33,8 +33,6 @@ csl: chicago-fullnote-bibliography.csl
   <p class="quote-description">(father of the Japanese economic miracle. See https://en.wikipedia.org/wiki/Deming_Prize)</p>
 </blockquote>
 
-THIS IS A TEST EDIT CREATED FROM THE 'EDIT THIS PAGE' LINK IN THE BOOKDOWN BOOK HOSTED ON NETLIFY
-
 This is the website for my first book ever, __[*Reimagine Your Business, A Personalized Guide to Beating Your Competition* (Swart 2023)]()__.  
 
 It is a book with remarkable qualities, above and beyond its written content.  Due to recent advances in web-based technology this book is not just a good read but is a personalized <span style="color: darkgreen; font-size: 1.25em; font-weight: 700; font-style: italic;">experience</span>.
@@ -48,6 +46,8 @@ When (not if) readers change their minds, or circumstances change, they can revi
 I'm 'seasoned' enough that, to me, it's like magic.  I've not heard of a 'self-help' book quite like it.  If you have, please let me know.
 <br>
 <br>
+
+## Disclaimers {-}
 
 ::: {.rmdwarning}
 <span style="font-size: 20px">ONLINE SECURITY CAUTION:  The online version of this book is housed on a static website that should not preserve any user input or information whatsoever.  However, security best practices advise that you should not put any personally identifiable information (PII) onto a website that cannot certify the security of the third-party servers.</span>
@@ -72,7 +72,7 @@ This work, as a whole, is licensed under a <a rel="license" href="https://creati
 
 The code contained in this book is simultaneously available under the [MIT license](https://opensource.org/licenses/MIT); this means that you are free to use it in your own packages, as long as you cite the source.
 
-## Other books {-}
+## Other Books {-}
 
 You may also be interested in:
 

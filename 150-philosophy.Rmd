@@ -508,30 +508,30 @@ This book was written in [bookdown](http://bookdown.org/) inside [RStudio](http:
 This version of the book was built with `r R.version.string` and the following packages.
 
 ```{r, echo = FALSE, results="asis"}
-deps <- desc::desc_get_deps()$package[-1]
-
-pkgs <- sessioninfo::package_info(deps, dependencies = FALSE)
-df <- tibble(
-  package = pkgs$package,
-  version = pkgs$ondiskversion,
-  source = gsub("@", "\\\\@", pkgs$source)
-)
-knitr::kable(df, format = "markdown")
+# deps <- desc::desc_get_deps()$package[-1]
+# 
+# pkgs <- sessioninfo::package_info(deps, dependencies = FALSE)
+# df <- tibble(
+#   package = pkgs$package,
+#   version = pkgs$ondiskversion,
+#   source = gsub("@", "\\\\@", pkgs$source)
+# )
+# knitr::kable(df, format = "markdown")
 ```
 
 ```{r, include = FALSE}
-ruler <- function(width = getOption("width")) {
-  x <- seq_len(width)
-  y <- case_when(
-    x %% 10 == 0 ~ as.character((x %/% 10) %% 10),
-    x %% 5 == 0  ~ "+",
-    TRUE         ~ "-"
-  )
-  cat(y, "\n", sep = "")
-  cat(x %% 10, "\n", sep = "")
-}
-
-ruler()
+# ruler <- function(width = getOption("width")) {
+#   x <- seq_len(width)
+#   y <- case_when(
+#     x %% 10 == 0 ~ as.character((x %/% 10) %% 10),
+#     x %% 5 == 0  ~ "+",
+#     TRUE         ~ "-"
+#   )
+#   cat(y, "\n", sep = "")
+#   cat(x %% 10, "\n", sep = "")
+# }
+# 
+# ruler()
 ```
 
 [r-help]: https://stat.ethz.ch/mailman/listinfo/r-help
