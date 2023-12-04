@@ -43,7 +43,7 @@ BLUEVIOLET BOX Example of an **.rmdwarning** block.
     <span style="font-size: 24px;">&plus;</span>
     <span style="font-size: 14px">CREATE VALUE</span>
     <span style="font-size: 24px;">&plus;</span>
-    <span style="font-size: 14px;">COMPETITIVE STRATEGY </span>
+    <span style="color: royalblue; font-size: 20px;">COMPETITIVE STRATEGY </span>
     <span style="font-size: 24px;">&plus;</span>
     <span style="font-size: 14px;">MARKET TACTICS</span>
     <span style="font-size: 24px;">&plus;</span>
@@ -68,13 +68,15 @@ BLUEVIOLET BOX Example of an **.rmdwarning** block.
 
 
 
-Discussing competitive strategy is difficult for some people.  Modern media and most of academia depict the marketplace in very negative ways and people don't like to think of what they do as a 'competition.'  They don't want to be perceived  as too clever, or caniving, cutthroat, mean or worst of all...greedy.  At some level they worry that thinking in terms of competition will dehumanize themselves and their competitors.  They want to be a 'good person.'
+Discussing competitive strategy makes some people uncomfortable.  If you have this reaction to the topic I encourage you to keep reading.  It will be worth it.
 
-It's harmful to use the media and academia to evaluate the content of your character.  Everyone can build a business consistent with who they really are.  There's room for eveyone.
+Modern media and most of academia depict the marketplace in very negative ways and people don't like to think of what they do as a 'competition.'  They don't want to be perceived  as too clever, or caniving, cutthroat, mean or worst of all...greedy.  At some level they worry that thinking in terms of competition will dehumanize themselves and their competitors.  They want to be a 'good person.'
+
+It's harmful to use the news, academia, or social media to evaluate the content of your character.  Everyone can build a business consistent with who they really are.  There's room for eveyone.
 
 So, shrug off those negative perceptions and adopt a plan to create more value for customers than your competitors.  If you aren't competitive, or don't want to be competitive, you should remain an employee.
 
-Just to survive business owners MUST figure out ways to deploy resources in ways that create an advantage that is difficult to duplicate.  Will you be first, cheapest, the most premium, or just different?
+To survive business owners MUST figure out ways to deploy resources in ways that create an advantage that is difficult to duplicate.  Will you be first, cheapest, the most premium, or just different?
 
 Competitive strategy is more important than you think.  Can you name your marketplace goals, be it market leadership, innovation, customer service excellence, or cost leadership? 
 

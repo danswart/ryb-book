@@ -45,7 +45,7 @@ BLUE VIOLET BOX Example of an **.rmdwarning** block.
     <span style="font-size: 24px;">&plus;</span>
     <span style="font-size: 14px;">COMPETITIVE STRATEGY </span>
     <span style="font-size: 24px;">&plus;</span>
-    <span style="font-size: 14px;">MARKET TACTICS</span>
+    <span style="color: royalblue; font-size: 20px;">MARKET TACTICS</span>
     <span style="font-size: 24px;">&plus;</span>
     <span style="font-size: 14px;">PHILOSOPHY</span>
     <span style="font-size: 24px;">&plus;</span>

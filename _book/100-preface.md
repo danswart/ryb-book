@@ -73,6 +73,14 @@ After 40 years of helping people who run companies, this book is my attempt to p
 
 This diagram is not a statement of deductive logic.  You don't have to do these things in order.  It is a useful aid to learning and it appears as an orientation marker in each chapter.
 
+There is no pre-approved list of rules of thumb that will make your company unique and special (despite what many consultants may say).  Otherwise, I would simply list them and tell you to adopt them as fast as possible.
+
+To be an exceptional company you need to create your own rules of thumb that will make you unique.  That thought worries some people.  They believe they have to 'guess right' the first time or it will spell ruin.   In fact, rules of thumb in a successful company evolve steadily as new ideas are tried on a small scale first.  
+
+The best way I can help you do that with a book is to provide lots of ideas, examples, and concepts that will support your efforts.  Accordingly, there are a lot of words here to help you come up with just a few special words arranged 'just so.'
+
+Read through all the ideas, concepts and examples and create something special for yourself!  No one can predict when they will come upon the right idea, at the right time, to make a difference. 
+
 
 This book is about the 'non-luck' part of the equation.  It is about what you can do for yourself and your business to make your own 'luck'.
 

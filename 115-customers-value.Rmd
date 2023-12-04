@@ -71,6 +71,16 @@ BLUEVIOLET BOX Example of an **.rmdwarning** block.
 ## **Creating Value in the Marketplace**
 
 
+There is only one definition of value that matters; and that is provided solely by the consumer.
+
+If you don't adopt that as a key 'rule of thumb' the rest of this book will do you no good.  
+
+It is gospel -- mantra.
+
+You are correct.  Many consumers are not rational.  And, yes, sometimes they ARE wrong.  The marketplace will punish you severly if your business operates under those two correct, but destructive assumptions.
+
+Many extraordinary and useful innovations have been rejected by the marketplace.  People do not necessarily want a better mousetrap!
+
 Now that you know WHY you can be of value to others, you have to figure out HOW you can be of value to others.  There are two fundamentally different approaches to creating and delivering value, often referred to as "product-driven" and "customer-driven" strategies.
 
 I call product-driven strategy <span class="f3 darkgreen"> 'Make, then Sell'</span> strategy.
@@ -79,18 +89,18 @@ Customer-driven strategy I call <span class="f3 darkgreen">'Listen, then Provide
 
 Those two labels seem much more descriptive of the action to be taken for each.
 
-The predominant strategy employed since mass-production became possible is <span class="darkgreen"> 'Make, then Sell'</span>.  It is the conventional way people approach the marketplace.  They begin with a skill set, or a product idea, then try to think of clever phrases, logos, and networking schemes to convince buyers they're the solution to their problems.  It's a task of gaining attention, then persuasion. Companies seeking outside investors are commonly expected to use the <span class="darkgreen"> 'Make, then Sell' strategy</span>.  You can make money this way, but the competitive landscape is fierce and unforgiving.
+The predominant strategy employed since mass-production became possible is <span class="f4 darkgreen"> 'Make, then Sell'</span>.  It is the conventional way people approach the marketplace.  They begin with a skill set, or a product idea, then try to think of clever phrases, logos, and networking schemes to convince buyers they're the solution to their problems.  It's a task of gaining attention, then persuasion. Companies seeking outside investors are commonly expected to use the <span class="f4 darkgreen"> 'Make, then Sell'</span> strategy.  You can make money this way, but the competitive landscape is fierce and unforgiving.
 
-The <span class="darkgreen">'Listen, then Provide' strategy</span> has a built-in competitive advantage - it is unconventional.  The <span class="darkgreen">'Listen, then Provide' strategy</span> is appropriate and available to any company, but it remains the exception.  
+The <span class="f4 darkgreen">'Listen, then Provide'</span> strategy has a built-in competitive advantage - it is unconventional.  The <span class="f4 darkgreen">'Listen, then Provide'</span> strategy is appropriate and available to any company, but it remains the exception.  
 
 
-Every company in the marketplace employs one of these two strategies in one form or another.  Many companies (particularly service companies) employ the <span class="darkgreen"> 'Make, then Sell'</span> strategy but perform poorly with the 'Sell' element of the equation. They open up shop and hope that word of mouth will spontaneously occur through just the force of their technical skills or personality.  This is unfortunate for them, but fortunate for their competition!
+Every company in the marketplace employs one of these two strategies in one form or another.  Many companies (particularly service companies) employ the <span class="f4 darkgreen"> 'Make, then Sell'</span> strategy but perform poorly with the 'Sell' element of the equation. They open up shop and hope that word of mouth will spontaneously occur through just the force of their technical skills or personality.  This is unfortunate for them, but fortunate for their competition!
 
-This book emphasizes the great competitive advantages of the <span class="darkgreen">'Listen, then Provide'</span> strategy.
+This book emphasizes the great competitive advantages of the <span class="f4 darkgreen">'Listen, then Provide'</span> strategy.
 <br>
 
 
-## **Product-Driven Strategy (<span class="darkgreen">'Make, then Sell'</span>)**
+## **Product-Driven Strategy (<span class="f4 darkgreen">'Make, then Sell'</span>)**
 
 
 **Focus**
@@ -111,12 +121,12 @@ If the product does not align with what customers actually want or need, it lead
 <br>
 
 
-## **Customer-Driven Strategy (<span class="darkgreen">'Listen, then Provide'</span>)**
+## **Customer-Driven Strategy (<span class="f4 darkgreen">'Listen, then Provide'</span>)**
 
 
 **Assessing Customer Needs**
 
-A <span class="darkgreen">'Listen, then Provide'</span> strategy begins with understanding customer needs, desires, and pain points.  Market research, customer feedback, and data analysis are used to identify gaps and opportunities.  The deeper your understanding and empathy for the customer point of view, the greater your ability to provide value.
+A <span class="f4 darkgreen">'Listen, then Provide'</span> strategy begins with understanding customer needs, desires, and pain points.  Market research, customer feedback, and data analysis are used to identify gaps and opportunities.  The deeper your understanding and empathy for the customer point of view, the greater your ability to provide value.
 <br>
 
 **Pull Marketing**
@@ -130,46 +140,48 @@ This strategy is generally considered less risky because it starts with a valida
 <br>
 
 
-## **Considerations**
+## **Other Considerations**
 
 
 **Market Dynamics**
 
-The choice between these strategies will depend on the nature of the market and personality of the owner. In rapidly changing industries with emerging technologies, a product-driven approach may be necessary to produce the innovatation needed to create new markets. In more mature markets, a <span class="darkgreen">'Listen, then Provide'</span> approach is likely to be more effective.
+The choice between these strategies will depend on the nature of the market and personality of the owner. In rapidly changing industries with emerging technologies, a product-driven approach may be necessary to produce the innovatation needed to create new markets. In more mature markets, a <span class="f4 darkgreen">'Listen, then Provide'</span> approach is likely to be more effective.
 <br>
 
 
 **Customer-Centric**
 
-<span class="darkgreen">'Listen, then Provide'</span> strategies place strong emphasis on customer-centric behavior from everyone in the company.  This translates to stronger customer loyalty and long-term success.
+<span class="f4 darkgreen">'Listen, then Provide'</span> strategies place strong emphasis on customer-centric behavior from everyone in the company.  This translates to stronger customer loyalty and long-term success.
 <br>
 
 
-**Hybrid Approaches**
+## **Hybrid Approach**
 
-This is a VERY strong strategy.  It adopts a system whereby you always look into the future issues of your customers.  Buggywhip makers had strong, loyal customers...until the automobile came along.  Carburetor manufacturers year after year made better and better carburetors.  They had many happy customers.  Then came the fuel injector.  They did not include the future in their customer service plans.
+This is a VERY strong strategy.  You can anticipate future needs your customers might face as well as their current ones.  Buggywhip makers had strong, loyal customers...until the automobile came along.  Carburetor manufacturers year after year made better and better carburetors.  They had many happy customers.  Then came the fuel injector.  They did not include the future in their customer service plans and the market disappeared.
 
-For example, they may use a <span class="darkgreen">'Listen, then Provide'</span> approach to identify current needs and apply a <span class="darkgreen"> 'Make, then Sell'</span> approach to anticipate and create innovative solutions that solve customer problems of the future.  No customer ever asked for a transistor, photocopy machine, electric car, or desktop publishing software.  Suppliers looking to the future understood the potential for such items to improve the material well-being of consumers.
+A hybrid approach is a way to be ahead of the game for your customers.
 
-Ultimately, the success of either strategy depends on the ability to provide value to customers. In practice, companies often need to strike a balance between these two approaches, especially in competitive and evolving markets. Continuous feedback loops with customers and a willingness to change are crucial for long-term success.
+For example, you may use a <span class="f4 darkgreen">'Listen, then Provide'</span> approach to identify current needs and apply a <span class="f4 darkgreen"> 'Make, then Sell'</span> approach to anticipate and create innovative solutions that solve customer problems of the future.  No customer ever asked for a transistor, photocopy machine, electric car, or desktop publishing software.  Suppliers looking to the future understood the potential for such items to improve the material well-being of consumers.
+
+Ultimately, the success of either strategy depends on your ability to provide value to customers. In practice, companies often need to strike a balance between these two approaches, especially in competitive and evolving markets. Continuous feedback loops with customers and a willingness to change are crucial for long-term success.
 
 
 ## The Small Business
 
 
-Small business owners, unlike startups seeking external investors, often face different considerations when choosing between <span class="darkgreen"> 'Make, then Sell'</span> and <span class="darkgreen">'Listen, then Provide'</span> strategies. Here are some key factors small business owners should consider:
+Small business owners, unlike startups seeking external investors, often face different considerations when choosing between <span class="f4 darkgreen"> 'Make, then Sell'</span> and <span class="f4 darkgreen">'Listen, then Provide'</span> strategies. Here are some key factors small business owners should consider:
 <br>
 
 
 **Existing Customer Base**
 
-Small companies may already have an established customer base. Understanding the preferences, needs, and desires of these existing customers is crucial. A <span class="darkgreen">'Listen, then Provide'</span> approach creates loyal customers and the ability to expand (or discontinue) offerings based on their input.
+Small companies may already have an established customer base. Understanding the preferences, needs, and desires of these existing customers is crucial. A <span class="f4 darkgreen">'Listen, then Provide'</span> approach creates loyal customers and the ability to expand (or discontinue) offerings based on their input.
 <br>
 
 
 **Resource Constraints**
 
-Small companies typically have limited resources, including financial resources and manpower. They must consider the resources needed for product development, marketing, and operations for a successful product-driven approach. A <span class="darkgreen">'Listen, then Provide'</span> approach is more cost-effective initially, and in the long run.
+Small companies typically have limited resources, including financial resources and manpower. They must consider the resources needed for product development, marketing, and operations for a successful product-driven approach. A <span class="f4 darkgreen">'Listen, then Provide'</span> approach is more cost-effective initially, and in the long run.
 <br>
 
 
@@ -179,7 +191,7 @@ Strong customer relationships are particularly important for small companies who
 <br>
 
 
-**Alignment with Values**
+**Consistency with Values**
 
 Customer-driven strategies often align better with small business values and aspirations.  Customers often appreciate companies that genuinely care about their needs and preferences.
 <br>
@@ -187,11 +199,11 @@ Customer-driven strategies often align better with small business values and asp
 
 **Financial Stability**
 
-Honestly assess the financial stability of your business. If your business is financially stable, you may have more flexibility to invest in product development. However, if resources are limited, a <span class="darkgreen">'Listen, then Provide'</span> approach may be more practical.
+Honestly assess the financial stability of your business. If your business is financially stable, you may have more flexibility to invest in product development. However, if resources are limited, a <span class="f4 darkgreen">'Listen, then Provide'</span> approach may be more practical.
 <br>
 
 
-Small business owners should carefully weigh these factors, taking into account their unique circumstances and goals. Flexibility and adaptability are also key as the business landscape evolves. It's often beneficial to start with a <span class="darkgreen">'Listen, then Provide'</span> approach to establish a strong customer base and then consider product-driven innovations as the business grows.
+Small business owners should carefully weigh these factors, taking into account their unique circumstances and goals. Flexibility and adaptability are also key as the business landscape evolves. It's often beneficial to start with a <span class="f4 darkgreen">'Listen, then Provide'</span> approach to establish a strong customer base and then consider product-driven innovations as the business grows.
 
 
 ## Choosing Your Preferred Strategy
@@ -213,7 +225,7 @@ Identify a niche or market segment that aligns with your authentic self. Focus o
 
 **Build Relationships**
 
-The <span class="darkgreen">'Listen, then Provide'</span> strategy relies on very strong customer relationships. Can you be sincere and build strong connections with clients, colleagues, and mentors? Authentic relationships will lead to more collaboration and opportunities to contribute value.
+The <span class="f4 darkgreen">'Listen, then Provide'</span> strategy relies on very strong customer relationships. Can you be sincere and build strong connections with clients, colleagues, and mentors? Authentic relationships will lead to more collaboration and opportunities to contribute value.
 <br>
 
 
@@ -270,10 +282,9 @@ Build a support network of friends, family, and peers who understand and appreci
 <br>
 
 Staying true to yourself in business will lead to a more fulfilling and successful entrepreneurial journey.
-<br>
+
 
 ::: {.rmdtip}
-
-## **The remainder of the book assumes you have chosen the <span class="darkgreen">'Listen, then Provide'</span> - Customer-Driven strategy**
+**The remainder of the book assumes you have chosen the <span class="f4 darkgreen">'Listen, then Provide'</span> - Customer-Driven strategy**
 
 :::

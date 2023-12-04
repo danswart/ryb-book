@@ -2,7 +2,7 @@
 title: "*Reimagine Your Business*"
 subtitle: "*A Personalized Guide to Beating Your Competition*"
 author: "Dan Swart"
-date: "2023-12-02"
+date: "2023-12-03"
 site: bookdown::bookdown_site
 # github-repo: danswart/ryb-book
 output: 

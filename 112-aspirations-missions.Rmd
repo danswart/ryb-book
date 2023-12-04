@@ -66,14 +66,6 @@ BLUEVIOLET BOX Example of an **.rmdwarning** block.
 </blockquote>
 
 
-There is no pre-approved list of rules of thumb that will make your company unique and special (despite what many consultants may say).  Otherwise, I would simply list them and tell you to adopt them as fast as possible.
-
-To be an exceptional company you need to create your own rules of thumb that will make you unique.  That thought worries some owners.  They believe that have to 'guess right' the first time or it will spell ruin.   In fact, rules of thumb in a successful company evolve steadily as new ideas are tried on a small scale first.  
-
-The best way I can help you do that with a book is to provide lots of ideas, examples, and concepts that will support your efforts.  Accordingly, there are a lot of words here to help you come up with just a few special words arranged 'just so.'
-
-Read through all the ideas, concepts and examples and create something special for yourself!
-
 
 ## Why Build a Business
 
@@ -103,10 +95,12 @@ These are all ***PERSONAL*** aspirations and may be important as motivation for 
 
 <span style="color: maroon;">***BUY LOW &#x2192; SELL HIGH &#x2192; MAKE A BILLION DOLLARS***</span>
 
+How many times a week to we hear that exhortation in one form or another?!
+
 
 ## From Personal Aspiration to Marketplace Aspiration
 
-To be useful in business personal aspirations must be transformed into marketplace aspirations.  Here are examples using words to describe the transformation...
+To be useful in business personal aspirations must be transformed into marketplace aspirations.  Here are some examples illustrating the transformation by using words...
 
 <span style="color: maroon;">Example:  ***"I want to be famous for my great design...to do that my company must...design and produce super high quality, stylish and distinctive apparel...to do that my company must...become one of the top fashion houses."***</span> 
 
@@ -114,7 +108,7 @@ To be useful in business personal aspirations must be transformed into marketpla
 <span style="color: maroon;">Example:  ***"I want to buy the real estate my company sits on for cash in 5 years...to do that my company must...increase the Average Transaction Value (ATV) to $500.or more...to do that my company must... become the finest veterinary hospital in the eyes of pet owners in the metropolitan area."***</span> 
 
 
-The last statement in the chain is your marketplace aspiration.  When you transform your personal aspirations into marketplace aspirations you clarify your marketplace ojective..
+The last statement in the chain is your marketplace aspiration.  When you transform your personal aspirations into marketplace aspirations you clarify how you are going to use the marketplace to help you get what you want.
 
 Marketplace aspirations become Mission Statements which are rules of thumb to provide direction and motivation for the company and its employees, guiding their efforts toward a worthy challenge.
 
@@ -127,7 +121,7 @@ Observations from the Peanut Gallery...
 
 The more 'noble' the mission sounds the more committed people seem to become.  Strangely, people will follow a 'noble cause' even when it is illogical, impossible, immoral, or irresponsible!
 
-<span style="color: maroon;">Example:  ***"I want to 'save' the planet...to do that I must...fly all over the planet in a polluting jet plane...force others to adopt an unproven technology and risk the economic lives of hundreds of millions of people...to do that I must...create a worldwide governmental movement for 'change'."***</span> 
+<span style="color: maroon;">Example:  ***"I want to 'save' the planet...to do that I must...fly all over the planet in a polluting jet plane...force others to adopt an unproven technology and risk the economic lives of hundreds of millions of people...to do that I must...create a worldwide movement for 'change'."***</span> 
 :::
 
 <br>
@@ -176,7 +170,7 @@ If you haven't used a word in your family or casual conversations in the last mo
 ::: {.rmdwarning}
 Esoteric statements made of corporate 'newspeak' are incomprehensible and useless as a guide for action.  They make me want to 'circle back', 'parachute in' and then 'lean in' so I become 'passionate' about 'unpacking' more 'bandwidth' for the 'stakeholders' who have 'pinged' me about 'pivoting' during my 'deep dive' as a 'change agent' with a 'holistic approach' that gets me to 'think outside the box' and 'push back' about the 'pain points' I feel are not 'robust' or 'actionable' 'outcomes'!
 
-Instead, I will visit your business, observe the work in action and meet with you next week on Friday at 2 pm to discuss my observations.  We can meet by phone, live-stream, or in person to discuss what might be done next.  I will then call you to confirm date, time and your choice of venue.
+Instead, I will visit your business, observe the work in action and meet with you next week on Friday at 2 pm to discuss my observations.  We can meet by phone, live-stream, or in person to discuss what might be done next.  I will call or write to confirm date, time and your choice of venue.
 
 :::
 

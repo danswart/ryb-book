@@ -76,7 +76,7 @@ BLUEVIOLET BOX Example of an **.rmdwarning** block.
 
 
 
-## Awareness of Motivations
+## Awareness -- Motivations
 
 
 That's right; I'm going to question your motivations!  Postpone your indignation for just a few moments to give us enough time to clarify your WHY.  It will release the power of belief into your efforts.
@@ -116,10 +116,11 @@ Ideas take form when you commit them to writing.  Write your answers to the foll
 
 :::
 
+<br>
 
 ## Awareness of Marketplace Needs
 
-You're still reading, so apparently after some soul-searching you've concluded that you're the best person to do the job.  But, does anyone in the marketplace share your vision of what is needed?
+You're still reading, so apparently after some soul-searching you've concluded that you're the best person (maybe the only person) to do the job.  But, does anyone in the marketplace share your vision of what is needed?
 
 Does your local (regional, national, or global) market *really* need another...<br>
 
@@ -152,9 +153,9 @@ Does your local (regional, national, or global) market *really* need another...<
 - Marketing firm....?
 
 
-Kent Billingsley (author of the excellent book  _Entrepreneur to Millionaire_ (available here) asks you to begin with the marketplace and to hold your new idea off for a moment.  First, identify an unmet need in the marketplace. Only then, specify how your new idea will address it.  remember, even if you don't personally have the skill, expertise or technical know-how that is needed you can always hire or partner with others who do.
+Kent Billingsley (author of the excellent book  _Entrepreneur to Millionaire_ (available here) asks you put your great idea off to the side for a moment and examine the marketplace.  Can you identify an unmet need in the marketplace?  If so, then specify how your new idea will address it.  Even if you don't personally have the skill, expertise or technical know-how that is needed you can always hire or partner with others who do.
 
-Most people approach it the other way round. They acquire a skill, degree or certification and an idea.  They jump in and hope the marketplace will reward them for working so hard in the past and taking the leap to open a company. These are often the companies that struggle the most. 
+Most people approach it the opposite way.  They acquire a skill, a degree or certification and get an idea.  They jump in and hope the marketplace will reward them for working so hard in the past and taking the leap to open a company. These are often the companies that struggle the most. 
 
 Mr. Billingsley devised a powerful set of 3 questions to clarify **why your company even exists.**<br>
 
@@ -173,18 +174,27 @@ Finally, the **THIRD** question is about **YOU** and **YOUR solution**, but you 
 You might be shocked to learn that many established companies struggle to answer these three questions. They may be surviving and might even be doing well right now, but only because their competitors are likewise unable to supply the answers.
 
 
+Example:
 
-Let's work through an example.
+- **"What marketplace problem are you offering to solve?"**
 
+    High-end home builders in the area complain they can't find reliable framing contractors with high construction standards and professional project management skills.  They are routinely late on delivery and overbudget.  These factors combine with rising interest rates and material costs to seriously erode profitablilty.
+
+
+- **"Why hasn't this problem been solved yet?"**
+
+     Contract work is traditionally awarded on the basis of price alone.  Contractors chronically underbid jobs then cannot deliver without cutting corners.  They deliver poor quality, hop from job to job, and are financially fragile.  Rework from poor quality eviscerates their margins.  Paying crews under the table for poor quality creates further instability.
+
+
+- **"What is your UNIQUE solution?"**
+
+    Pervasive poor quality and poor management creates an opportunity to disrupt the high-end home building market.  Constantly improving quality of methods, materials, and workmanship will increase profits for builders and contractors alike.  Word spreads, you know.  WIN-WIN.
 
 <br>
-<br>
-<br>
-<br>
 
-This method provides a stringent test on your intuition and how much market research you do before opening your business.  When large sums of capital are at risk, direct measurements of how consumer's will react to the product or service are often collected.  Even then, no amount of 'research' can guarantee success.
+The three-questions method provides a stringent test of your intuition and how much market research you do before opening your business.  When large sums of capital are at risk, direct measurements of how consumer's will react to the product or service are often collected.  Even then, no amount of 'research' can guarantee success.
 
-Companies with insufficient effort on this step may have to act on supposition, superstition, or faith. They usually find themselves using a Product-Driven Strategy (<span class="darkgreen">'Make, then Sell'</span>) whether they want to or not. 
+Companies with insufficient effort on this step may have to act on supposition, superstition, or faith. They usually find themselves using a Product-Driven Strategy (<span class="darkgreen">'Make, then Sell'</span>) whether it's best or not. 
 
 On the other hand, astonishingly, in 1975 advertising executive Gary Dahl sold over 1 million 'Pet Rocks' for $4 each and became a millionaire!  (https://en.wikipedia.org/wiki/Pet_Rock)
 
@@ -195,19 +205,19 @@ On the other hand, astonishingly, in 1975 advertising executive Gary Dahl sold o
 
 - Competitive Landscape
 
-Assess the competition in your industry or niche. Are there gaps in the market that you can fill with innovative products, or is it saturated with similar offerings? Understanding the competitive landscape will also guide your choice of strategy later.
+Assess the competition in your industry or niche. Are there gaps in the market that you can fill with innovative products, or is it saturated with similar offerings? Understanding the competitive landscape will guide your choice of strategy later.
 
 - Market Research
 
-Conduct thorough market research to identify market trends, perceived customer preferences, and unmet needs. Small business owners usually rely on cost-effective methods such as small surveys, interviews, and online research to help gather this information.
+Conduct market research to identify market trends, perceived customer preferences, and unmet needs.  You need not hire expensive marketing firms to do this.  Small business owners usually have a responsive customer base that can provide targeted feedback to help gather this information.
 
 - Speed to Market
 
-Consider how quickly you need to bring your product or service to market. If there's a time-sensitive opportunity, a product-driven approach may be necessary. 
+Consider how quickly you need to bring your product or service to market.  If there's a time-sensitive opportunity, a product-driven approach may be required. 
 
 - Risk Tolerance
 
-Assess honestly your risk tolerance as a business owner. Product-driven approaches often involve higher risks because they require substantial investments in product development before the need is known. A <span class="darkgreen">'Listen, then Provide'</span> approach may offer a safer entry into the market.
+Honestly assess your risk tolerance as a business owner. Product-driven approaches often involve higher risks because they require substantial investments in product development before the need is known. A <span class="royalblue">'Listen, then Provide'</span> approach may offer a safer entry into the market.
 
 - Business Expertise
 
