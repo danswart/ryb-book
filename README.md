@@ -1,6 +1,6 @@
 Welcome! 
 
-This is a a draft version of my first book ***Reimagine Your Business:  A Personalized Guidebook to Beat Your Competition***, created with R Markdown and **bookdown** (https://github.com/rstudio/bookdown). 
+This is a a draft version of my first book ***Reimagine Your Business:  A Personalized Guide to Beating Your Competition***, created with R Markdown and **bookdown** (https://github.com/rstudio/bookdown). 
 
 It is an early draft version and not ready yet for public input. 
 
