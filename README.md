@@ -1,12 +1,10 @@
 Welcome! 
 
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). 
+This is a a draft version of my first book ***Reimagine Your Business:  A Personalized Guidebook to Beat Your Competition***, created with R Markdown and **bookdown** (https://github.com/rstudio/bookdown). 
 
-This template provides a skeleton file structure that you can edit to create your book. 
+It is an early draft version and not ready yet for public input. 
 
-The contents inside the .Rmd files provide some pointers to help you get started, but feel free to also delete the content in each file and start fresh.
-
-Additional resources:
+Additional creative resources for R users:
 
 The **bookdown** book: https://bookdown.org/yihui/bookdown/
 
