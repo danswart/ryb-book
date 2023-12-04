@@ -67,28 +67,36 @@ BLUE VIOLET BOX Example of an **.rmdwarning** block.
 </blockquote>
 
 
-Market tactics are the methods we use to execute our Competitive Strategy.  Typical tactics include...
+Strategy is abstract.  It represents a result that cannot be controlled directly.  It outlines the long-term direction and objectives of the business.  Tactics are about the here and now - the specific methods and actions taken to achieve the strategic goals.  They are the operational elements that bring a marketing strategy to life, translating high-level plans into operational tasks.
 
-- Quality levels
-- Pricing decisions
-- Cost structures
-- Service levels
-- Consumer sentiment
-- Production constraints
-- Customer emotions
-<br><br>
+Tactics are inherently detail-oriented and focus on immediate or near-term actions that contribute to larger strategic objectives. For example, if a company's strategy is to become the market leader in a specific sector, its tactics might include aggressive marketing campaigns, competitive pricing strategies, or partnerships with key players in the industry. These tactical moves are designed to build market share, enhance brand recognition, or create customer loyalty - all of which serve the broader strategic goal of market leadership.
+
+Effective marketing tactics are flexibile and adaptable. Unlike strategy, which is more stable and long-term, tactics can and should be adjusted frequently based on market feedback and changing conditions.  This form of agility allows you to respond quickly to new opportunities, competitive pressures, or shifts in consumer preference. For instance, in response to a competitor's product launch, a company might tactically ramp up promotional activities or introduce product enhancements to maintain its competitive edge.
+
+These is no end to the theoretical analysis of market strategy and tactics.  You can dig as deep as you like.  The goal of this book is to create action, as well as thought.  So, let's look at things to do.
 
 
-All of these factors, and many more, are potential points you can use to outperform your competitors and give you a competitive advantage.  You can achieve a strong competitive advantage with a unique or creative combination of several factors.  Sometimes an innovation in any one of them can completely disrupt the market.
+::: {.rmdwarning}
 
-One thing we know for sure is conventional thinking in this area will not bring you what you need or want.
+Here's the Thing...
 
-Before we start manipulating the various tactics willy nilly, we must be clear on how we intend to create value. need to establish several other strategies.
-- 
-- 
+<span class="f4 red">NOBODY</span> knows in advance what exact combination of tactics will give you the competitive advantage you need.  <span class="f4 red">NOBODY.</span>
+
+The 'solution' that worked for one organization may not work at all for you.  Every company is different in important ways; even within the same industry.  If you weren't different in important ways you could never gain an advantage in the first place.
+
+Solutions come from a constant process of discovery.
+
+Sometimes tactics that seem obvious will be dead ends and sometimes ideas that sound crazy at first work perfectly.  Ideas can be 'Simple, obvious, and WRONG!'  That's why ideas that sound like solutions are so seductive.
+
+The best combinations of tactics EMERGE if you are actively engaged in the discovery process.
+
+Prepare yourself now.  There are NO RECIPES except those you discover yourself.  Emergence can be a messy, frustrating process, but it's how real-world advantage comes about.
+
+Companies struggle and fail when management loses the enthusiasm and patience for discovery.
+:::
 
 
-Dr. W. Edward Deming cautioned repeatedly not to establish goals without including a method to achieve the goal.  Market Tactics answers the all-important question: "By what method?"
+Dr. Deming cautioned repeatedly not to establish goals without including a method to achieve them.  Market Tactics answers the all-important question: "By what method?"
 
 <span style="color: red;">Example:</span> Walmart provides goods at lower prices than its competitors.
 
@@ -99,27 +107,29 @@ To-Do-That diagrams are perfect for answering the 'by what method?' question.
 
 
 
+Typical tactics include...
+
+- Quality levels
+- Pricing decisions
+- Cost structures
+- Service levels
+- Consumer sentiment
+- Production constraints
+- Customer emotions
+- Employee engagement
+<br><br>
 
 
-## 'How-To' Gain and Hold the Advantage
+These factors, and many more, are potential ways to outperform your competitors in the eyes of customers.  A strong competitive advantage does not just 'happen.'  It comes from purposeful engagment with your materials, methods, equipment, customers, employees and suppliers to find unique or creative combinations that make customers say 'WOW!'  It is a process of discovery and sometimes an innovation in any one of them can completely disrupt the market in your favor.
 
-Marketing tactics play a critical role in strategic management, acting as the concrete actions or 'how-to' steps necessary to realize the overarching strategy of a company.  While strategy outlines the long-term direction and objectives of the business, tactics are about the here and now - the specific methods and actions taken to achieve these strategic goals.  They are the operational elements that bring a marketing strategy to life, translating high-level plans into operational tasks.
+One thing we know for certain is conventional thinking will NOT bring you what you need or want.  'WOW!' has never come from conventional thinking.
 
-Tactics are inherently detail-oriented and short-term in nature, focusing on immediate or near-term actions that contribute to larger strategic objectives. For example, if a company's strategy is to become the market leader in a specific sector, its tactics might include aggressive marketing campaigns, competitive pricing strategies, or partnerships with key players in the industry. These tactical moves are designed to build market share, enhance brand recognition, and create customer loyalty - all of which serve the broader strategic goal of market leadership.
 
-One of the main characteristics of effective marketing tactics is their flexibility and adaptability. Unlike strategy, which is more stable and long-term, tactics can and should be adjusted frequently based on market feedback and changing conditions. This agility allows businesses to respond quickly to new opportunities, competitive threats, or shifts in consumer preferences. For instance, in response to a competitor's product launch, a company might tactically ramp up promotional activities or introduce product enhancements to maintain its competitive edge.
 
-Effective tactical execution requires close review to assess the effectiveness in realizing the company's strategy.  The system of delivering customer value implements the tactics and management helps to ensure that all actions contribute cohesively towards the same end goal. This alignment is critical because misaligned tactics can lead to wasted resources, market confusion, and missed opportunities. 
+## 'How-To' Gain and Hold Advantages
 
-It involves continuous communication and coordination across various departments within the organization, ensuring that everyone is allowed to and does work towards the same strategic objectives and that tactical decisions are made within the context of the larger strategic plan.
-
-In sum, marketing tactics are the tools and techniques used to execute a marketing strategy successfully. They represent the practical steps taken every day to move the company closer to its strategic goals. 
-
-While strategy provides the direction and sets the destination, tactics are about the journey - the specific routes, maneuvers, and adjustments made along the way to reach that destination. 
-
-The art of business management lies not only in crafting a compelling strategy but also in deploying the right tactics to bring that strategy to fruition, ensuring that the business navigates successfully through the complex and ever-changing market landscape.
 
 Here is an example:
 
 
-
+It involves continuous communication and coordination across various departments within the organization, ensuring that everyone is allowed to and does work towards the same strategic objectives and that tactical decisions are made within the context of the larger strategic plan.
