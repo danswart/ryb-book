@@ -136,7 +136,7 @@
 <p>Specify your book’s source repository on GitHub as the <code>repo</code> in the <code>_output.yml</code> file, which allows users to view each chapter’s source file or suggest an edit. Read more about the features of this output format here:</p>
 <p><a href="https://pkgs.rstudio.com/bookdown/reference/bs4_book.html" class="uri">https://pkgs.rstudio.com/bookdown/reference/bs4_book.html</a></p>
 <p>Or use:</p>
-<div class="sourceCode" id="cb33"><pre class="downlit sourceCode r">
+<div class="sourceCode" id="cb28"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="op">?</span><span class="fu">bookdown</span><span class="fu">::</span><span class="va"><a href="https://pkgs.rstudio.com/bookdown/reference/bs4_book.html">bs4_book</a></span></span></code></pre></div>
 
 </div>
@@ -176,34 +176,6 @@
   </div>
 
 </div></div>
-</footer><!-- dynamically load mathjax for compatibility with self-contained --><script>
-  (function () {
-    var script = document.createElement("script");
-    script.type = "text/javascript";
-    var src = "true";
-    if (src === "" || src === "true") src = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/latest.js?config=TeX-MML-AM_CHTML";
-    if (location.protocol !== "file:")
-      if (/^https?:/.test(src))
-        src = src.replace(/^https?:/, '');
-    script.src = src;
-    document.getElementsByTagName("head")[0].appendChild(script);
-  })();
-</script><script type="text/x-mathjax-config">const popovers = document.querySelectorAll('a.footnote-ref[data-toggle="popover"]');
-for (let popover of popovers) {
-  const div = document.createElement('div');
-  div.setAttribute('style', 'position: absolute; top: 0, left:0; width:0, height:0, overflow: hidden; visibility: hidden;');
-  div.innerHTML = popover.getAttribute('data-content');
-
-  var has_math = div.querySelector("span.math");
-  if (has_math) {
-    document.body.appendChild(div);
-    MathJax.Hub.Queue(["Typeset", MathJax.Hub, div]);
-    MathJax.Hub.Queue(function() {
-      popover.setAttribute('data-content', div.innerHTML);
-      document.body.removeChild(div);
-    })
-  }
-}
-</script>
+</footer>
 </body>
 </html>
