@@ -1,6 +1,6 @@
 --- 
 title: "*Reimagine Your Business*"
-subtitle: "*A Personalized Guide to Beating Your Competition*"
+subtitle: "*A Personalized Guide to Becoming a Winner at Business*"
 author: "Dan Swart"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -33,32 +33,32 @@ csl: chicago-fullnote-bibliography.csl
   <p class="quote-description">(father of the Japanese economic miracle. See https://en.wikipedia.org/wiki/Deming_Prize)</p>
 </blockquote>
 
-This is the website for my first book ever, __[*Reimagine Your Business, A Personalized Guide to Beating Your Competition* (Swart 2023)]()__.  
+This is the website for my first book, __[*Reimagine Your Business, A Personalized Guide to Beating Your Competition* (Swart 2023)]()__.  
 
-It is a book with remarkable qualities, above and beyond its written content.  Due to recent advances in web-based technology this book is not just a good read but is a personalized <span style="color: darkgreen; font-size: 1.25em; font-weight: 700; font-style: italic;">experience</span>.
+It is a book with remarkable qualities, above and beyond its' written content.  Due to recent advances in web-based technology this book is not just a good read but is a guide to your personalized <span style="color: darkgreen; font-size: 1.25em; font-weight: 700; font-style: italic;">experience</span>.
 
-Beyond the 'learning' there is the 'doing.'  Readers can commit their thoughts to 'writing' by composing their reimagined business ideas on-screen.  No data is retained anywhere so readers can save them to a pdf file.  Or, they can use the old fashioned way of actual handwriting.  
+Beyond the 'learning' there is the 'doing.'  Readers can commit their thoughts to writing by composing their reimagined business ideas on-screen.  No data is retained anywhere so readers can save them to a pdf file.  Or, they can use the old fashioned way of actual handwriting.  
 
 Interactive graphics invite readers to drop in their own company numbers and see how the ideas might (hypothetically) affect their company.  It's a great way to 'test' an idea on your business before you commit to a change.  Again, no data is retained anywhere so you can keep the results of those 'tests' by creating a pdf file for future use in reimagining your company.
 
 When (not if) readers change their minds, or circumstances change, they can revisit a section of the book and complete the exercise again and preserve their revised work.  There is no limit to the number of iterations you can perform.  It is a great example of Deming's 'Plan-Do-Study-Act' improvement cycle.
 
-I'm 'seasoned' enough that, to me, it's like magic.  I've not heard of a 'self-help' book quite like it.  If you have, please let me know.
+I'm seasoned enough that, to me, it's like magic.  I've not heard of a 'self-help' book quite like it.  If you have, please let me know.
 <br>
 <br>
 
 ## Disclaimers {-}
 
 ::: {.rmdwarning}
-<span style="font-size: 20px">ONLINE SECURITY CAUTION:  The online version of this book is housed on a static website that should not preserve any user input or information whatsoever.  However, security best practices advise that you should not put any personally identifiable information (PII) onto a website that cannot certify the security of the third-party servers.</span>
+<span style="font-size: 20px">ONLINE SECURITY CAUTION:  The online version of this book is housed on a static website that will not preserve any user input or information whatsoever.  However, security best practices advise that you should not put any personally identifiable information (PII) onto a website that cannot certify the security of the third-party servers.</span>
 
 <span style="font-size: 20px">Accordingly, I designed the interactive elements of the book so that no PII input is required for you to derive the full benefits from them.  They are meant to be interesting and informative.  Use your real thoughts and data, just be mindful that it should not contain any PII.</span>  
 
-<span style="font-size: 20px">If you have any security concerns whatsoever please complete the exercises outside of the interactive input elements.  Most illustrators and calculators included accept user input but contain default values that illustrate the concepts without user input.</span>  
+<span style="font-size: 20px">If you have any security concerns whatsoever please complete the exercises outside of the interactive input elements.  Most illustrators and calculators included here accept user input but contain default values that illustrate the concepts without user input.</span>  
 
 <span style="font-size: 20px">NO WARRANTIES OR GUARANTEES OF DATA SECURITY ARE EXPRESSED OR IMPLIED.  (for more information about PII, see here: https://csrc.nist.gov/glossary/term/PII)</span>
 
-<span style="font-size: 20px">NUMERICAL ACCURACY DISCLAIMER:  Every illustrator and calculator provided produces information that is hypothetical.  Every effort has been made to verify numerical accuracy at the time of publication.  However, they are not a substitute for competent professional assistance.  Seek professional consultation before relying on them in your business.</span>  
+<span style="font-size: 20px">NUMERICAL ACCURACY DISCLAIMER:  Every illustrator and calculator provided produces information that is hypothetical.  I have made every effort to verify numerical accuracy at the time of publication.  However, they are not a substitute for competent professional assistance.  Seek professional consultation before relying on them in your business.</span>  
 
 <span style="font-size: 20px">NO WARRANTIES OR GUARANTEES OF NUMERICAL ACCURACY ARE GIVEN OR IMPLIED.</span>
 :::

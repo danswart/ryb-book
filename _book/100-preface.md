@@ -42,7 +42,7 @@ BLUEVIOLET BOX Example of an **.rmdwarning** block.
 </blockquote>
 
 
-Welcome to the first edition of __[*Reimagine Your Business, A Personalized Guide to Beating Your Competition* (Swart 2023)]()__.. 
+Welcome to the first edition of __[*Reimagine Your Business, A Personalized Guide to Becoming a Winner in Business* (Swart 2023)]()__.. 
 
 After 40 years of helping people who run companies, this book is my attempt to pass on what I've learned so you can know at least one way to make your business ***exceptional,*** and reap the rewards that come with that.  There's more than one way to make money in this world, and all of them require some measure of luck to succeed.  
 
@@ -79,19 +79,18 @@ To be an exceptional company you need to create your own rules of thumb that wil
 
 The best way I can help you do that with a book is to provide lots of ideas, examples, and concepts that will support your efforts.  Accordingly, there are a lot of words here to help you come up with just a few special words arranged 'just so.'
 
-Read through all the ideas, concepts and examples and create something special for yourself!  No one can predict when they will come upon the right idea, at the right time, to make a difference. 
+Read through all the ideas, concepts and examples and create something remarkable for yourself!  No one can predict when they will come upon the right idea at the right time to make a difference.  One can predict, though, that if you don't engage in the process of discovery what you will discover is...absolutely nothing. 
 
+This book is about the 'non-luck' part of the equation and how to reverse it.  It is about what you can do for yourself and your business to make your own brand of 'luck'.
 
-This book is about the 'non-luck' part of the equation.  It is about what you can do for yourself and your business to make your own 'luck'.
-
-Taking your company to the next level requires reimagining your company as ever more effective at delivering value (from your customer's point of view).  Management is too often persuaded to focus solely on what their employees are doing, with scant attention to the rules of thumb that make up the system the world encounters when doing business with them.
+Taking your company to the next level requires reimagining your company as ever more effective at delivering value from your customer's point of view.  Management is too often persuaded to focus solely on what their employees are doing, with scant attention to the rules of thumb that make up the system the world encounters when doing business with them.
 
 
 ## The Power of Rules of Thumb
 
 A rule of thumb is a practical guideline used to make approximate judgments or decisions. It's a rough, often simple principle that is not intended to be precise but provides a quick and easy way to approach a problem or situation.
 
-Examples: "A good rule of thumb is to save 10% of your income for retirement." or "As a rule of thumb, add 15 minutes to your travel time to account for traffic."
+Examples: "A good rule of thumb is to save 10 percent of your income for retirement." or "As a rule of thumb, add 15 minutes to your travel time to account for traffic."
 
 People crave rules of thumb.  They are one way we mentally and emotionally manage the complexity of running a business.  They are powerful things.  The following simple rule of thumb helps power a company with revenues of about $700 million (US).  (When you see an arrow, say the word 'make' in your head)
 
@@ -102,37 +101,40 @@ People crave rules of thumb.  They are one way we mentally and emotionally manag
 </div>
 
 
-Breathing life into that rule of thumb was a significant challenge. It required determination and boldness to translate it into 'the way we do business here'.
+Breathing life into that rule of thumb was a significant challenge. It required determination, courage and boldness to translate it into 'the way we do business here'.
 
 Some owners do this almost by 'instinct.'  They seem to have a natural knack for it and develop rules of thumb for themselves that really set them apart.  The rest of us (hopefully!) learn by trial and error.
 
 This book is here to help you create rules of thumb that are specific to you; that can take you and your company to the next level.
 
-Companies with inadequate or incompatable rules of thumb are those most likely to struggle or fail.  This observation was a strong motivation for me to create this book.
+Companies with inadequate or incompatible rules of thumb are those most likely to struggle or fail.  This observation was a strong motivation for me to create this book.
 
 Good rules of thumb are like ingredients in a recipe.  It's up to you as the 'chef' to combine them in appropriate and creative ways.  A great chef knows the characteristics of each ingredient and how the ingredients interact with each other under varying conditions.  Expert chefs don't need recipes.  They find joy in experimenting with ingredients and combinations.  The marketplace often rewards creative courage like that.  
 
+## One Particular Way
 
-Although I discuss several approaches, the book is really about one particular way to maximize your opportunities in business.  A combination of ideas that you can incorporate immeddiately into rules of thumb to make your business unique.
+Although I discuss several approaches, the book is really about one particular way to maximize your opportunities in business.  It is a combination of ideas that you can incorporate immediately into rules of thumb to make your business unique.
 
-Being VERY special is one of the best ways for any company to succeed.  <span style="color: green; font-size: 18px;"><b>However, most owners do not realize just how special you have to be to beat the competition.<b></span>  
+Being VERY special is one of the best ways for any company to succeed.  <span style="color: green; font-size: 18px;"><b>However, most owners do not realize just how special they have to be to beat the competition.<b></span>  
 
-<span style="color: royalblue; font-size: 18px;"><b><i>And, that's where the opportunities lie!<b><i></span>
+<span style="color: royalblue; font-size: 18px;"><b><i>And, that is where the real opportunities for you exist!<b><i></span>
 
 
-Hopefully, the book makes learning as quick and painless as possible.  I'm confident it will help you avoid some mistakes and teach you useful concepts, tools, and techniques to attack many types of problems.
+Hopefully, the book makes learning as quick and painless as possible.  I'm confident it will help you avoid some mistakes and provide you useful concepts, tools, and techniques to attack many types of problems.
 
-It should help both the new business owner and the seasoned owner beat their competition.  You will learn why some companies enjoy almost unbelievable success while others just exist (its not just luck).  
+It will enable both the new business owner and the seasoned owner surpass their competition.  You will learn why some companies enjoy almost unbelievable success while others just tread water (its not just luck).  
 
 My aim is to explain in plain language, and with examples, the actions the marketplace rewards and those it punishes.  Learn why it works the way it does and how to make it work for you.  I want you to beat the poor survival rates companies face and leap ahead of your competitors.
 
+
+## Hopes and Aims
 
 I had four main goals when writing this book:
 
 
 1. Create awareness of the interactions between your motivations, marketplace needs, and the rules of thumb you currently use.  The aim is to improve them or replace them with better ones.  Removing contradictory rules of thumb should be a prime objective for all owners
 
-1. Create awareness of how conventional rules of thumb about marketing, operating, and managing your company will <span style="color: red; font-weight: 900;">NOT</span> raise you above your competition.  In fact, they are holding you back.  
+1. Create awareness of how conventional rules of thumb about marketing, operating, and managing your company will <span style="color: red; font-weight: 900;">NOT</span> raise you above your competition and create ever greater successes.  In fact, those old rules may be holding you back.  
 
     Part I is also intended to awaken your mind to the practical need to get moving **NOW** to gain a new and better position in the marketplace.
 
@@ -142,9 +144,9 @@ I had four main goals when writing this book:
     Part II illustrates how the marketplace can richly reward thoughtful and adventurous rules of thumb that differentiate you.
 
 
-1. Examine in detail how new, improved rules of thumb in various areas of your business can elevate your company to new levels of success.  Practicallity and consistency are the aims.  
+1. Examine in detail how new, improved rules of thumb in various areas of your business can elevate your company to new levels of success.  Practicality and consistency are the aims which are essential to that success.  
 
-    I love the power of quotations, maxims, aphorisims, and analogies. They convey a lot with memerable simplicity and clarity.  The book is full of them.
+    I love the power of quotations, maxims, aphorisims, and analogies. They convey a lot with memorable simplicity and clarity.  The book is full of such inspiration.
 
     Part III is for those with the ambition, creative courage, and sense of urgency required to reimagine their current way of doing business and move to the next level of competition.
 
@@ -154,12 +156,12 @@ The principles put forth are timeless, practical, and deceptively straightforwar
 
 ## Who the Book is For
 
-The book is for those with ambition (however modest), a willingness to try new things, and a sense of urgency.  Succeeding is about being effective, not just efficient.  It is about knowing your purpose in the marketplace as well as you know your product.  This book is for all who want to sharpen their management skills, better understand the marketplace in which they operate, and improve their competitive position.
+The book is for those with ambition (however modest), a willingness to try creative new things, and a sense of urgency.  Succeeding is about being effective, not just efficient.  It is about knowing your purpose in the marketplace as well as you know your product.  This book is for all who want to sharpen their management skills, better understand the marketplace in which they operate, and improve their competitive position.
 
 
 ## Who the Book is <b>NOT<b> For
 
-The book will not help you if your primary objective for having a business is to avoid working under a boss, to work in your pajamas, or to turn your pleasurable hobby into a little side-gig where profit is not a primary motivation.  (There are probably a few jobs where a lot of money can be made in your pajamas, but working in pajamas is not the primary objective of the owner!)
+The book will not help you if your primary objective for having a business is to avoid working under a boss, to work in your pajamas, or to turn your pleasurable hobby into a little side-gig where profit is not a primary motivation.  (There are probably some jobs where a lot of money can be made in your pajamas, but working in pajamas is not the primary objective of the owner!)
 
 
 ## Ideas into Actions

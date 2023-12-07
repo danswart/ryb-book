@@ -71,13 +71,13 @@ BLUEVIOLET BOX Example of an **.rmdwarning** block.
 ## **Creating Value in the Marketplace**
 
 
-There is only one definition of value that matters; and that is provided solely by the consumer.
+There is only one definition of value that matters; and it is provided solely by the consumer.
 
-If you don't adopt that as a key 'rule of thumb' the rest of this book will do you no good.  
+If you don't adopt that as a key 'rule of thumb' you will have a difficult time in business.  It's often the main difference between owners and employees. 
 
 It is gospel -- mantra.
 
-You are correct.  Many consumers are not rational.  And, yes, sometimes they ARE wrong.  The marketplace will punish you severly if your business operates under those two correct, but destructive assumptions.
+You are correct.  Many consumers are not rational.  And, yes, sometimes they ARE wrong.  The marketplace will punish you severely if your business operates under those two correct, but destructive assumptions.
 
 Many extraordinary and useful innovations have been rejected by the marketplace.  People do not necessarily want a better mousetrap!
 
@@ -126,7 +126,7 @@ If the product does not align with what customers actually want or need, it lead
 
 **Assessing Customer Needs**
 
-A <span class="f4 darkgreen">'Listen, then Provide'</span> strategy begins with understanding customer needs, desires, and pain points.  Market research, customer feedback, and data analysis are used to identify gaps and opportunities.  The deeper your understanding and empathy for the customer point of view, the greater your ability to provide value.
+A <span class="f4 darkgreen">'Listen, then Provide'</span> strategy begins with understanding customer needs, desires, and point of rejection of the good or service.  Market research, customer feedback, and data analysis are used to identify gaps and opportunities.  The deeper your understanding and empathy for the customer point of view, the greater your ability to create and/or provide value.
 <br>
 
 **Pull Marketing**
@@ -145,19 +145,19 @@ This strategy is generally considered less risky because it starts with a valida
 
 **Market Dynamics**
 
-The choice between these strategies will depend on the nature of the market and personality of the owner. In rapidly changing industries with emerging technologies, a product-driven approach may be necessary to produce the innovatation needed to create new markets. In more mature markets, a <span class="f4 darkgreen">'Listen, then Provide'</span> approach is likely to be more effective.
+The choice between these strategies will depend on the nature of the market and personality of the owner. In rapidly changing industries with emerging technologies, a product-driven approach may be necessary to produce the innovation needed to create new markets. In more mature markets, a <span class="f4 darkgreen">'Listen, then Provide'</span> approach is very much more likely to be effective.
 <br>
 
 
 **Customer-Centric**
 
-<span class="f4 darkgreen">'Listen, then Provide'</span> strategies place strong emphasis on customer-centric behavior from everyone in the company.  This translates to stronger customer loyalty and long-term success.
+<span class="f4 darkgreen">'Listen, then Provide'</span> strategies place emphasis on customer-centric behavior from everyone in the company.  This translates to solid customer loyalty and long-term success.
 <br>
 
 
 ## **Hybrid Approach**
 
-This is a VERY strong strategy.  You can anticipate future needs your customers might face as well as their current ones.  Buggywhip makers had strong, loyal customers...until the automobile came along.  Carburetor manufacturers year after year made better and better carburetors.  They had many happy customers.  Then came the fuel injector.  They did not include the future in their customer service plans and the market disappeared.
+This is a VERY strong strategy.  You can anticipate future needs your customers might face as well as their current ones.  Buggywhip makers had loyal customers...until the automobile came along.  Carburetor manufacturers year after year made better and better carburetors.  They had many happy customers.  Then came the fuel injector.  They did not monitor currently developing options nor did they include the future in their customer service plans. The market disappeared.
 
 A hybrid approach is a way to be ahead of the game for your customers.
 

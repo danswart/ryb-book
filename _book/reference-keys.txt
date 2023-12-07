@@ -1,6 +1,8 @@
 fig:nice-fig
 tab:nice-tab
 the-power-of-rules-of-thumb
+one-particular-way
+hopes-and-aims
 who-the-book-is-for
 who-the-book-is-not-for
 ideas-into-actions
@@ -56,14 +58,10 @@ getting-help
 intro-ack
 conventions
 colophon
-creating-value-in-the-marketplace-1
-product-driven-strategy-make-then-sell-1
-customer-driven-strategy-listen-then-provide-1
-considerations
-the-small-business-1
-choosing-your-preferred-strategy-1
-authenticity-matters
-final-thoughts-1
+gif-library-as-of-2023-12-06
+img-library-as-of-2023-12-06
+effective-before-efficient
+it-pays-to-be-unique
 stew-leonards-dairy-store
 background
 guided-media-and-discussion

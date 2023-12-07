@@ -82,7 +82,7 @@ Philosophy in this context refers to the fundamental beliefs, principles, and va
 <br>
 <br>
     
-A company philosophy encompasses its ethical stance, its approach to customer service, its stance on social and environmental responsibility, and its attitude toward innovation, among other things.
+A company philosophy encompasses its ethical stance, its compliance with federal, state and local regulations, its approach to customer service, its stance on social and environmental responsibility, and its attitude toward innovation, among other things.
 
 <span style="color: maroon;">Example:  **"...while protecing the environment for future generations...and with the highest ethical standards..."**</span> 
 <br>
@@ -100,7 +100,7 @@ Philosophy sets the tone for how the company operates on a day-to-day basis and 
 
 ## Business Philosophy - An Example
 
-Your company philosophy should set forth the type of conduct expected from management, employees and the company as a whole while striving to achieve your company mission.  Some even extend it to suppliers and partners.
+Your company philosophy should set forth the type of conduct expected from management, employees and the company as a whole while striving to achieve your company mission.  Some even extend it to suppliers and partners. Think of 'cruelty free' products companies which may require their suppliers to also be 'cruelty free.'
 
 These rules of thumb are there to guide everyone's behavior and attitudes, from top to bottom. 
 
@@ -146,15 +146,15 @@ When moderating Customer Advisory Boards I ask the participants to describe what
 <br>
 
 
-If your customers are ignorant or confused about your foundational beliefs you will never build a company that is exceptional in the marketplace.
+If your customers are ignorant or confused about your fundamental beliefs you will never build a company that is exceptional in the marketplace.
 <br>
 <br>
 
 
 ::: {.rmdcaution}
-<span style="color: red; font-weight: bold;">CAUTION</span>:  Don't publish foundational beliefs just for marketing and advertising purposes.  If you publish your foundational beliefs and don't live up to them (or don't timely correct an improper action) you will create a VERY unhappy customer who will tell many others about your 'hypocrisy'.
+<span style="color: red; font-weight: bold;">CAUTION</span>:  Don't publish fundamental beliefs just for marketing and advertising purposes.  If you publish your fundamental beliefs and don't live up to them (or don't timely correct an improper action) you will create a VERY unhappy customer who will tell many others about your 'hypocrisy'.
 
-Customers are very sensitive to perceived hypocrisy and (rightfully) feel taken advantage of.  **For a company that relies on repeat business, paying lip service to its core beliefs is far worse than leaving them unstated, doing your best, then 'recovering' from customer complaints as best you can (the typical business strategy).**
+Customers are very sensitive to perceived hypocrisy and (rightfully) feel taken advantage of.  **For a company that relies on repeat business, paying only lip service to its core beliefs is far worse than leaving them unstated. You as the leader must be an example of truth and honesty by doing your best, then 'recovering' from customer complaints as best you can (the typical business strategy).**
 
 I've always wondered why Ford felt 'Quality is Job #1' was a good tag line.  When the consumer spends that kind of money they fully expect that no one at Ford needs to be told that.  If it really was 'Job #1' the consumers would know it automatically by experience with the product.  Word does get around, you know!
 
@@ -165,11 +165,11 @@ I've always wondered why Ford felt 'Quality is Job #1' was a good tag line.  Whe
 
 Should you choose to look into Dr. Deming's work with an aim to implement it, please contact me after you have read some of his writings, and before you try to implement it.  It is VERY easy to misunderstand some of the concepts and practices.  Otherwise, read on! [see also https://deming.org/]
 
-This comprehensive example outlines the management philosophy of W. Edwards Deming, widely regarded as the 'father' of the Japanese economic miracle after WWII.  If studied with diligence and vigor it is unbelievable in the depth and breadth of its power for you to create a difference in the marketplace.
+This comprehensive example outlines the management philosophy of W. Edwards Deming, widely regarded as the 'father' of the Japanese economic miracle after WWII.  If studied with diligence and vigor it is unbelievable in terms of the depth and breadth of its power for you to create an impressive positive difference in your company and the marketplace.
 
 ### A System of Profound Knowledge (taken ins substantive part from https://en.wikipedia.org/wiki/W._Edwards_Deming)
 
-Since Dr. Deming's work is a comprehensive system of beliefs, values, principles, and ideas that guide and inform management's approach to industry, service, education, and government his system can righfully be regarded as a philosophy.
+Since Dr. Deming's work is a comprehensive system of beliefs, values, principles, and ideas that guide and inform management's approach to industry, service, education, and government his system can rightfully be regarded as a philosophy.
 
 It includes four components or "lenses" (we might call them rules of thumb) through which to view the world simultaneously:
 
@@ -177,7 +177,7 @@ It includes four components or "lenses" (we might call them rules of thumb) thro
 
   Coordination and cooperation of the overall system involving suppliers, producers, and customers (or recipients) of goods and services is the responsibility of management;
   
-  Win-Win solutions, cooperations, not competition between parts
+  Win-Win solutions, cooperation, not competition between parts
     
 1. Knowledge about variation:
 
@@ -210,11 +210,11 @@ It includes four components or "lenses" (we might call them rules of thumb) thro
 
 1. Drive out fear, so that everyone may work effectively for the company. (See Ch. 3 of Out of the Crisis)
 
-1. Break down barriers between departments. People in research, design, sales, and production must work as a team, to foresee problems of production and usage that may be encountered with the product or service.
+1. Break down barriers between departments. People in research, design, sales, and production must work as a team in order to foresee problems of production and usage that may be encountered with the product or service.
 
 1. Eliminate slogans, exhortations, and targets for the work force asking for zero defects and new levels of productivity. Such exhortations only create adversarial relationships, as the bulk of the causes of low quality and low productivity belong to the system and thus lie beyond the power of the work force.
 
-1. Eliminate work standards (quotas) on the factory floor. Substitute with leadership.
+1. Eliminate work standards (quotas) on the factory floor. Substitute with leadership and support.
 
 1. Eliminate management by objective. Eliminate management by numbers and numerical goals. Instead substitute with leadership.
 
@@ -258,7 +258,7 @@ It includes four components or "lenses" (we might call them rules of thumb) thro
 
 1. Reliance on quality control departments rather than management, supervisors, managers of purchasing, and production workers
 
-1. Placing blame on workforces who are responsible for only 15% of mistakes while the system designed by management is responsible for 85% of the unintended consequences
+1. Placing blame on workforces who are responsible for only 15 percent of mistakes while the system designed by management is responsible for 85 percent of the unintended consequences
 
 1. Relying on quality inspection rather than improving product quality
 
@@ -276,7 +276,7 @@ Outline Your Business Philosophy
 1. **Draft your business philosophy.**
 <br><br>
 
-1. **Draft a set of Guiding Principles for your people to follow with respect to customers, suppliers and each other.  Be succinct.**
+1. **Draft a set of Guiding Principles for your employees to follow with respect to customers, suppliers and each other.  Be succinct.**
 <br><br>
 
 1. **Draft your Guiding Company Principles to establish how the company is to behave in the marketplace (what do you consider 'good' and 'bad' company behavior?).**
@@ -348,15 +348,15 @@ Personally, I think these challenges create a great opportunity for experienced 
 
 This book is aimed at two complementary audiences:
 
-* Intermediate R programmers who want to dive deeper into R, understand how
+* Intermediate R programmers who want to delve into R, understand how
   the language works, and learn new strategies for solving diverse problems.
 
 * Programmers from other languages who are learning R and want to understand
   why R works the way it does.
 
-To get the most out of this book, you'll need to have written a decent amount of code in R or another programming language. You should be familiar with the basics of data analysis (i.e. data import, manipulation, and visualisation), have written a number of functions, and be familiar with the installation and use of CRAN packages.
+To get the most out of this book, you'll need to have written a decent amount of code in R or another programming language. You should be familiar with the basics of data analysis (i.e. data import, manipulation, and visualization), have written a number of functions, and be familiar with the installation and use of CRAN packages.
 
-This book walks the narrow line between being a reference book (primarily used for lookup), and being linearly readable. This involves some tradeoffs, because it's difficult to linearise material while still keeping related materials together, and some concepts are much easier to explain if you're already familiar with specific technical vocabulary. I've tried to use footnotes and cross-references to make sure you can still make sense even if you just dip your toes in a chapter.  
+This book walks the narrow line between being a reference book (primarily used for lookup), and being linearly readable. This involves some tradeoffs, because it's difficult to linearise material while still keeping related materials together, and some concepts are much easier to explain if you're already familiar with specific technical vocabulary. I've tried to use footnotes and cross-references to make sure you can still make sense of it even if you just dip your toes in a chapter.  
 
 ## What you will get out of this book {#what-you-will-get}
 

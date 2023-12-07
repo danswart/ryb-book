@@ -91,7 +91,7 @@ Why should it be YOU that brings this new product or service to the marketplace?
 Seriously.
 
 
-Your reasons are your own, but somewhere along the line you must believe that you are the right person (maybe the only person) to bring this project into the world.  Are you convinced that your way of doing things can make a difference?
+Your reasons are your own, but somewhere along the line you must believe that you are the right person (maybe the ONLY person) to bring this project into the world.  Are you convinced that your way of doing things can make a difference for others?
 
 
 ## Ideas to Actions
@@ -120,7 +120,7 @@ Ideas take form when you commit them to writing.  Write your answers to the foll
 
 ## Awareness of Marketplace Needs
 
-You're still reading, so apparently after some soul-searching you've concluded that you're the best person (maybe the only person) to do the job.  But, does anyone in the marketplace share your vision of what is needed?
+You're still reading, so apparently after some soul-searching you've concluded that you're the best person (maybe the ONLY person) to do the job.  But, does anyone in the marketplace share your vision of what is needed?
 
 Does your local (regional, national, or global) market *really* need another...<br>
 
@@ -178,7 +178,7 @@ Example:
 
 - **"What marketplace problem are you offering to solve?"**
 
-    High-end home builders in the area complain they can't find reliable framing contractors with high construction standards and professional project management skills.  They are routinely late on delivery and overbudget.  These factors combine with rising interest rates and material costs to seriously erode profitablilty.
+    High-end home builders in the area can't find reliable framing contractors with high construction standards and professional project management skills.  Contractors are routinely late on delivery and overbudget.  These factors, combined with rising interest rates and material costs, seriously erode profitablilty for home builders.
 
 
 - **"Why hasn't this problem been solved yet?"**
@@ -188,13 +188,13 @@ Example:
 
 - **"What is your UNIQUE solution?"**
 
-    Pervasive poor quality and poor management creates an opportunity to disrupt the high-end home building market.  Constantly improving quality of methods, materials, and workmanship will increase profits for builders and contractors alike.  Word spreads, you know.  WIN-WIN.
+    Providing high quality construction methods, materials, and workmanship with superior project management skills at competitive prices will increase profits for builders and contractors alike.  WIN-WIN.
 
 <br>
 
-The three-questions method provides a stringent test of your intuition and how much market research you do before opening your business.  When large sums of capital are at risk, direct measurements of how consumer's will react to the product or service are often collected.  Even then, no amount of 'research' can guarantee success.
+The 'three-questions' method provides a stringent test of your intuition and how much market research you do before opening your business.  When large sums of capital are at risk, direct measurements of how consumer's will react to the product or service are often collected.  Even then, no amount of 'research' can guarantee success.
 
-Companies with insufficient effort on this step may have to act on supposition, superstition, or faith. They usually find themselves using a Product-Driven Strategy (<span class="darkgreen">'Make, then Sell'</span>) whether it's best or not. 
+Companies with insufficient effort on this step may have to act on supposition, superstition, or faith. They usually find themselves using a Product-Driven Strategy (<span class="f4 darkgreen">'Make, then Sell'</span>) whether it's best or not. 
 
 On the other hand, astonishingly, in 1975 advertising executive Gary Dahl sold over 1 million 'Pet Rocks' for $4 each and became a millionaire!  (https://en.wikipedia.org/wiki/Pet_Rock)
 

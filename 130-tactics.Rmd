@@ -67,7 +67,7 @@ BLUE VIOLET BOX Example of an **.rmdwarning** block.
 </blockquote>
 
 
-Strategy is abstract.  It represents a result that cannot be controlled directly.  It outlines the long-term direction and objectives of the business.  Tactics are about the here and now - the specific methods and actions taken to achieve the strategic goals.  They are the operational elements that bring a marketing strategy to life, translating high-level plans into operational tasks.
+Strategy is abstract.  It is a result that cannot be controlled directly.  It outlines the long-term direction and objectives of the business.  Tactics are about the here and now - the specific methods and actions taken to achieve the strategic goals.  They are the operational elements that bring a marketing strategy to life, translating high-level plans into operational tasks.
 
 Tactics are inherently detail-oriented and focus on immediate or near-term actions that contribute to larger strategic objectives. For example, if a company's strategy is to become the market leader in a specific sector, its tactics might include aggressive marketing campaigns, competitive pricing strategies, or partnerships with key players in the industry. These tactical moves are designed to build market share, enhance brand recognition, or create customer loyalty - all of which serve the broader strategic goal of market leadership.
 
