@@ -1,8 +1,8 @@
 --- 
-title: "*Reimagine Your Business*"
+title: "*Reimagine Your Business:*"
 subtitle: "*A Personalized Guide to Becoming a Winner at Business*"
 author: "Dan Swart"
-date: "2023-12-07"
+date: "2023-12-12"
 site: bookdown::bookdown_site
 # github-repo: danswart/ryb-book
 output: 
@@ -33,7 +33,7 @@ csl: chicago-fullnote-bibliography.csl
   <p class="quote-description">(father of the Japanese economic miracle. See https://en.wikipedia.org/wiki/Deming_Prize)</p>
 </blockquote>
 
-This is the website for my first book, __[*Reimagine Your Business, A Personalized Guide to Beating Your Competition* (Swart 2023)]()__.  
+This is the website for my first book, __[*Reimagine Your Business:  A Personalized Guide to Becoming a Winner at Business* (Swart 2023)]()__.  
 
 It is a book with remarkable qualities, above and beyond its' written content.  Due to recent advances in web-based technology this book is not just a good read but is a guide to your personalized <span style="color: darkgreen; font-size: 1.25em; font-weight: 700; font-style: italic;">experience</span>.
 
