@@ -1,10 +1,7 @@
 Welcome! 
 
-<<<<<<< refs/remotes/origin/main
-This is a a draft version of my first book ***Reimagine Your Business:  A Personalized Guide to Winning in Business***, created with R Markdown and **bookdown** (https://github.com/rstudio/bookdown). 
-=======
-This is a a draft version of my first book ***Reimagine Your Business:  A Personalized Guide to Becomming a Winner in Business***, created with R Markdown and **bookdown** (https://github.com/rstudio/bookdown). 
->>>>>>> update README file
+
+This is a draft version of my first book ***Reimagine Your Business:  A Personalized Guide to Becoming a Winner at Business***, created with R Markdown and **bookdown** (https://github.com/rstudio/bookdown). 
 
 It is an early draft version and not ready yet for public input. 
 
