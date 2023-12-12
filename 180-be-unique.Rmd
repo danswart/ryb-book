@@ -172,5 +172,5 @@ To be Unique You Must Be Effective! (EVERY DAY)
 
 To be Unique You Must Be Capable! (EVERY DAY)
 
-If you're looking for a 'sure-fire', low-cost way to prosper in the marketplace... Become very Unique by becoming very Effective and very Capable.
+If you're looking for a 'sure-fire', low-cost way to prosper in the marketplace... Become very Unique, and one sure-fire way is to become very Effective and very Capable.
 
