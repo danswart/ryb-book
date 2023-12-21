@@ -2,9 +2,9 @@ book_filename: "reimagineyourbusiness"
 new_session: true
 before_chapter_script: _common.R
 delete_merged_file: true
-output: 
+output:
   bookdown::bs4_book:
-    css: [r-colors.css, tachyons.min.css, swart.css]
+    css: [r-colors.css, tachyons.min.css, swart.css, style.css, swart-bookdown.css]
 documentclass: book
 language:
   ui:

@@ -1,3 +1,11 @@
+/* Format basic font size for all bookdown chapters
+/* Adjust the size as needed */
+
+body {
+  font-size: 18px;
+}
+
+
 /* Formatting an Rmarkdown quote box */
 
 .my-quote {
@@ -32,6 +40,31 @@ p {
 }
 
 /* Text */
+
+.al {
+  text-align: left;
+}
+
+.ac {
+  text-align: center;
+}
+
+.ar {
+  text-align: right;
+}
+
+.center-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center-text {
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 .f-4 {
   font-size: 4rem;

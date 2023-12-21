@@ -1,7 +1,7 @@
 bookdown::bs4_book:
   Includes:
       in_header: <link rel="stylesheet" href="https://unpkg.com/tachyons@4/css/tachyons.min.css">
-  css: [r-colors.css, tachyons.min.css, swart.css]
+  css: [r-colors.css, tachyons.min.css, swart.css, style.css, swart-bookdown.css]
   theme:
     primary: "teal" # "#0d6efd"   # default .rmdnote = blue
     danger:  "#dc3545"   # default .rmdcaution = red
@@ -78,17 +78,17 @@ bookdown::bs4_book:
 #   css: adv-r.css
 # 
 # 
-bookdown::pdf_book:
-  includes:
-    in_header: latex/preamble.tex
-    before_body: latex/before_body.tex
-    after_body: latex/after_body.tex
-  keep_tex: true
-  dev: "cairo_pdf"
-  latex_engine: xelatex
-  citation_package: natbib
-  pandoc_args: ["--top-level-division=chapter", "--lua-filter=latex/sidebar.lua"]
-  template: null
-  quote_footer: ["\\hspace*{\\fill} ", ""]
-  toc_unnumbered: false
-  number_sections: true
+# bookdown::pdf_book:
+#   includes:
+#     in_header: latex/preamble.tex
+#     before_body: latex/before_body.tex
+#     after_body: latex/after_body.tex
+#   keep_tex: true
+#   dev: "cairo_pdf"
+#   latex_engine: xelatex
+#   citation_package: natbib
+#   pandoc_args: ["--top-level-division=chapter", "--lua-filter=latex/sidebar.lua"]
+#   template: null
+#   quote_footer: ["\\hspace*{\\fill} ", ""]
+#   toc_unnumbered: false
+#   number_sections: true

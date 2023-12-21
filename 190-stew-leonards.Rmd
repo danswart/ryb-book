@@ -13,12 +13,41 @@ Arrow-like characters in Unicode:
     Bent Arrow Left: ↩ &#x21A9;
 
 
-# Stew Leonard's Dairy Store
+::: {.rmdcaution}
+RED BOX Example of an **.rmdcaution** block.
+:::
 
+::: {.rmdimportant}
+GREEN BOX Example of an **.rmdimportant** block.
+:::
+
+::: {.rmdtip}
+BLUE BOX Example of an **.rmdtip** block.
+:::
+
+::: {.rmdwarning}
+BLUEVIOLET BOX Example of an **.rmdwarning** block.
+:::
+
+
+# Case Study - Stew Leonard's Dairy Store
+
+This chapter uses long-form video content allowing readers to sit back, listen and watch examples of the key business lessons directly from the entrepreneurs themselves.  The duration is listed with the video.  A timeline of highlights is provided in the text below.  Now, sit back, enjoy, and be inspired!
+
+::: {.rmdimportant}
 Every example in this book comes with this caution:<br>
-<span style="color: red;"><u>Don't copy 'Best Practices'</u></span>, <span style="color: blue;">COPY 'BEST THEORIES AND PRINCIPLES'</span>.
 
-The practices and procedures you see are the creative expressions of an underlying company principle, or theory, that is being tested for success.  They represent part of a chain reaction the company hopes will bring the results they desire.  You must understand the chain reaction behind the practice to understand how the idea might help your company.
+<span style="color: red;">'Don't copy 'Best Practices'</span>... &nbsp; &nbsp; <span style="color: blue;">'INSTEAD, TEST THEORIES AND PRINCIPLES'</span>.
+
+The practices and procedures you see in the examples are the creative expression of an underlying principle or theory that is being tested for success in a specific setting.  
+
+They represent part of a chain reaction (theory) the company hopes will bring the results they desire.  You must understand the chain reaction behind the practice to understand how the idea might help your company.
+
+Remember:  Every company is one-of-a-kind.  Different owners, people, products or services, machines, methods, measures, marketplaces, and locations.  Your setting will always be different, even though you might be in the same industry.
+
+One of the best lessons of an example is:  <span style="color: blue;">'TRY NOVEL IDEAS BECAUSE YOUR COMPETITORS WON'T'</span>
+:::
+
 
 Here's a chain reaction (theory) that describes WHY Stew Leonard's operates the way it does:
 
@@ -28,7 +57,7 @@ Here's a chain reaction (theory) that describes WHY Stew Leonard's operates the 
 
 </div>
 
-Don't replicate the practice or process of others.  Use the theory or principle to create <span style="font-size: 20px;">&#x2192;</span>
+(Where you see <span style="font-size: 20px;">&#x2192;</span>, read "...leads to...)
 
 
 
@@ -106,9 +135,8 @@ Timeline	Tactic	Ordinary Grocery Store	Stew Leonard's	Note 1	Note 2	Note 3
 
 Case Study:  Stew Leonard's Dairy has mastered the ability to 'Listen, then Deliver' 
 
-<iframe width="650" height="450" src="https://www.youtube.com/embed/pDkSlstiDKs?si=AsGEpUaEPAnCTDSM&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="650" height="450" src="https://www.youtube.com/embed/CWq_mCnO99s?si=61SawPwC8Q2AujYX&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 Stew Leonard's Formula for Success
-
 

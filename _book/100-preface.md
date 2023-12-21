@@ -44,7 +44,7 @@ BLUEVIOLET BOX Example of an **.rmdwarning** block.
 
 Welcome to the first edition of __[*Reimagine Your Business, A Personalized Guide to Becoming a Winner in Business* (Swart 2023)]()__.. 
 
-After 40 years of helping people who run companies, this book is my attempt to pass on what I've learned so you can know at least one way to make your business ***exceptional,*** and reap the rewards that come with that.  There's more than one way to make money in this world, and all of them require some measure of luck to succeed.  
+After 40 years of helping people who run companies, and running my own firm for 30 of those years, this book is my attempt to pass on what I've learned so you can know at least one way to make your business ***exceptional,*** and reap the rewards that come with that.  There's more than one way to make money in this world, and all of them require some measure of luck to succeed.  
 
 <blockquote class="my-box" style="text-align: center;">
 <p>
@@ -85,6 +85,21 @@ This book is about the 'non-luck' part of the equation and how to reverse it.  I
 
 Taking your company to the next level requires reimagining your company as ever more effective at delivering value from your customer's point of view.  Management is too often persuaded to focus solely on what their employees are doing, with scant attention to the rules of thumb that make up the system the world encounters when doing business with them.
 
+::: {.rmdimportant}
+Every example in this book comes with this caution:<br>
+
+<span style="color: red;">'Don't copy 'Best Practices'</span>... &nbsp; &nbsp; <span style="color: blue;">'INSTEAD, TEST THEORIES AND PRINCIPLES'</span>.
+
+The practices and procedures you see in the examples are the creative expression of an underlying principle or theory that is being tested for success in a specific setting.  
+
+They represent part of a chain reaction (theory) the company hopes will bring the results they desire.  You must understand the chain reaction behind the practice to understand how the idea might help your company.
+
+Remember:  Every company is one-of-a-kind.  Different owners, people, products or services, machines, methods, measures, marketplaces, and locations.  Your setting will always be different, even though you might be in the same industry.
+
+One of the best lessons of an example is:  <span style="color: blue;">'TRY NOVEL IDEAS BECAUSE YOUR COMPETITORS WON'T'</span>
+:::
+<br>
+
 
 ## The Power of Rules of Thumb
 
@@ -92,7 +107,7 @@ A rule of thumb is a practical guideline used to make approximate judgments or d
 
 Examples: "A good rule of thumb is to save 10 percent of your income for retirement." or "As a rule of thumb, add 15 minutes to your travel time to account for traffic."
 
-People crave rules of thumb.  They are one way we mentally and emotionally manage the complexity of running a business.  They are powerful things.  The following simple rule of thumb helps power a company with revenues of about $700 million (US).  (When you see an arrow, say the word 'make' in your head)
+People crave rules of thumb.  They are one way we mentally and emotionally manage the complexity of running a business.  They are powerful things.  The following simple rule of thumb helps power a company with revenues of about $700 million (US).  (When you see an arrow, say the words '...leads to...' in your head)
 
 <div align="center">
 
@@ -113,14 +128,14 @@ Good rules of thumb are like ingredients in a recipe.  It's up to you as the 'ch
 
 ## One Particular Way
 
-Although I discuss several approaches, the book is really about one particular way to maximize your opportunities in business.  It is a combination of ideas that you can incorporate immediately into rules of thumb to make your business unique.
+Although I discuss several approaches, the book is really about one particular way to maximize your opportunities in business.  It is a combination of ideas that you can translate immediately into rules of thumb to make your business unique.
 
-Being VERY special is one of the best ways for any company to succeed.  <span style="color: green; font-size: 18px;"><b>However, most owners do not realize just how special they have to be to beat the competition.<b></span>  
+Being VERY special is one of the best ways for any company to succeed.  <span style="color: green; font-size: 18px;"><b>However, most owners do not realize just how special they have to be to win in business.<b></span>  
 
 <span style="color: royalblue; font-size: 18px;"><b><i>And, that is where the real opportunities for you exist!<b><i></span>
 
 
-Hopefully, the book makes learning as quick and painless as possible.  I'm confident it will help you avoid some mistakes and provide you useful concepts, tools, and techniques to attack many types of problems.
+Hopefully, the book makes learning as quick and painless as possible.  I'm confident it will help you avoid some mistakes and provide useful concepts, tools, and techniques to attack many types of problems.
 
 It will enable both the new business owner and the seasoned owner surpass their competition.  You will learn why some companies enjoy almost unbelievable success while others just tread water (its not just luck).  
 
@@ -144,7 +159,7 @@ I had four main goals when writing this book:
     Part II illustrates how the marketplace can richly reward thoughtful and adventurous rules of thumb that differentiate you.
 
 
-1. Examine in detail how new, improved rules of thumb in various areas of your business can elevate your company to new levels of success.  Practicality and consistency are the aims which are essential to that success.  
+1. Examine in detail how new, improved rules of thumb implemented in various ways throughout your business can elevate your company to new levels of success.  Practicality and consistency are the aims which are essential to that success.  
 
     I love the power of quotations, maxims, aphorisims, and analogies. They convey a lot with memorable simplicity and clarity.  The book is full of such inspiration.
 

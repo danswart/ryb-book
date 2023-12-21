@@ -1,4 +1,21 @@
 
+::: {.rmdcaution}
+RED BOX Example of an **.rmdcaution** block.
+:::
+
+::: {.rmdimportant}
+GREEN BOX Example of an **.rmdimportant** block.
+:::
+
+::: {.rmdtip}
+BLUE BOX Example of an **.rmdtip** block.
+:::
+
+::: {.rmdwarning}
+BLUEVIOLET BOX Example of an **.rmdwarning** block.
+:::
+
+
 # It Pays to… Be UNIQUE! 
 
 The aim of this chapter is to help you succeed; so you can make a difference in this world.  It outlines practical ways to make your company more Effective, Capable, and Unique so you can turn all your hard work into prosperity for yourself and others, and live a better life.

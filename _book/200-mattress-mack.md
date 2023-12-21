@@ -10,6 +10,635 @@ Arrow-like characters in Unicode:
     Bent Arrow: ↩ &#x21A9;
 
 
-# Mattress Mack
+::: {.rmdcaution}
+RED BOX Example of an **.rmdcaution** block.
+:::
+
+::: {.rmdimportant}
+GREEN BOX Example of an **.rmdimportant** block.
+:::
+
+::: {.rmdtip}
+BLUE BOX Example of an **.rmdtip** block.
+:::
+
+::: {.rmdwarning}
+BLUEVIOLET BOX Example of an **.rmdwarning** block.
+:::
 
 
+# Case Study - Mattress Mack
+
+This chapter uses long-form video content allowing readers to sit back, listen and watch examples of the key business lessons directly from the entrepreneurs themselves.  The duration is listed with the video.  A timeline of highlights is provided in the text below.  Now, sit back, enjoy, and be inspired!
+
+::: {.rmdimportant}
+Every example in this book comes with this caution:<br>
+
+<span style="color: red;">'Don't copy 'Best Practices'</span>... &nbsp; &nbsp; <span style="color: blue;">'INSTEAD, TEST THEORIES AND PRINCIPLES'</span>.
+
+The practices and procedures you see in the examples are the creative expression of an underlying principle or theory that is being tested for success in a specific setting.  
+
+They represent part of a chain reaction (theory) the company hopes will bring the results they desire.  You must understand the chain reaction behind the practice to understand how the idea might help your company.
+
+Remember:  Every company is one-of-a-kind.  Different owners, people, products or services, machines, methods, measures, marketplaces, and locations.  Your setting will always be different, even though you might be in the same industry.
+
+One of the best lessons of an example is:  <span style="color: blue;">'TRY NOVEL IDEAS BECAUSE YOUR COMPETITORS WON'T'</span>
+:::
+
+
+Jim McInvale, founder of Gallery Furniture in Houston, TX, has mastered the ability to 'Listen, then Deliver' 
+
+<iframe width="650" height="450" src="https://www.youtube.com/embed/8blQbA8c5_s?si=DC0XAvHS6Br9reJ1&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+New Management Methods Transform Gallery Furniture into Greatest Furniture Store in World
+
+
+
+2:08  My less than illustrious background
+
+currently the business in 1991 our sales figures were 45 million dollars we only have one location 30,000 square feet 
+
+our sales average per square foot is $1,600 whereas the industry average is about 125 
+
+we have the highest sales per square foot ratio in the world the industry average of sales of inventory turnover is 2.5 times a year we turn our inventory about 25 times a year which is also the highest in the world 
+
+so we've done a few things right but the biggest thing we've done right is Gallery furnitures transformation from competition to cooperation.  cooperation works and
+
+
+8:22  Sameday delivery
+
+Gallery Furniture is a 30,000 square foot retail furniture
+store servicing the medium high priced furniture market in Houston Texas 
+
+from the beginning we were able to differentiate ourselves by offering him same-day delivery of furniture.  you can come to our furniture store anywhere
+from 8 o'clock in the morning ten o'clock at night seven days a week and buy furniture.  say you buy the furniture 10 o'clock at night we still deliver it the same day.  on any given Saturday or Sunday we do up to 300 same day deliveries.  people buy the furniture today and they do get it delivered within three or four hours. 
+
+we have set a benchmark for all the world in immediate
+delivery of furniture.  that has always been our cutting edge improvement where we had a edge over our competitors. you could buy it today and get it today immediate gratification
+
+
+
+9:11  Management structure
+Gallery furnitures also had a very conventional management structure with the boss me at the top and everybody else down throughout the organization.  I was taught this conventional management structure at the University of Texas and
+that's the way I thought it was supposed to be.  however management which was me over the past 10 years I became very frustrated.  one thing we were very good at measuring was the number of customers coming into the store on a daily basis say we had a hundred customers and we also paid all of our salespeople a very high commission sales rate about double what the industry standard was.  the objective was to make the sale by any method as long as it was legal.  and people came in we did all sorts of used-car tricks to make the sale.  however over the past ten years we noticed that our store closing percentage, the number of customers who bought versus the number of total customers for the day, never got above forty percent no matter how many extra incentives were offered.  contests were started to threats were made and so I was very frustrated because I knew if the business was going to grow we had to get our closing percentage over 40 percent.  now keep in mind that forty percent was an outstanding closing percentage because the industry average is 20.  however we did want to continuously improve so I kept searching and trying to find a way to get the closing percentage over 40 percent but nothing ever worked and I was very very frustrated.  so management (which was me) came up with a brilliant idea.  I decided the best way to get the closing percentage up was to get the superstars in front of more customers
+
+
+10:45  Monthly contest
+
+At that time we had 80 salespeople so we decided we'd have a monthly contest and at the end of the month of August the top 10 producers out of those 80 for the month of September, the top 10 ranked one through 80 the top 10 for the month of September could take as many customers as they liked.  you know, they wouldn't have to go in a batting order type basis like everybody else would.  They'd be up in front of the customers all the time.  this would double or triple their income and the idea was it would raise the closing percentage by getting the superstars in front of more customers.  this was Jordan judging performance using arbitrary goals or figures and what happened was this didn't work either.  this was a classic case of 'tampering'.  the ten or so people who were lucky enough to win come to my buckets were embarrassed all throughout September because they get preferential treatment over their friends and the other seventy people felt like losers or failures. in this zero-sum game we were playing.
+
+12:29  Judging performance - total blindness to the customers concerns
+
+
+
+fought the traffic to and from Gallery Furniture in my daily commute on the North freeway in Houston Texas 
+16:00  Gallery furniture had been lucky and successful in spite of my bad management practices which crushed people in their intrinsic motivation.
+
+
+20:06  Removing quotas - Everybody told me it wouldn't work
+
+20:34  Ressults
+
+18 months later people don't do less work they actually do more
+
+they're eager to jump in and prove their worth and contribute to the good of the whole
+
+
+21:44    Business as a system
+
+I no longer look at individual sales figures I haven't looked at individual sales figures in over 14 months.  I could care less.  What really matters is how is the entire business doing?  Are we taking care of the customers, are we taking care of the employees, are we taking care of the community, are we making a profit? the organization as a system dr. Deming is
+22:14
+view of the world now I've come to realize that people are going to have great muscles are going to have very four months it's part of the variation
+22:21
+of dr. Deming teaches and as we have continued to improve the business people have become improvement project players
+Improvement project players
+22:32
+further learning where they too can fit in and using their special talents to
+22:37
+contribute to the good of the system that is probably the most amazing change people learning how to do different jobs
+22:43
+and contribute to the good of the system and the bottom line of the whole business is what business are we in 
+
+
+we
+22:49  We thought we were in the business of selling furniture; we're actually in the business of delighting customers.  there are 300 retail locations in Houston Texas where people can buy furniture but there's only one that really delights customers and we believe it's us.  the purpose of the business is to delight customers nothing else
+
+The great American phrase of It's not my job has totally disappeared 
+
+23:42  Customer needs and concerns
+learn how to identify customer needs and concerns and take those into the reality of the business and that's what we've
+23:47
+been able to do in the last 18 months identify customers needs and concerned because  people
+23:59
+now perform for the good of the system they do all different types of jobs
+What do sales people do
+24:05
+before we had 80 people what are the 80 sales people used to do sales nothing
+24:10
+else other than that they sat and read the newspaper and smoked cigarettes today what do sales people do they do
+24:16
+sales they do inventory control they move the furniture for the displays in the store continuous housekeeping they
+24:24
+supervise our playground we Han now have but cut based upon the suggestion of one of our mothers who works there at the
+24:30
+store she said why don't you put in a playground we put in a huge playground bigger than any playground a McDonald's and we have our people now supervise the
+24:37
+playground for the kids what are the furniture store do you know of where kids cry when they have to leave
+24:49
+we prepare the furniture for the delivery we frame sheetrock finish and paint we display the rooms we stripe the
+24:55
+parking lot we do whatever it takes what else do they do they act in the
+25:01
+commercials they do data processing they drive the trucks they coordinate the service calls they paint the store they
+25:07
+do decoration they provide store security they direct customer traffic on Saturdays and Sundays when it's too busy
+25:12
+they answer the phone they make popcorn and they go on deliveries one of the big changes we made was before we had
+25:17
+contract delivery drivers doing the deliveries most contract delivery drivers are people that live from hand
+25:23
+to mouth it was very frightening to some of the our customers to get a knock on the door and look out the door and see
+25:29
+two weeks showing up at their house at 10 o'clock at night to deliver furniture
+25:34
+and we got a lot of feedback from the customers with a big crime wave in Houston that they didn't want these semi
+25:41
+vagrants delivering the furniture to them that's the way it's done in the industry so we decided to have our own quality salaried salespeople do the
+25:48
+deliveries it cost us a lot more but what are the benefits and customer satisfaction I'm fixing to show you what
+25:53
+the benefits are then our own quality sales people do the deliveries what does
+25:58
+that enable them to do they see the business totally different than one way of just selling now they go into customers home and they see how the
+26:04
+furniture actually fits in the customers home and they see how they can sell that customer more furniture once they get in
+26:09
+their home what about the bottom line
+Hard numbers
+26:18
+everybody says this is wonderful in theory but can you give me any hard numbers any examples I said yes I can
+26:24
+give you lots of hard numbers lots of examples the number of visitors you can see it's in control purple line is 1990
+26:32
+the Aqua Line is 1991 very consistent in October of 1991 our customer traffic
+26:39
+went down versus the previous year in the same month for the first time ever because of a crime wave in Houston and
+26:45
+people were literally afraid to go out after 6 o'clock at night but still then our because of our cooperative system
+26:51
+sales went up that's the number of visitors please contrast that graph
+26:58
+with the number of visitors making a purchase the green line is 1990 in the
+People have learned how to
+27:04
+red line is 1991 it went from 40 percent to about 55 percent the highest in the
+27:10
+world and to make a 15 percent increase when you're always already the best was a tremendous improvement people have
+27:17
+learned how to work together here's a typical example about a month ago we had two very wealthy of wealthy husband and
+27:25
+wife and their children come in from Mexico City they just bought a new summer home in Houston they wanted to furnish the home they got to the store
+27:31
+about 9 o'clock at night and one of our Anglo sales persons greeted these customers he knew these people were very
+27:37
+uncomfortable talking English and he knew they wanted to speak to somebody who could speak their native language
+27:42
+which was Spanish so he went and got one of our female associates a nice young lady only been with us about six months
+27:48
+to help these people they were so delighted to have somebody that worked with them they spoke their language and understood what they wanted
+27:53
+they ended up an hour and a half later spending $40,000 before that salesperson would never have turned over that
+27:59
+customer and they would have walked without buying anything store closing
+Store closing percentage
+28:08
+percentage has been a steady climb up over the last 18 months delivered
+28:15
+furniture we were supposed to be in a recession the blue line is 1989 the yellow line is 1990 and the green line
+Recession
+28:22
+is 1991 and so far this year we've been too busy taking care of customers to make many charts but I will show you the
+Results
+28:34
+first quarter results you want to manage by the numbers here they are first
+28:39
+quarter results 1991 gross sales 10 million 236 net income 1 million 1 2 -
+28:46
+first quarter results in 1992 sales almost the same 10 million to 54 net
+28:52
+income 1 million 4 6 3 increasing that income by $340,000 what I'm telling you
+28:58
+is cooperation works competition doesn't
+Cooperation vs Competition
+29:10
+cooperation versus competition cooperation Christine works Angie better morale more responsive to the customers
+29:16
+competition is inefficient creates bad feelings and productive and unfair competition you see I believe we've been
+29:23
+sold down the river in this country on something called competition we think it's good I win you lose I learned how
+29:28
+to compete playing football at the University of Texas in 1969 in 1970 when the long runs won 30 straight games two
+29:34
+consecutive national championships there were some great competitors on the team two of my best friends in Houston teach
+29:41
+young people how to compete in the ioniq fields one's name is John Jenkins head football coach University Houston the
+29:47
+others name is Bela Karolyi world's finest gymnastics coach coach to the girl you saw in Time magazine in
+29:54
+Newsweek the last two weeks her name was Kim zamesca of Houston Texas she didn't win the Olympic Games labelled her a
+30:00
+failure I don't think she was a failure do you competition what has it done to
+30:09
+us but a gallery furniture thanks to dr. Demmings request we change we transformed transformation and
+Transformation Management Thinking
+30:18
+management thinking before the way I was taught focus on individual events who's to blame find somebody
+30:24
+now we view the company as a whole we don't focus on individual events we focus on improving before we said
+30:30
+goodbye to below every staff members now we view the employees as asset the biggest and only asset of the company
+30:35
+before no education the turnover is to hide today return on investment mentality how can we invest lots of
+30:41
+money in our best asset our people before I became very frustrated because people didn't get my hyperactive message
+30:47
+now I have learned now I have learned
+30:53
+that different people learn in different ways and you know what other amazing discover we have made people buy in
+30:59
+different ways different things motivate people to buy and I'll tell you about that in just a few minutes here before
+31:05
+we beat and dwell on problems odd nauseam an issue eating so every time a problem happened it was we judged it to
+31:10
+be a mostly it was a special cause we thought was a common cause would issue a new rule now it's made my job harder
+31:17
+must do fire prevention not firefighting let's think about how to improve the system and that's a lot harder than
+31:22
+doing knee-jerk reactions before we ignore the potential of competent people today we find out that everybody has lots to
+31:28
+contribute and will contribute if only given a chance additional benefits
+31:35
+people are happier on the job better morale and attitude people see the business as a whole system there's no
+31:41
+more infighting between departments all departments work together for the good of the business before we had a system
+31:47
+where we had four or five professional furniture buyers and set in an office all day long the only people they saw
+31:53
+with the vendors from the different manufacturers and they bought the furniture we no longer have professional
+31:58
+furniture buyers our buyers are the retail salespeople who are there on the floor on a daily basis interacting with
+32:04
+the customers and they buy based upon what the customers tell them to buy listen to the voice of the customer it's
+32:10
+worked a whole lot better now people are eager to volunteer ideas and opinions to make the business better what we're
+32:17
+trying to do is to create an atmosphere where people are willing to take high risk and reap the high rewards in most
+Take High Risk
+32:23
+businesses we're stuck over here on this side of the distribution low risk cya move up through doing nothing be safe
+32:30
+and mediocre we're trying to get people out on the right-hand side of the distribution high-risk high-reward in
+32:36
+sales merchandising decorating whatever it might happen to be take a risk what's
+32:42
+going to happen out on that far side of the distribution is we're gonna strike out a lot the other thing it's gonna
+32:47
+happen is we're gonna hit a lot of home runs to come up with a lot of innovative ideas the problem with the retail
+32:52
+furniture business is most retailers in the furniture business haven't had a new idea in 50 years and that's why our
+32:58
+industry our share of consumer disposable dollar used to be three and a half percent and now it's about 1.2
+33:03
+percent and steadily going down so if we're going to improve and save our little industry we have to take some
+33:09
+innovative high-risk high-reward type of chances
+33:16
+we change from a system that caused this type of reaction from the customer after
+Change From A System
+33:22
+listening to your commercials for years I expected to be treated to a pleasant buying experience instead I dealt with
+33:28
+pushy salespeople in a finance group it became aggravated when it didn't purchase their way that's the way it
+33:33
+used to be in the Commission days so we decided we would change and listen to the voice of the customer and that's
+33:39
+really what the business is all about and here's what happened
+33:48
+David was our salesperson he was extremely nice and helpful and everyone as a whole was extremely nice and polite
+33:53
+I think changing your salespeople from commission to salary was an excellent idea
+33:58
+delivery the furniture went well the delivery guys were nice and efficient Thanks that's the difference between
+34:04
+competition and cooperation the
+34:12
+salesperson and the finance person were great Leslie a new heart I really loved the insurance coverage also on the
+34:17
+tables Leslie told me about Newhart was the greatest salesperson I've ever seen all my money will be spent at Gallery
+34:23
+Furniture from now on Newhart's mother wrote that one
+Gallery Furniture
+34:32
+see tom was great there was never any pressure while giving us lots of valuable insight and information many
+34:37
+thanks I'll be back with lots of money we look forward to that one you see
+34:48
+before if a customer was browsing you didn't spend your time with him eating waste your time he didn't tell him he just dropped him and got somebody who
+34:54
+wanted to buy something that's the big difference
+Quality
+35:02
+prices are excellent the quality is excellent sales people are excellent you have an all-around excellent operation
+35:08
+and gallery furniture compliments and best wishes we used to get 10 or 15 negative letters a month now we get about 50 of these a
+35:17
+week and I have to believe that long term it's going to pay big-time dividends for the business
+35:29
+my wife and I were treated as valued customers even though our purchase was not large our salesperson was courteous
+35:34
+knowledgeable and not high-pressure will be back give me an example of that we had a customer two weeks ago went to four different furniture stores trying
+35:40
+to buy a bed frame full-size bed frame cost $22 salesperson if they're making
+35:49
+5% Commission makes a dollar on that sale nobody would take the time at the four of the stores to sell it to her she
+35:54
+became very agitated she came to our store our guy took a lot of time sold the 22 dollar bed frame she was very
+36:00
+happy on the way out she bought a six thousand dollar dining room set Sam was
+Sam Wood
+36:13
+such a good salesperson at a terrific wheelchair operator in Sam we thank you so much for the service you gave my 92
+36:19
+year old mother Muriel from Arkansas before Sam Wood had no incentive to help
+36:25
+that lady because it wouldn't be paid for it so he would have thought now they treat the people like human beings
+George McIngvale
+36:35
+George is a very pleasant person she was very helpful I don't think we would have bought the nice furniture wasn't for her
+36:40
+thanks a lot and the list goes on and on and this is really the business we're in is delighting people where they go back
+36:46
+to their job their office their factory or the government office where they work and they tell people what how well they
+36:52
+were treated at our store now when customers come in the first thing we do is give them an ice cream bar we have
+36:58
+face-painting that our sales people do for the customers we have the playground we have popcorn we've got all sorts of
+37:04
+things going on because we want to make it a fun atmosphere where people will come back a negative experience they will enjoy and cherish the experience is
+37:11
+as important as the product to the customer
+37:19
+our truck broke down behind the store we came up here to use the phone we were treated like family like this the
+37:25
+service was just extremely nice I couldn't ask for more things what happened is people work together and
+37:30
+they're concerned about the customers and that's the business were in dr.
+Dr Deming
+37:39
+Deming says Institute leadership the aim of supervision should be to help people in machines and gadgets do a better job
+37:45
+supervision of management is in need of overhaul as well as supervision of production workers in our case it was
+37:51
+supervision of management
+Dr McIngvale
+38:00
+role of a manager of people a manager and as people understand the meaning of a system and how the work of his group may support these aims all departments
+38:07
+understands how they're going to support the aim of the rest of business people asked us all the time do we make any
+38:13
+money on our delivery service I don't care if we make money on the delivery service it's irrelevant what matters is we're delighting customers the manager
+38:20
+works in cooperation with preceding and following stages to optimize the effort of all stages he understands people are
+38:26
+different from each other he's an unceasing learner he's a coach and counsel not a judge he understands a
+38:32
+stable system study results to improve his work another aim is learned if
+38:37
+anybody's outside the system we need a special help he creates trust he does not expect perfection he listens and
+38:43
+learns without passing judgment we had a sales person come to work for us about
+38:49
+six months ago and after three months I learned that he was an epileptic and he
+38:55
+had a seizure in the store on a busy day upset a lot of people everybody said we shouldn't have him there we kept him
+39:01
+he's now one of our best and most loyal and / employees does a terrific job because we didn't pass judgment on him
+Who is the leader
+39:14
+who is the leader s is the best leaders that people do not notice their existence the next best that people honor and praise and next to people fear
+39:20
+the next people hate when the best leaders work is done that people say we did it ourselves
+39:25
+productivity increases in the old commission days we had the high power used car salesperson
+39:32
+if it did $3,000 in Saturday they had a great day now we have kids 22 and 23
+39:38
+years old with no previous sales experience because we improve the system on any given Saturday Sunday to do 10 and $12,000 that's a four to one
+39:45
+increase we haven't improved everything in the business because people learn how to work together
+Intense cooperation
+39:55
+intense cooperation think about it everybody wins is a long and arduous task but it can transform American
+40:00
+business we must saturate every area every activity we must again begin right now even we're trying now to cooperate
+40:07
+with our competitors a difficult thing to do with something we could benefit all of us just to give one example we're
+40:13
+now pooling our trucks from California with ourselves and our competitors is enabled both of us to bring down our
+40:19
+freight rates by about 5% we have learned in the furniture business we're not competing with each other we're
+40:24
+competing with other people for the consumers disposable dollar if we work together everybody can have more quality
+A long hard climb
+40:36
+and innovation been a long hard climb at Gallery French if I told you was easy there were no problems I'd be lying to you there's been lots of problems but
+40:43
+certainly the efforts been worth reward
+Choice
+40:51
+Gallery Furniture we had a choice to make which path to take we could keep doing our quick roads to quick returns
+40:57
+over here crush people made a lot of money doing that we're very very profitable we decided to make the change
+41:04
+but after going ours and listen to the brilliant people that around dr. Deming I decided to take the long-term route to
+41:10
+Deming prosperity and that's what we did what happened was a dimming chain
+41:16
+reaction we improved quality we're able to decrease our cost our costs have gone
+Improved Quality
+41:23
+down tremendously we're able to improve our productivity like I said before people do 3,000 on a Saturday now to do
+41:29
+10 to 12,000 we're able to decrease our prices to the retail customers we're able to increase the market for
+41:35
+everybody but by doing more advertising we've certainly been able to stay in business provide jobs and get more jobs
+41:40
+for our community and get a return on investments to the stockholders in other words winning is everything but only if
+41:49
+everyone wins dr. Deming also taught us
+Group Process
+41:56
+something called a group process plan-do-check-act before we'd make these massive changes without any thought now
+42:02
+we do it on a small scale we planted plan a change angel aimed at an improvement carried out on a small scale
+42:08
+what are the results what did we learn if it worked implemented company-wide if not do it all again
+42:13
+if it ain't broke improve it that's what we're trying to do is constantly improve everything we do in the business so the
+42:19
+business gets better and everybody can have more fun and make more money isn't that what it's all about you see there's
+Lone Ranger
+42:30
+a great big myth in this country that the American West was settled by the Lone Ranger type manager the hero riding into town on the big white horse solving
+42:37
+all the problems by himself however that's simply not true the American West
+42:43
+was settled by people like you and I working together to raise the barn together in harmony
+42:49
+managers employees educators community raising the barn together people working
+The American West
+42:55
+together so that everybody can win like the kids doing Special Olympics and what's wrong with that about six months
+43:02
+ago you saw as President Bush mr. stimple of General Motors mr.
+43:07
+Iacocca of Chrysler mr. poling afford with Japan hat in hand asking him to ease up on us in the automobile business
+43:13
+why are they head of us in this critical industry very simple because they work
+43:18
+together business government employees educators they all work together for the good of the community and what's wrong
+43:24
+with that we used to work together in this country but we lost sight of it none of us in this room were taught
+43:31
+courses on cooperation in college however I believe that is what we must do recently I attended a chamber
+43:38
+commerce meeting in Houston I sat next to a friend of mine named Joan I hadn't seen her for about six months on another 11 year old son named Sammy loved the
+43:45
+sport of roller skating I said Joan how's Sammy doing in rollerskating she
+43:50
+said I didn't you hear I said hear what she said he quit and I was very shocked
+43:56
+I said why'd he quit I said I know he loved the sport so much he did it three or four hours every day after school why in the world would he quit she said well
+44:04
+he went to the Nationals down in Florida last month and when he didn't win the coach yelled at him so much he decided
+44:09
+it just wasn't worth it is that really the way it has to be why can't we learn
+44:16
+how to work together so that the business wins the community wins everybody wins
+44:22
+the last thing I'd like to say about quality improvement is another challenge the youth of America recently I was in
+44:31
+Los Angeles we gave away 250 sets of mattresses to the people in the 77th Street police station at Crenshaw where
+44:38
+the riots were as I drove to that neighborhood it was incredible looked like a war zone and I thought to myself
+44:44
+why did all this happen was the fault of the court system the police was the fault of the kids the rioters no it was
+44:51
+probably the fault of business people like you and I because we got so caught up in making money we forgot to Linda
+44:58
+not a handout but a helping hand to these kids be they black white red or yellow and teach them that they too through hard work dedication and a
+45:04
+commitment to cooperation can live the American dream so that everybody can win
+45:10
+winning is everything everyone wins thank you very much [Applause]
+45:38
+thank you thank now entertain questions there's a microphone in the in the
+45:44
+middle if some of you'd like to ask a few things about how to pick up mints
+45:50
+and other other things hi Jim thanks for
+45:55
+your remarks I'd like to hear a little bit about how you worked with educating yourselves peoples you got ready to change the compensation system in
+46:03
+particularly those that perhaps have been in that system for saf 35 years and really were winners yeah we my father
+46:09
+was my father 68 years old he's our sales manager at the store he's a great
+46:14
+guy but he was brought up on the incentive Commission program he was very much against what we were trying to do as were a lot of the other quote heavy
+46:22
+hitters or superstars so what we did was we bought the Deming Library videotapes and we'd had a class with all of our
+46:29
+employees for two hours every day for 15 weeks my wife put together the training course we started with tape one and we
+46:36
+watched it did the workbook and we went all the way through the end and one of the most poignant moments and that whole
+46:41
+thing was when one of the people who was dead set against it he was making a lot of money and absolutely destroying the
+46:48
+business he was out only for his own good we're in that meeting room one day watching the tapes and dr. Deming was
+46:55
+talking about how life begins with intrinsic motivation and gradually drive it all out to life ends and this person
+47:02
+was sitting next to me and he it was wrenching and I knew he was very unsettled during the we watched the tape
+47:08
+we got out outside as we finished walking to the car I said Pete what's the problem he said well as I was
+47:15
+watching that tape I realized what I was doing and I said what's that he said well my little girl in the fifth grade
+47:21
+is very smart she made straight A's and we've labeled her genius brilliant achiever great kid etc etc he said our
+47:29
+little girl in the fourth grade makes B's and C's and we labeled her dumb stupid underachiever and we're totally doing what he exactly
+47:36
+what he said in the tape and that turned him around and then you know just gradually through the education and
+47:42
+talking about the time they were the last one in gym class picked to play basketball talking about the time they
+47:48
+had to stay home for the prom or whatever they began to see this rate rating and ranking of people is stupid
+47:53
+and now 18 months later they see up and down up and down they see that people
+47:58
+have good months and bad mice are starting to learn about variation and they see that the system is in control
+48:03
+and improving the system is the only possible way to improve the business yes
+48:08
+sir Jim dick Townsend Ann Arbor Michigan how do you compensate your salespeople now
+48:14
+your staff and how do you decide what level of compensation over a period of years first year they make $600 a week
+48:20
+second year 650 third year 700 goes up to $1,000 after 10 years and that's it
+48:26
+and we have sales leaders who have a responsibility for managing 8 to 10 people they make more money but they
+48:33
+work more hours they have more responsibility they're more in it they're in a sales role but also in a managerial role so they make more money
+48:39
+than the salespeople but they have a lot more responsibility there are some other furniture stores and car dealerships
+48:44
+that have tried this type of thing and failed at it I was listening to dr. Deming a couple months ago and he said
+48:51
+the key thing is you have to keep making it happen and that's what we've done we keep managing and leading people and
+48:57
+directing people it's not a matter of saying feel good guys you're now out there on salary you have at it we manage
+49:03
+we direct we train we do all the things we used to do only we now we do it better there's no profit participation
+49:10
+we have a gain sharing property sharing program we distribute 20% of the company profits every quarter to the people
+49:15
+based upon the profitability of the business and the proper training is based solely upon the number of hours that you work the quarter it doesn't
+49:22
+matter what job you do whether you're a truck unloader or the highest-paid manager everybody shares equally in the
+49:28
+gain sharing proper change what we're trying to do is make a statement that everybody's job is important to the good of the business thank you Jim
+49:39
+other questions thank you very much
+49:44
+there's one back there
+49:55
+do you kind of hide your candle under a bushel an hour you find trouble
+50:00
+resisting the temptation to go out and tell the other people in that Houston area how they might improve their
+50:06
+business oh we tell a lot of them if they don't want to hear it so that's fine you know they want to argue about
+50:11
+it and say it'll never work and we try to work with people if they want to
+50:17
+change and change this system as far as I'm concerned our business will is so
+50:26
+much more profitable so much more easier to manage now that we've worked together rather than the way it used to be so
+50:31
+another little benefit is our cancellations have been cut by 75% since
+50:39
+we went to a salary system because they don't sell people something they didn't need
+50:52
+thank you very much
+51:02
+you
