@@ -1,10 +1,4 @@
-<!-- <img src="gif/thank-you-boy-hugs-chicken.gif" height=200> -->
-<!-- <img src="gif/people-over-cliff-like-lemings.gif" height=200> -->
-<!-- <img src="gif/sesame-brought-to-you-by-letter.gif" height=200> -->
-<!-- <img src="gif/baby_learning.gif" height=200> -->
-<!-- <img src="gif/boxer_bouncing_at_door.gif" height=200> -->
-<!-- <img src="gif/roller_coaster_fun.gif" height=200> -->
-<!-- <img src="gif/turtle_helping_turtle.gif" height=200> -->
+
 <!-- <img src="html/I Need HOW MUCH in Sales 2023-07-12.html" height=200> -->
 
 
@@ -18,6 +12,7 @@ HOW do you figure that out?! &nbsp;&nbsp;&nbsp;WHY is it so important?<br><br>
 
 <img src="img/confused.woman.jpg" height=200>
 
+<br>
 If Your SALES are TOO SMALL Your TOTAL PROFIT will be TOO SMALL.<br><br>
 If your total profit is too small:<br><br>
     
@@ -41,6 +36,7 @@ You will work forever, with no possibility of retirement <br><br>
 
 
 Those are some of the important WHYs to set a Desired Minimum Sales level.
+<br>
 
 ## HOW to figure out your Desired Minimum Sales Level?
 
@@ -96,7 +92,7 @@ Here's an example of the entire calculation using fictitious amounts:<br>
 
 In outline form the calculation grid looks like this:<br>
 
-<table style="width: 50vw; height: auto; font-size: 18px">
+<table style="width: 45vw; height: auto; font-size: 18px">
   <tr>
     <td class="b darkgreen bb bw2 al">Estimate Needed</td>
     <td class="b darkgreen bb bw2 ar">Amount</td>
@@ -211,10 +207,11 @@ Think it's Impossible to Begin at 40?  In this clip Warren Buffet describes an a
 The Inspirational Story of Enterprise Rent A Car Warren Buffet 
 
 
+<br><br>
+Let's say your choice of retirement plan contribution turns out to be $15,000.  The calculation grid now looks like this:
+<br>
 
-Let's say your choice of retirement plan contribution turns out to be $15,000.  The calculation grid now looks like:
-
-<table style="width: 50vw; height: auto; font-size: 18px">
+<table style="width: 45vw; height: auto; font-size: 18px">
   <tr>
     <td class="b darkgreen bb bw2 al">Estimate Needed</td>
     <td class="b darkgreen bb bw2 ar">Amount</td>
@@ -230,10 +227,10 @@ Let's say your choice of retirement plan contribution turns out to be $15,000.  
 </table>
 
 
-
+<br><br>
 After salary and retirement, you must estimate your annual family healthcare premiums.  You're probably already paying premiums so that should be an easy one to estimate. Let's say you pay premiums of $18,000 annually for a family of 3.   The calculation grid now looks like this:
 
-<table style="width: 50vw; height: auto; font-size: 18px">
+<table style="width: 45vw; height: auto; font-size: 18px">
   <tr>
     <td class="b darkgreen bb bw2 al">Estimate Needed</td>
     <td class="b darkgreen bb bw2 ar">Amount</td>
@@ -253,10 +250,10 @@ After salary and retirement, you must estimate your annual family healthcare pre
 </table>
 
 
-
+<br><br>
 Next, estimate your desired net profit (after expenses).  This represents next year's working capital.  For demonstration purposes let's say that $50,000 of profit will allow you to safely operate in the new year.   The calculation grid now looks like:
 
-<table style="width: 50vw; height: auto; font-size: 18px">
+<table style="width: 45vw; height: auto; font-size: 18px">
   <tr>
     <td class="b darkgreen bb bw2 al">Estimate Needed</td>
     <td class="b darkgreen bb bw2 ar">Amount</td>
@@ -298,7 +295,7 @@ Reporting line items on the Profit & Loss Statement as percentages of gross sale
 
 <span class="b bg-royalblue white center-text">   HERE IS A "NORMALIZED" PROFIT & LOSS STATEMENT   </span>
 
-<table style="width: 50vw; height: auto; font-size: 18px">
+<table style="width: 45vw; height: auto; font-size: 18px">
   <tr>
     <td class="b darkgreen al"></td>
     <td class="b darkgreen bb bw2 ar">Amount</td>
@@ -343,7 +340,7 @@ Reporting line items on the Profit & Loss Statement as percentages of gross sale
 
 Let's recap...
  
- <table style="width: 50vw; height: auto; font-size: 18px">
+ <table style="width: 45vw; height: auto; font-size: 18px">
   <tr>
     <td class="b darkgreen bb bw2 al">Estimate Needed</td>
     <td class="b darkgreen bb bw2 ar">Amount</td>
@@ -374,11 +371,32 @@ Let's recap...
   </tr>
 </table>
 
-
+<br><br><br>
 
  Estimate Needed Amount Desired Salary $150,000 Annual Retirement Contribution $15,000 Annual Health Insurance $18,000 Fixed Labor Cost 33% Fixed Other Costs 33% Residual Profit $50,000 58 In today's example, how much would you guess the Desired Minimum Sales needs to be? 59 In today's example, how much would you guess the Desired Minimum Sales needs to be? A. around $300,000? 59 In today's example, how much would you guess the Desired Minimum Sales needs to be? A. around $300,000? B. around $500,000? 59 In today's example, how much would you guess the Desired Minimum Sales needs to be? A. around $300,000? B. around $500,000? C. around $700,000? 59 In today's example, how much would you guess the Desired Minimum Sales needs to be? A. around $300,000? B. around $500,000? C. around $700,000? D. around $1,000,000? 59 
 
 Time for the big REVEAL
-Let's use the widget and see what this looks like in real time 60 I Need HOW MUCH in Sales!?! 61 What if we increase owner's desired salary by $50,000 to a total of $200,000? I Need HOW MUCH in Sales!?! 62 Would you have guessed sales would need to increase by nearly $150,000 to support a $50,000 increase in owner salary?? 63 So, how did you do? 64 So, how did you do? Did you guess too high, or too low? 64 Congratulations to those who guessed too HIGH! Most people guess too LOW. 65 Pursue your Desired Minimum Sales to reach your goals and dreams!
+<br>
+
+Let's use the widget and see what this looks like in real time
+
+I Need HOW MUCH in Sales!?! 
+<br>
+
+What if we increase owner's desired salary by $50,000 to a total of $200,000? 
+<br>
+
+I Need HOW MUCH in Sales!?! 
+<br>
+
+Would you have guessed sales would need to increase by nearly $150,000 to support a $50,000 increase in owner salary?? 
+
+So, how did you do? 
+
+Did you guess too high, or too low? 
+
+Congratulations to those who guessed too HIGH!  Most people guess too LOW. 
+
+Pursue your Desired Minimum Sales to reach your goals and dreams!
 
 
