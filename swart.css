@@ -3,8 +3,8 @@
 
 body {
   font-size: 18px;
+  max-width: 80ch; /* Adjust the width as needed */
 }
-
 
 /* Formatting an Rmarkdown <blockquote> call */
 

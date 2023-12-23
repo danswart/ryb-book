@@ -1,6 +1,8 @@
 bookdown::bs4_book:
-  Includes:
-      in_header: <link rel="stylesheet" href="https://unpkg.com/tachyons@4/css/tachyons.min.css">
+  tidy: true # Custom setting for line width
+  in_header: <link rel="stylesheet" href="https://unpkg.com/tachyons@4/css/tachyons.min.css">
+  header-includes:
+  - "\\usepackage{tcolorbox}"
   css: [r-colors.css, tachyons.min.css, swart.css, style.css, swart-bookdown.css]
   theme:
     primary: "teal" # "#0d6efd"   # default .rmdnote = blue

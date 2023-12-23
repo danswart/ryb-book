@@ -59,6 +59,8 @@ intro-ack
 conventions
 colophon
 effective-before-efficient
+business-arithmetic
+examples-of-latex-coding
 it-pays-to-be-unique
 case-study---stew-leonards-dairy-store
 background
