@@ -6,6 +6,43 @@ body {
   max-width: 80ch; /* Adjust the width as needed */
 }
 
+
+/* Draw a red circle or red box around a character or a word in Rmarkdown */
+/* Example coding:  
+/* <span class="red-circle"> &nbsp;&nbsp;Revenue</span>*/
+/* <span class="red-box">Revenue</span>*/
+/* <span class="red-circle">R&nbsp;</span>evenue*/
+/* <span class="red-box">R</span>evenue*/
+
+
+.red-circle {
+    position: relative;
+    display: inline-block;
+}
+
+.red-circle::before {
+    content: "";
+    position: absolute;
+    width: calc(100% + 20px); /* Increase width for more padding */
+    height: calc(100% + 16px); /* Increase height for more padding */
+    border: 2px solid red; /* Red border color */
+    border-radius: 50%; /* Create a circle */
+    top: -4px; /* Adjust top position for more padding */
+    left: -4px; /* Adjust left position for more padding */
+    background-color: transparent; /* No fill color */
+    z-index: -1; /* Ensure the circle is behind the text */
+}
+
+
+.red-box {
+    display: inline-block;
+    border: 2px solid red; /* Red border color */
+    padding: 4px; /* Adjust padding for more space around the text */
+    background-color: transparent; /* No fill color */
+}
+
+
+
 /* Formatting an Rmarkdown <blockquote> call */
 
 .my-quote {

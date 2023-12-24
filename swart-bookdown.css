@@ -7,7 +7,43 @@ body {
 }
 
 
-/* Formatting an Rmarkdown quote box */
+/* Draw a red circle or red box around a character or a word in Rmarkdown */
+/* Example coding:  
+/* <span class="red-circle"> &nbsp;&nbsp;Revenue</span>*/
+/* <span class="red-box">Revenue</span>*/
+/* <span class="red-circle">R&nbsp;</span>evenue*/
+/* <span class="red-box">R</span>evenue*/
+
+
+.red-circle {
+    position: relative;
+    display: inline-block;
+}
+
+.red-circle::before {
+    content: "";
+    position: absolute;
+    width: calc(100% + 20px); /* Increase width for more padding */
+    height: calc(100% + 16px); /* Increase height for more padding */
+    border: 2px solid red; /* Red border color */
+    border-radius: 50%; /* Create a circle */
+    top: -4px; /* Adjust top position for more padding */
+    left: -4px; /* Adjust left position for more padding */
+    background-color: transparent; /* No fill color */
+    z-index: -1; /* Ensure the circle is behind the text */
+}
+
+
+.red-box {
+    display: inline-block;
+    border: 2px solid red; /* Red border color */
+    padding: 4px; /* Adjust padding for more space around the text */
+    background-color: transparent; /* No fill color */
+}
+
+
+
+/* Formatting an Rmarkdown <blockquote> call */
 
 .my-quote {
     border: 4px solid darkgreen;
@@ -31,14 +67,56 @@ body {
     text-align: right;
     margin: 0;
     padding: 0;
-
 }
 
-/* Controlling font size in bookdown <p> 
-
-p {
-    font-size: 2.0em;
+.my-box {
+    border: 2px solid #A9A9A9;
+    background-color: #f8f8f8;
+    margin: 40px auto;
+    font-size: 16px;
+    text-align: left;
+    border-radius: 10px;
+    width: 100%;
+    padding-bottom: 10px;
 }
+
+
+/* Formatting a Bookdown bs4_book quote box */
+
+.rmdtip {
+  border-width: 4px; /* Adjust this value as needed */
+  border-radius: 10px;
+}
+
+.rmdcaution {
+  border-width: 4px; /* Adjust this value as needed */
+  border-radius: 10px;
+  border-color: red;
+}
+
+.rmdimportant {
+  border-width: 4px; /* Adjust this value as needed */
+  border-radius: 10px;
+}
+
+.rmdwarning {
+  border-width: 4px; /* Adjust this value as needed */
+  border-color: #8A2BE2;
+  border-radius: 10px;
+}
+
+
+
+/* Formatting RAN-ONE ppt slides */
+
+/* Apply h2 styling to the entire slide content and 50px padding from top */
+
+.remark-slide-content {
+  font-size: 2em; /* Adjust the size as needed */
+  font-weight: bold;
+  padding-top: 50px;
+}
+
 
 /* Text */
 
@@ -82,6 +160,20 @@ p {
   4px double;
   
 }
+
+.center-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center-text {
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 
 /* Background Colors */
 
@@ -668,12 +760,14 @@ p {
 
 /* Colors */
 
-/* followed by their corresponding hex codes for the HTML colors you've listed:*/
+/* Color names followed by their corresponding hex codes*/
+
 
 .white {
   color: #FFFFFF;
 }
-
+  
+  
 .whitesmoke {
   color: #F5F5F5;
 }
@@ -911,7 +1005,7 @@ p {
 
 
 
-/* Colors with abbreviations */
+/* Tachyons Colors Abbreviations, styling outside of Tachyons requires full color name or hex code */
 
 .lc{
   color: lightcoral; 
@@ -963,7 +1057,8 @@ p {
 }
 
 
-/* Alignment */
+
+/* Alignment Margins*/
 
 .top-3{
   top: 3rem;
@@ -986,7 +1081,7 @@ p {
 }
 
 
-/* Styles for quadrant layout */
+/* Styles for quadrant layouts */
 
 .quad-container {
   display: flex;

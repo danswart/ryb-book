@@ -1,3 +1,15 @@
+eq:profit1
+eq:revenue1
+eq:revelement1
+eq:revshrt1
+eq:revshrt2
+eq:revshrt3
+eq:revshrt4
+eq:revelement3
+eq:revelement4
+eq:revelement5
+eq:revelement6
+eq:binom
 fig:nice-fig
 tab:nice-tab
 the-power-of-rules-of-thumb
@@ -60,6 +72,7 @@ conventions
 colophon
 effective-before-efficient
 business-arithmetic
+example-of-bookdown-equation-with-numbering
 examples-of-latex-coding
 it-pays-to-be-unique
 case-study---stew-leonards-dairy-store
@@ -149,4 +162,3 @@ pages
 metadata-for-sharing
 gif-library-as-of-2023-12-06
 img-library-as-of-2023-12-06
-github-repo-danswartryb-book
