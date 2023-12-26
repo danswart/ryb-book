@@ -87,9 +87,9 @@ When you have a company where the final step depends on the step before, and the
 This is why troubles can multiply; but so can successes.
 
 
-Traditionally, companies are seen as just a conglomeration, consisting of many separate parts or elements.  Each division, department, or individual adds their bit to the total (a+b+c+d=e) and the company profit is maximized as each part makes more and more profit.
+Traditionally, companies are seen as just a conglomeration, consisting of many separate parts or elements.  Each division, department, or individual adds their bit to the total (a + b + c + d = e) and the company profit is maximized as each part makes more and more profit.
 
-This 'conglomeration' perspective has a certain instinctive appeal.  If you adopt it the natural thing to do is divide the work into functions, assign a taskmaster to each function, 'drive' the work of each function, and count up the profits (a+b+c+d=e).
+This 'conglomeration' perspective has a certain instinctive appeal.  'Divide and Conquer' is the obvious solution.  If you adopt it, the natural thing to do is divide the work into functions, assign a taskmaster to each function, 'drive' the work of each function, and count up the profits (a + b + c + d = e).
 
 
 <html>
