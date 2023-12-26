@@ -2,15 +2,16 @@
 title: "*Reimagine Your Business:*"
 subtitle: "*A Personalized Guide to Becoming a Winner at Business*"
 author: "Dan Swart"
-date: "2023-12-24"
+date: "2023-12-26"
 site: bookdown::bookdown_site
-# github-repo: danswart/ryb-book
+github-repo: danswart/ryb-book
 output: 
   bookdown::bs4_book:
     tidy: true # Custom setting for line width
     repo:
-    base: https://github.com/danswart/ryb-book
-    branch: main
+      base: https://github.com/danswart/ryb-book
+      branch: main
+      subdir: book
   css: [r-colors.css, tachyons.min.css, swart.css, style.css, swart-bookdown.css]
 documentclass: book
 bibliography: [book.bib, packages.bib]

@@ -21,8 +21,10 @@ bookdown::bs4_book:
         # arguments to sass::font_google()
         family: DM Mono
         local: false
-  repo: https://github.com/danswart/ryb-book
-
+  repo:
+    base: https://github.com/danswart/ryb-book
+    branch: main
+    subdir: book
 
 
 

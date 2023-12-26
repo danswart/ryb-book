@@ -1,39 +1,6 @@
 
 
 
-Arrow-like characters in Unicode:
-
-    Leftwards Arrow: ← &#x2190;
-    Upwards Arrow: ↑ &#x2191;
-    Rightwards Arrow: → &#x2192;
-    Downwards Arrow: ↓ &#x2193;
-    Diagonal Arrow: ↗ &#x2197;
-    Diagonal Arrow: ↘ &#x2198;
-    Bent Arrow: ↪ &#x21AA;
-    Bent Arrow: ↩ &#x21A9;
-
-
-::: {.rmdcaution}
-RED BOX Example of an **.rmdcaution** block.
-
-:::
-
-::: {.rmdimportant}
-GREEN BOX Example of an **.rmdimportant** block.
-
-:::
-
-::: {.rmdtip}
-BLUE BOX Example of an **.rmdtip** block.
-
-:::
-
-::: {.rmdwarning}
-BLUE VIOLET BOX Example of an **.rmdwarning** block.
-
-:::
-
-
 # The Role of Company Philosophy
 
 

@@ -1,13 +1,34 @@
 
 
-
-
-
 # Business Arithmetic
 
 
-<img src="img/screenshot1.png" width= 1600 height=200>
 
+<blockquote class="my-quote">
+  <p><strong>"The institutional decision is really a conglomeration of different decisions on different points by different people, many of whom are anonymous."</strong></p>
+  <p class="quote-author">          attributed to sociologist Erving Goffman</p>
+  <p class="quote-description"></p>
+</blockquote>
+
+## Examples of LaTex coding
+<br>
+This is an in-line equation: `$\huge E=mc^2$`<br>which yields<br><br> $\huge E=mc^2$
+<br><br>
+This is a math space equation:  <br>
+`\[\frac{1}{2} \left( \frac{a}{b} \right)\]`<br>
+
+which yields <br>
+
+\[
+\frac{1}{2} \left( \frac{a}{b} \right)
+\]
+<br><br>
+
+This is an example of marking up an image file in Preview then including it in the narrative as an image file:<br><br>
+<img src="img/screenshot1.png" width= 1600 height=200>
+<br><br>
+
+Attention grabbers using HTML <span> tags yields:<br><br>
 
 <span class="red-circle"> &nbsp;&nbsp;Revenue</span>
 
@@ -17,37 +38,193 @@
 
 <span class="red-box">R</span>evenue
 
+<br><br><br>
 
-bookdown form
+START NARRATIVE HERE ********
+<br><br>
+
+The arithmetic of business is just that; arithmetic.  Not even algebra.  Certainly not calculus.  Just simple addition, subtraction, multiplication and division.  ANYONE can do it, so don't shy away from it.  As they love to say these days: "Embrace It!"  "Celebrate It!"
+
+There are situations in business when higher mathematics can help solve complex problems such as distribution chains, fulfillment networks, and product mix challenges.  But, those are problems that arise AFTER you get the fundamental arithmetic right.  Remember that these types of problems were being 'solved' long before computer algorithms and data mining were supposed to save our companies.
+
+There is a wonderful and powerful insight that comes when you look at your business as arithmetic.  You learn that a SYSTEM of components is NOT about addition, but multiplication.  In a system the components are always interdependent, each component affects all others.  The effects in a system are multiplicative, not additive.  You can't simply add the performance of the sales team, to the marketing team, to the purchasing team, to the HR team, to the production team, to the advertising team, etc.
+
+Even in the smallest company the work is a chain reaction - each step depending on the work of the previous step.
+
+::: {.rmdtip}
+Here's an example from a tiny 5-employee design firm:  
+
+Each member of the team, from the receptionist to the managing partner, answered this simple question:  "Estimate how often (as a percentage) you get everything you need to do your part of the work right the first time?"
+
+Their replies:  90%, 75%, 85%, 95% and 45%
+
+The probability that the work will get done right the first time is...less than 25% of the time!
+
+(90% x 75% x 85% x 95% x 45% = 24.5%)
+
+That is a huge amount of starting, restarting and backtracking to get the jobs through.  It creates a lot of expensive waste.  When they realized this they addressed it.  When they addressed it they boomed financially.
+
+Consider that in a 5-person system (multiplicative) even when employees get all they need 99% of the time the probability of getting it all right the first time drops to 95%.  In a chain of 20 people a 99% rate drops to 82%!
+:::
+<br>
+
+
+Here's a graph that illustrates this point:
+<br>
+
+<img src="175-business-arithmetic_files/figure-html/unnamed-chunk-1-1.png" width="672" />
+
+<br><br>
+Those are startling facts, but true and hold real power for those who understand their implications.
+
+When you have a company where the final step depends on the step before, and the step before depends on the step before that, etc. you MUST learn the power of multiplication over addition.  Note to self:  EVERY BUSINESS IS A SYSTEM.
+
+This is why troubles multiply; but so can successes.
+
+
+
+
+
+
+If a company were just a conglomeration, consisting of many separate parts or elements, each department could add their bit to the total (a+b+c+d=e) and the company profit would be maximized as each part did better.
+
+This 'conglomeration' perspective has a certain instinctive appeal.  If you adopt it the natural thing to do is divide the work into functions, assign a taskmaster to each function, 'drive' the work of each function, and count up the profits.
+
+
+Here's a plot illustrating what the effects are when elements are added together versus when elements are multiplied together:
+
+
+<img src="175-business-arithmetic_files/figure-html/add vs multiply-1.png" width="672" />
+
+
+
+
+<html>
+<head>
+<style>
+  table {
+    font-size: 16px;
+    border-collapse: collapse;
+    width: 80%;
+  }
+
+
+  td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+  th {
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+  }
+
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+
+  .total-row {
+    border-top: 2px solid black;
+    border-bottom: 2px double black;
+  }
+  
+  
+</style>
+</head>
+<body>
+
+<h2>Typical Management Analysis of 'Contributions' to Company Profit</h2>
+
+<table>
+  <tr>
+    <th>Profit Center</th>
+    <th class="ar">Profit Contribution</th>
+    <th class="ac">Mgmt Reaction</th>
+  </tr>
+  <tr>
+    <td>Meat</td>
+    <td class="ar">$100,000</td>
+    <td class="ac">Bonus</td>
+  </tr>
+  <tr>
+    <td>Dairy</td>
+    <td class="ar">$90,000</td>
+    <td class="ac">Bonus</td>
+  </tr>
+  <tr>
+    <td>Bakery</td>
+    <td class="ar">$40,000</td>
+    <td class="ac">No Action</td>
+
+  </tr>
+  <tr>
+    <td>Fish</td>
+    <td class="ar">$20,000</td>
+    <td class="ac">Counsel Mgr</td>
+  </tr>
+  <tr>
+    <td>Produce</td>
+    <td class="ar">$60,000</td>
+    <td class="ac">No Action</td>
+  </tr>
+  <tr>
+    <td>Wine/Liquor</td>
+    <td class="ar">$25,000</td>
+    <td class="ac">Counsel Mgr</td>
+  </tr>
+  <tr>
+    <td>Household</td>
+    <td class="ar">$40,000</td>
+    <td class="ac">No Action</td>
+  </tr>
+  <tr>
+    <td>Dry Goods</td>
+    <td class="ar">$20,000</td>
+    <td class="ac">No Action</td>
+  </tr>
+  <tr>
+    <td>Pharmacy</td>
+    <td class="ar">$30,000</td>
+    <td class="ac">No Action</td>
+  </tr>
+  <tr class="total-row">
+    <td>Total Profit:</td>
+    <td class="ar">$425,000</td>
+    <td></td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+<br><br><br>
+
+Profitability as an Equation
+
 \begin{equation}
   \boxed{\text{Profit}} = Revenue \times Profitability
   (\#eq:profit1)
 \end{equation}
-
 <br><br>
 
-latex form
-\[ \text{Profit} = \boxed{\text{Revenue}} \times \text{Profitability} \]
 
-<br><br>
+Your SYSTEM of Generating Revenue can be represented by this equation
 
-Fundamental Revenue Equation
 \begin{equation}
-  \boxed{\text{Revenue}} = \text{Number of Customers Buying from You} \times \\ \text{Transaction Frequency} \times \\ \text{Average Transaction Value (ATV)}
+  \boxed{\text{Revenue}} = \text{Number of Delighted Customers Buying from You} \times \\ \text{Transaction Frequency} \times \\ \text{Average Transaction Value (ATV)}
   (\#eq:revenue1)
 \end{equation}
-
 <br><br>
 
-Revenue Element 1
-\begin{equation}
-  \boxed{\text{Number of Customers Buying from You}}
-  (\#eq:revelement1)
-\end{equation}
+You should commit this equation to memory.  It is very important.
 
-<br><br>
+Note that the 
 
-"Number of Customers Buying from You" is a Shorthand way of saying:
+
+
+The "Number of Customers Buying from You" represents an estimate of the volume of customers buying your product or services.  It is the result of these components working together:
 
 \begin{equation}
   \boxed{\text{Customers Retained} + \\ \text{Customers Acquired}}
@@ -55,7 +232,8 @@ Revenue Element 1
 \end{equation}
 <br><br>
 
-"Customers Retained" is a Shorthand way of saying:
+
+"Customers Retained" represents an estimate of the NUMBER of customers from the Beginning of the Year expected to be with you at the End of the Year.  It is the result of these components working together:
 
 \begin{equation}
   \boxed{\text{Existing Customers, BOY} \times \\ \text{Retention Rate}}
@@ -63,63 +241,74 @@ Revenue Element 1
 \end{equation}
 <br><br>
 
-"Retention Rate" is a Shorthand way of saying:
+
+The "Retention Rate" represents an estimate of the PROPORTION of customers from Beginning of the Year expected to be there at the End of the Year.  It is the result of these components working together:
 
 \begin{equation}
   \boxed{
-    \text{1} - 
-    \left( \frac{
-      \text{Number of Existing Customers who Leave During the Year}
-          }
-           {\text{Existing Customers, Beg of Year}
-         } \right)
-       }
+    \text{1} - \text{Attrition Rate}}
   (\#eq:revshrt3)
 \end{equation}
 <br><br>
 
-"Customers Acquired" is a Shorthand way of saying:
+
+The "Attrition Rate" represents an estimate of the PROPORTION of customers at the Beginning of the Year you expect will leave during the year.  It is the result of these components working together:
 
 \begin{equation}
-  \boxed{\text{Prospects Generated} \times \\ \text{Conversion Rate}}
+  \boxed{
+    \left( 
+          \frac{
+                \text{
+                        Number of Customers at BOY Expected to Leave During the Year
+                     }
+               }
+                {
+                  \text{
+                        Existing Customers, Beg of Year
+                        }
+                }
+    \right)
+        }
   (\#eq:revshrt4)
 \end{equation}
 <br><br>
 
 
-"Customer Growth Rate" is a Shorthand way of saying:
+"Customers Acquired" represents an estimate of the NUMBER of new or returning customers who were not with you at the Beginning of the Year.  It is the result of these components working together:
+
+\begin{equation}
+  \boxed{\text{Prospects Generated} \times \\ \text{Conversion Rate}}
+  (\#eq:revshrt5)
+\end{equation}
+<br><br>
+
+
+The "Conversion Rate" represents an estimate of the PROPORTION of prospects generated that become paying customers.  It is the result of these components working together:
 
 \begin{equation}
   \boxed{
     \frac
       {\text
-        {Customers Acquired}
+        {Prospects Converted to Customers}
       }
       {\text
-       {Customers Lost}
+       {Prospoects Generated}
       }
      }
-  (\#eq:revshrt3)
+  (\#eq:revshrt6)
 \end{equation}
 <br><br>
 
 
+From these we see that some of the components of revenue are basic elements, and some are compound elements made up of two or more basic elements.  We improve the total revenue stream by coordinating and balancing all the elements.
 
-Revenue Element 3
-\begin{equation}
-  \boxed{\text{Customers Acquired}}
-(\#eq:revelement3)
-\end{equation}
-<br><br>
+It is wrong to think that maximizing each and every element will compound into an improvement in the total.  Mathematically, it looks correct.  But, that sort of arithmetic assumes that all the components are independent from each other.  In fact, they are part of a system of components that are interdependent.  Each has an effect on all the others.
 
-Revenue Element 4
-\begin{equation}
-  \boxed{\text{Retention Rate}}
-(\#eq:revelement4)
-\end{equation}
-<br><br>
+Is a system, the parts of the system must compliment each other.  Sometimes one part must not be maximized due to its negative effect on other parts.  This is called 'optimization' of the parts of the system, and stands in stark contrast to 'maximizing' each part of the system.
 
-Revenue Element 5
+'Maximizing the parts' is the kind of thinking that encourages management to treat different divisions, departments, groups, and even individuals as 'profit centers' that are to compete with each other in order to maximize total profit.  The results of such a setup are 
+
+Revenue Element
 \begin{equation}
   \boxed{\text{Customers Acquired}}
 (\#eq:revelement5)
@@ -127,22 +316,10 @@ Revenue Element 5
 <br><br>
 
 
-Revenue Element 6
-\begin{equation}
-  \boxed{\text{Customers Lost}}
-(\#eq:revelement6)
-\end{equation}
-<br><br>
 
-
-latex form
+latex forms
 \[ \boxed{\text{Revenue}} = \text{Number of Customers Buying from You} \times \\ \text{Transaction Frequency} \times \\ \text{Average Transaction Value (ATV)} \]
 <br><br>
-
-bookdown form
-
-
-
 
 
 \[ \text{Revenue} = \boxed{\text{Number of Customers Buying from You}} \times \\ \text{Transaction Frequency} \times \\ \text{Average Transaction Value (ATV)} \]
@@ -221,16 +398,6 @@ bookdown form
 
 
 
-
-
-## Examples of LaTex coding
-
-This is an inline equation: $\huge E=mc^2$
-
-This is a math space equation:  
-\[
-\frac{1}{2} \left( \frac{a}{b} \right)
-\]
 
 
 

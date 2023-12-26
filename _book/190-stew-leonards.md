@@ -1,35 +1,6 @@
 # (PART\*) Part III - INSPIRATION{-} 
 
 
-Arrow-like characters in Unicode:
-
-    Leftwards Arrow: ← &#x2190;
-    Upwards Arrow: ↑ &#x2191;
-    Rightwards Arrow: → &#x2192;
-    Downwards Arrow: ↓ &#x2193;
-    Diagonal Arrow Up: ↗ &#x2197;
-    Diagonal Arrow Down: ↘ &#x2198;
-    Bent Arrow Right: ↪ &#x21AA;
-    Bent Arrow Left: ↩ &#x21A9;
-
-
-::: {.rmdcaution}
-RED BOX Example of an **.rmdcaution** block.
-:::
-
-::: {.rmdimportant}
-GREEN BOX Example of an **.rmdimportant** block.
-:::
-
-::: {.rmdtip}
-BLUE BOX Example of an **.rmdtip** block.
-:::
-
-::: {.rmdwarning}
-BLUEVIOLET BOX Example of an **.rmdwarning** block.
-:::
-
-
 # Case Study - Stew Leonard's Dairy Store
 
 This chapter uses long-form video content allowing readers to sit back, listen and watch examples of the key business lessons directly from the entrepreneurs themselves.  The duration is listed with the video.  A timeline of highlights is provided in the text below.  Now, sit back, enjoy, and be inspired!

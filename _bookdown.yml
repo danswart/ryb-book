@@ -4,6 +4,10 @@ before_chapter_script: _common.R
 delete_merged_file: true
 output:
   bookdown::bs4_book:
+    repo:
+      base: https://github.com/danswart/ryb-book
+      branch: main
+      subdir: book
   tidy: true # Custom setting for line width
   css: [r-colors.css, tachyons.min.css, swart.css, style.css, swart-bookdown.css]
 documentclass: book

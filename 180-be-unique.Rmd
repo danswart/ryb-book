@@ -1,20 +1,4 @@
 
-::: {.rmdcaution}
-RED BOX Example of an **.rmdcaution** block.
-:::
-
-::: {.rmdimportant}
-GREEN BOX Example of an **.rmdimportant** block.
-:::
-
-::: {.rmdtip}
-BLUE BOX Example of an **.rmdtip** block.
-:::
-
-::: {.rmdwarning}
-BLUEVIOLET BOX Example of an **.rmdwarning** block.
-:::
-
 
 # It Pays to… Be UNIQUE! 
 
