@@ -65,7 +65,7 @@ A 3-Column HTML Table
     background-color: green;
     color: white;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 16px;
   }
 
   tr:nth-child(even) {

@@ -2,8 +2,6 @@
 
 # Business Arithmetic
 
-
-
 <blockquote class="my-quote">
   <p><strong>"The institutional decision is really a conglomeration of different decisions on different points by different people, many of whom are anonymous."</strong></p>
   <p class="quote-author">          attributed to sociologist Erving Goffman</p>
@@ -47,29 +45,36 @@ The arithmetic of business is just that; arithmetic.  Not even algebra.  Certain
 
 There are situations in business when higher mathematics can help solve complex problems such as distribution chains, fulfillment networks, and product mix challenges.  But, those are problems that arise AFTER you get the fundamental arithmetic right.  Remember that these types of problems were being 'solved' long before computer algorithms and data mining were supposed to save our companies.
 
-There is a wonderful and powerful insight that comes when you look at your business as arithmetic.  You learn that a SYSTEM of components is NOT about addition, but multiplication.  In a system the components are always interdependent, each component affects all others.  The effects in a system are multiplicative, not additive.  You can't simply add the performance of the sales team, to the marketing team, to the purchasing team, to the HR team, to the production team, to the advertising team, etc.
+There is a wonderful and powerful insight that comes when you look at your business arithmetic...<br>
+
+A SYSTEM of components is NOT about addition...it's about MULTIPLICATION.
+
+And, ALL companies are systems.
+
+In a system the components are always interdependent, each component affects all others.  The effects in a system are multiplicative, not additive.  You can't simply add the performance of the sales team, to the marketing team, to the purchasing team, to the HR team, to the production team, to the advertising team, etc.
 
 Even in the smallest company the work is a chain reaction - each step depending on the work of the previous step.
 
 ::: {.rmdtip}
-Here's an example from a tiny 5-employee design firm:  
+Here's an example from a tiny 5-employee design firm of how multiplication affects the outcome:  
 
 Each member of the team, from the receptionist to the managing partner, answered this simple question:  "Estimate how often (as a percentage) you get everything you need to do your part of the work right the first time?"
 
-Their replies:  90%, 75%, 85%, 95% and 45%
+They replied:  90%, 75%, 85%, 95% and 45%
 
-The probability that the work will get done right the first time is...less than 25% of the time!
+The probability that the work will get done right the first time is...&nbsp;&nbsp; less than 25% of the time!
 
 (90% x 75% x 85% x 95% x 45% = 24.5%)
 
-That is a huge amount of starting, restarting and backtracking to get the jobs through.  It creates a lot of expensive waste.  When they realized this they addressed it.  When they addressed it they boomed financially.
+That is a huge amount of starting, restarting and backtracking to get the jobs through.  It creates a lot of expensive waste.  When they realized this they addressed it.  When they addressed it they improved both financially and culturally.
 
-Consider that in a 5-person system (multiplicative) even when employees get all they need 99% of the time the probability of getting it all right the first time drops to 95%.  In a chain of 20 people a 99% rate drops to 82%!
+Consider that in a 5-step system (multiplicative), even when employees get all they need 99% of the time, the probability of getting it done right the first time drops to 95%.  In a chain of 20 steps a 99% rate drops to 82%!  
+
+Each individual step has a very high performance rate, yet the performance of the whole is degrading as steps are added.
 :::
 <br>
 
-
-Here's a graph that illustrates this point:
+This graph illustrates how adding steps to a process (multiplication) can degrade performance:
 <br>
 
 <img src="175-business-arithmetic_files/figure-html/unnamed-chunk-1-1.png" width="672" />
@@ -79,24 +84,12 @@ Those are startling facts, but true and hold real power for those who understand
 
 When you have a company where the final step depends on the step before, and the step before depends on the step before that, etc. you MUST learn the power of multiplication over addition.  Note to self:  EVERY BUSINESS IS A SYSTEM.
 
-This is why troubles multiply; but so can successes.
+This is why troubles can multiply; but so can successes.
 
 
+Traditionally, companies are seen as just a conglomeration, consisting of many separate parts or elements.  Each division, department, or individual adds their bit to the total (a+b+c+d=e) and the company profit is maximized as each part makes more and more profit.
 
-
-
-
-If a company were just a conglomeration, consisting of many separate parts or elements, each department could add their bit to the total (a+b+c+d=e) and the company profit would be maximized as each part did better.
-
-This 'conglomeration' perspective has a certain instinctive appeal.  If you adopt it the natural thing to do is divide the work into functions, assign a taskmaster to each function, 'drive' the work of each function, and count up the profits.
-
-
-Here's a plot illustrating what the effects are when elements are added together versus when elements are multiplied together:
-
-
-<img src="175-business-arithmetic_files/figure-html/add vs multiply-1.png" width="672" />
-
-
+This 'conglomeration' perspective has a certain instinctive appeal.  If you adopt it the natural thing to do is divide the work into functions, assign a taskmaster to each function, 'drive' the work of each function, and count up the profits (a+b+c+d=e).
 
 
 <html>
@@ -118,7 +111,7 @@ Here's a plot illustrating what the effects are when elements are added together
     background-color: green;
     color: white;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 16px;
   }
 
   tr:nth-child(even) {
@@ -200,6 +193,29 @@ Here's a plot illustrating what the effects are when elements are added together
 </html>
 
 <br><br><br>
+
+This perspective, appealing as it is, contains a serious flaw.  It ignores the interdependence of the parts.  Divisions, departments, and individuals will strive to maximize their performance even when it degrades the performance of the system as a whole.
+
+Treating parts of a system as independent of each other (competition between divisions, departments, individuals) severely limits the results.  In this scenario the power of multiplication multiplies the problems, but not the benefits.  
+
+Treating the parts as interdependent multiplies the benefits, and minimizes the problems.
+
+It's not that you get no results at all when you treat the parts as independent.  A lot of money has been made by 'incentivizing' the parts of the organization to compete with each other.  But, that only works well when the company has no competitors treating the parts of their companies as interdependent.
+
+All other things being equal, companies using collaboration of the parts instead of competition between the parts are winning in the marketplace.  Just ask Ford and GM how Toyota is doing.  Currently, 1 share of Toyota stock is worth more than 1 share each of Ford and GM combined.  The examples in this book are there to illustrate just this point.
+
+If you could choose, which scenario would you prefer?
+
+Well, you do have the power to choose the scenario you prefer.  YOU are the boss afterall!
+
+The idea to remember that multiplication is more powerful than addition.  So, look for opportunities to leverage multiplication in your business.
+
+Here's a plot illustrating what the effects are when elements are added together versus when elements are multiplied together:
+
+
+<img src="175-business-arithmetic_files/figure-html/add vs multiply-1.png" width="672" />
+
+<br><br>
 
 Profitability as an Equation
 
