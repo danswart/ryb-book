@@ -1,6 +1,10 @@
 
 
+
 # Business Arithmetic
+
+<span style="color: maroon;">***COMPONENTS are &#x2192; combined into ASSEMBLIES &#x2192; and INTEGRATED &#x2192; into A COMPELLING FINAL PRODUCT OR SERVICE***</span>
+<br><br>
 
 <blockquote class="my-quote">
   <p><strong>"The institutional decision is really a conglomeration of different decisions on different points by different people, many of whom are anonymous."</strong></p>
@@ -74,10 +78,11 @@ Each individual step has a very high performance rate, yet the performance of th
 :::
 <br>
 
-This graph illustrates how adding steps to a process (multiplication) can degrade performance:
+Watch as this graph illustrates how adding steps to a process (multiplication) can degrade performance:
 <br>
 
-<img src="175-business-arithmetic_files/figure-html/unnamed-chunk-1-1.png" width="672" />
+<img src="gif/inc-steps-degrades-perform-ltd.gif" width="600" height="450" />
+
 
 <br><br>
 Those are startling facts, but true and hold real power for those who understand their implications.

@@ -1,6 +1,10 @@
 
 
+
 # Business Arithmetic
+
+<span style="color: maroon;">***COMPONENTS are &#x2192; combined into ASSEMBLIES &#x2192; and INTEGRATED &#x2192; into A COMPELLING FINAL PRODUCT OR SERVICE***</span>
+<br><br>
 
 <blockquote class="my-quote">
   <p><strong>"The institutional decision is really a conglomeration of different decisions on different points by different people, many of whom are anonymous."</strong></p>
@@ -74,36 +78,11 @@ Each individual step has a very high performance rate, yet the performance of th
 :::
 <br>
 
-This graph illustrates how adding steps to a process (multiplication) can degrade performance:
+Watch as this graph illustrates how adding steps to a process (multiplication) can degrade performance:
 <br>
 
-```{r echo=FALSE, message=FALSE}
+<img src="gif/inc-steps-degrades-perform-ltd.gif" width="600" height="450" />
 
-# Generate x values (number of links in the chain)
-x <- 5:100
-
-# Calculate the probability of success for each x
-probability <- 100 * (0.99 ^ x)
-
-# Create the plot
-plot(x, probability, type = "l", col = "blue", lwd = 2, xlab = "Number of Links in the Chain",
-     ylab = "Probability of Success of the Whole Process (%)", main = "Compare the Probability of Getting The Job Done\n Right the First Time as the Number of \n Links in the Chain Increases")
-
-# Add a grid
-grid()
-
-# Adjust the y-axis limits
-ylim <- c(0, 100)
-axis(2, at = seq(0, 100, by = 10), labels = seq(0, 100, by = 10))
-
-# Add a text comment in the top-right portion
-percentage_text <- "Links in the chain get all they need\n the first time 99% of the time"
-x_coord <- max(x) - 25
-y_coord <- max(probability) - 10
-text(x_coord, y_coord, percentage_text, font = 2, cex = 0.9)
-
-
-```
 
 <br><br>
 Those are startling facts, but true and hold real power for those who understand their implications.

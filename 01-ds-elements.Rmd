@@ -1,5 +1,6 @@
 # DS Book Element Examples
 
+
 Hex Code for Space Character:
 
 &#x2192;
@@ -8,6 +9,19 @@ Hex Code for Space Character:
 
 
 A 2-Column HTML Table:
+
+<!-- PROMPT: -->
+
+<!-- "Please create an HTML table with the following characteristics: -->
+
+<!--     The table should have a width of 45vw, height set to auto, and a font size of 18px. -->
+<!--     The table should consist of seven rows and two columns in each row. -->
+<!--     The first row should have two cells with the classes 'b darkgreen bb bw2 al' and 'b darkgreen bb bw2 ar', containing the text 'Estimate Needed' and 'Amount' respectively. -->
+<!--     The second row should have two cells with the classes 'b bg-white black al' and 'b black ar', containing the text 'Desired Salary' and '$ ???' respectively. -->
+<!--     The third row should have two cells with the class 'b black', and the second cell should be right-aligned, containing the text 'Annual Retirement Contribution' and '$ ???' respectively. -->
+<!--     The fourth row should have the same structure as the third row but with 'Annual Health Insurance' as the text. -->
+<!--     The fifth and sixth rows should have the same structure as the third row, with 'Fixed Labor Cost' and 'Fixed Other Costs' as the text, and '?? %' in the right-aligned cells. -->
+<!--     The seventh row should have the same structure as the third row, with 'Residual Profit' as the text and '$ ???' in the right-aligned cell." -->
 
 <table style="width: 45vw; height: auto; font-size: 18px">
   <tr>
@@ -42,9 +56,29 @@ A 2-Column HTML Table:
 <br><br>
 
 
-
 A 3-Column HTML Table
 <br>
+
+
+<!-- PROMPT: -->
+
+<!-- "Please create an HTML document that includes the following components: -->
+
+<!--     A head section with a style block containing CSS rules for a table: -->
+<!--         The table should have a font size of 16px, use collapsed borders, and occupy 80% of the width. -->
+<!--         Table cells (td) should have left-aligned text and 8px of padding. -->
+<!--         Table headers (th) should have a green background, white text, bold font-weight, and a font size of 16px. -->
+<!--         Even rows (tr:nth-child(even)) should have a background color of #f2f2f2. -->
+<!--         Elements with the class 'total-row' should have a top border of 2px solid black and a bottom border of 2px double black. -->
+
+<!--     A body section with the following content: -->
+<!--         An h2 heading with the text 'Typical Management Analysis of 'Contributions' to Company Profit.' -->
+<!--         A table with the following structure: -->
+<!--             A header row (tr) with three cells (th) titled 'Profit Center,' 'Profit Contribution,' and 'Mgmt Reaction.' -->
+<!--             Eight data rows (tr) with cells (td) containing data for 'Meat,' 'Dairy,' 'Bakery,' 'Fish,' 'Produce,' 'Wine/Liquor,' 'Household,' 'Dry Goods,' and 'Pharmacy.' The 'Profit Center' column should have the corresponding category names, the 'Profit Contribution' column should have dollar amounts in the format '$XX,XXX' (e.g., '$100,000'), and the 'Mgmt Reaction' column should contain text values such as 'Bonus,' 'No Action,' or 'Counsel Mgr.' -->
+<!--             A total row (tr) with a cell in the 'Profit Center' column containing 'Total Profit:', a cell in the 'Profit Contribution' column containing '$425,000', and an empty cell in the 'Mgmt Reaction' column. -->
+
+
 
 <html>
 <head>
@@ -149,6 +183,8 @@ A 3-Column HTML Table
 <br><br><br>
 
 
+
+
 Arrow-like characters in Unicode:
 
     Leftwards Arrow: ← &#x2190;
@@ -161,7 +197,9 @@ Arrow-like characters in Unicode:
     Bent Arrow: ↩ &#x21A9;
 <br><br>
 
-Bookdown Message Boxes:
+
+
+Bookdown Callout Boxes:
 
 ::: {.rmdcaution}
 RED BOX Example of an **.rmdcaution** block.
@@ -180,7 +218,41 @@ BLUEVIOLET BOX Example of an **.rmdwarning** block.
 :::
 <br><br>
 
+
+
 'my-box' Style "To-Do-That" Diagram:
+
+<!-- PROMPT: -->
+
+<!-- "Create an HTML span element with the following style: -->
+
+<!--     Text color should be maroon. -->
+<!--     The content of the span should be: 'I WANT TO...RETIRE A BAZILLONAIRE → SELL TO HIGH-TECH GIANT → PUSH MY APP INTO MARKETPLACE → GET INVESTORS → LAUNCH STARTUP → INVENT STRING OF COMPELLING NEW APPS'" -->
+
+
+<span style="color: maroon;">***I WANT TO...RETIRE A BAZILLONAIRE &#x2192; SELL TO HIGH-TECH GIANT &#x2192; PUSH MY APP INTO MARKETPLACE &#x2192; GET INVESTORS &#x2192; LAUNCH STARTUP &#x2192; INVENT STRING OF COMPELLING NEW APPS***</span>
+
+<br><br><br>
+
+
+
+
+
+Logical Sequencing Diagram
+
+<!-- PROMPT: -->
+
+<!-- "Create an HTML block with the following components: -->
+
+<!--     A blockquote with the class 'my-box' and centered text. -->
+<!--     Inside the blockquote, a series of spans with the following styles: -->
+<!--         The text 'MOTIVATION' in royalblue with a font size of 20px. -->
+<!--         A plus sign (+) with a font size of 24px. -->
+<!--         The text 'ASPIRATION' with a font size of 14px. -->
+<!--         Repeat the pattern of a plus sign and text for the following phrases: 'CREATE VALUE', 'COMPETITIVE STRATEGY', 'MARKET TACTICS', 'PHILOSOPHY', 'OPERATIONS', 'CUSTOMERS', and 'SOME LUCK'. -->
+<!--         An equal sign (=) with a font size of 24px. -->
+<!--         The text 'SUCCESS' in green with a font size of 20px. -->
+
 
 <blockquote class="my-box" style="text-align: center;">
 <p>
@@ -207,7 +279,20 @@ BLUEVIOLET BOX Example of an **.rmdwarning** block.
 </blockquote>  
 <br><br>
 
+
+
+
+
 'my-quote' Style Quote Box:
+
+<!-- PROMPT: -->
+
+<!--     create a blockquote with the class 'my-quote' containing the following content: -->
+<!--         The text 'He who has a why to live for can bear almost any how.' in strong tags. -->
+<!--         The author 'Friedrich Nietzsche' in a paragraph with the class 'quote-author'. -->
+<!--         The description '(Twilight of the Idols)' in a paragraph with the class 'quote-description'." -->
+
+
 
 <blockquote class="my-quote">
   <p><strong>"He who has a why to live for can bear almost any how."</strong></p>
@@ -215,6 +300,9 @@ BLUEVIOLET BOX Example of an **.rmdwarning** block.
   <p class="quote-description">(Twilight of the Idols)</p>
 </blockquote>
 <br><br>
+
+
+
 
 Shiny app call:
 
