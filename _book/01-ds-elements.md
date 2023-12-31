@@ -1,14 +1,87 @@
 # DS Book Element Examples
 
 
-Hex Code for Space Character:
+## Saving a gganimate object as an mp4 file and a function to enable dispaly of the animation in an html document
+
+comment: IF YOU'RE HAPPY WITH THE OUTPUT, SAVE AS MP4.  CHANGE THE FILENAMES AS APPROPRIATE.  GIF FILES ARE MUCH LARGER THAN MP4 FILES.  LIMITED LOOP GIF CREATES A HUGE FILE COMPARED TO REGULAR GIF
+
+comment YOU NEED THE library(htmltools) FOR THE mp4_vid FUNCTION BELOW.
+
+gganimate::anim_save(
+  "dms-6m-1-exceeds-1-not.mp4",
+  combined_plot,
+  renderer = gganimate::ffmpeg_renderer(options = list(pix_fmt = "yuv420p")),
+  width = 800,
+  height = 400
+)
+
+
+enclose this code in an r chunk:  r echo=FALSE, eval=FALSE
+
+comment:  THE FUNCTION PROVIDES A 'PLAY' BUTTON FOR THE VIDEO.  SEE THE RMD FILE FOR ENTIRE FUNCTION.  PAGE CANNOT BE KNITTED WITH HTML CODE IN THE DOCUMENT.
+
+
+<!-- mp4_vid <- function(src) { -->
+<!--   htmltools::HTML( -->
+<!--     paste0( -->
+<!--       '<video controls controlsList="nodownload"> -->
+<!--         <source src="', src, '" type="video/mp4"> -->
+<!--         Your browser does not support the video tag. -->
+<!--       </video>' -->
+<!--     ) -->
+<!--   ) -->
+<!-- } -->
+
+
+<br>
+comment:  To call an mp4 file using the function above.  Place it in an r chunk in an rmd file to include the mp4 in the html document
+
+
+mp4_vid("vids/dms-6m-1-exceeds-1-not.mp4")
+
+
+
+## Saving a gganimate object as a gif file
+
+comment:  IF YOU WAMT A GIF; LIMIT THE LOOPS IF YOU LIKE.  CHANGE THE FILENAMES AS APPROPRIATE.  LIMITED LOOPS CREATES A HUGE FILE COMPARED TO REGULAR GIF
+
+
+comment:  Save as gif file
+
+gganimate::anim_save(
+  "dms-6m-1-exceeds-1-not.gif",
+  animation = combined_plot,
+  nframes = 400,
+  duration = 30,
+  fps = 20,
+  end_pause = 200,
+  width = 800,
+  height = 400
+)
+
+
+comment:  limit the gif loops to 1
+
+xtractr::lmt_gif_loops(input_gif = "dms-6m-1-exceeds-1-not.gif", output_gif = "dms-6m-1-exceeds-1-not-ltd.gif", loop_limit = 2)
+
+
+
+
+
+##  Sample HTML code can be placed in labels to colorize individual words and phrases:  
+
+<span style = 'font-size:16pt'><b>Which Company Are You Right Now, <span style = 'color:red;'>Red</span> or <span style = 'color:royalblue;'>Blue?</span></b></span>
+
+<br><br>
+
+## Hex Code for Space Character:
 
 &#x2192;
 <br><br>
 
 
 
-A 2-Column HTML Table:
+## A 2-Column HTML Table:
 
 <!-- PROMPT: -->
 
@@ -56,7 +129,7 @@ A 2-Column HTML Table:
 <br><br>
 
 
-A 3-Column HTML Table
+## A 3-Column HTML Table
 <br>
 
 
@@ -185,7 +258,7 @@ A 3-Column HTML Table
 
 
 
-Arrow-like characters in Unicode:
+## Arrow-like characters in Unicode:
 
     Leftwards Arrow: ← &#x2190;
     Upwards Arrow: ↑ &#x2191;
@@ -199,7 +272,7 @@ Arrow-like characters in Unicode:
 
 
 
-Bookdown Callout Boxes:
+## Bookdown Callout Boxes:
 
 ::: {.rmdcaution}
 RED BOX Example of an **.rmdcaution** block.
@@ -220,7 +293,7 @@ BLUEVIOLET BOX Example of an **.rmdwarning** block.
 
 
 
-'my-box' Style "To-Do-That" Diagram:
+## 'my-box' Style "To-Do-That" Diagram:
 
 <!-- PROMPT: -->
 
@@ -236,9 +309,7 @@ BLUEVIOLET BOX Example of an **.rmdwarning** block.
 
 
 
-
-
-Logical Sequencing Diagram
+## Sequencing Diagram
 
 <!-- PROMPT: -->
 
@@ -283,11 +354,11 @@ Logical Sequencing Diagram
 
 
 
-'my-quote' Style Quote Box:
+## 'my-quote' Style Quote Box:
 
 <!-- PROMPT: -->
 
-<!--     create a new blockquote with the class 'my-quote' containing the following content: -->
+<!--     create a blockquote with the class 'my-quote' containing the following content: -->
 <!--         The text 'He who has a why to live for can bear almost any how.' in strong tags. -->
 <!--         The author 'Friedrich Nietzsche' in a paragraph with the class 'quote-author'. -->
 <!--         The description '(Twilight of the Idols)' in a paragraph with the class 'quote-description'." -->
@@ -303,15 +374,8 @@ Logical Sequencing Diagram
 
 
 
-<blockquote class="my-quote">
-  <strong>He who has a why to live for can bear almost any how.</strong>
-  <p class="quote-author">Friedrich Nietzsche</p>
-  <p class="quote-description">(Twilight of the Idols)</p>
-</blockquote>
 
-
-
-Shiny app call:
+## Shiny app call:
 
 <span style="color: red;">**Interactive Online Version:**</span>  [https://danswart.shinyapps.io/ryb-exercises-1-1/]
 <br><br>

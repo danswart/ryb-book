@@ -1,44 +1,71 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>Chapter 2 DS Book Element Examples | Reimagine Your Business:</title>
-<meta name="author" content="Dan Swart">
-<meta name="description" content="2.1 Saving a gganimate object as an mp4 file and a function to enable dispaly of the animation in an html document comment: IF YOU’RE HAPPY WITH THE OUTPUT, SAVE AS MP4. CHANGE THE FILENAMES AS...">
-<meta name="generator" content="bookdown 0.37 with bs4_book()">
-<meta property="og:title" content="Chapter 2 DS Book Element Examples | Reimagine Your Business:">
-<meta property="og:type" content="book">
-<meta property="og:description" content="2.1 Saving a gganimate object as an mp4 file and a function to enable dispaly of the animation in an html document comment: IF YOU’RE HAPPY WITH THE OUTPUT, SAVE AS MP4. CHANGE THE FILENAMES AS...">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Chapter 2 DS Book Element Examples | Reimagine Your Business:">
-<meta name="twitter:description" content="2.1 Saving a gganimate object as an mp4 file and a function to enable dispaly of the animation in an html document comment: IF YOU’RE HAPPY WITH THE OUTPUT, SAVE AS MP4. CHANGE THE FILENAMES AS...">
-<!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.js" integrity="sha512-zv6Ywkjyktsohkbp9bb45V6tEMoWhzFzXis+LrMehmJZZSys19Yxf1dopHx7WzIKxr5tK2dVcYmaCk2uqdjF4A==" crossorigin="anonymous"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet">
-<script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script><link href="libs/Libre_Baskerville-0.4.8/font.css" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=DM%20Mono&amp;display=swap" rel="stylesheet">
-<link href="libs/Frank_Ruhl_Libre-0.4.8/font.css" rel="stylesheet">
-<script src="libs/bs3compat-0.6.1/transition.js"></script><script src="libs/bs3compat-0.6.1/tabs.js"></script><script src="libs/bs3compat-0.6.1/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
-<script src="libs/bs4_book-1.0.0/bs4_book.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/autocomplete.js/0.38.0/autocomplete.jquery.min.js" integrity="sha512-GU9ayf+66Xx2TmpxqJpliWbT5PiGYxpaG8rfnBEk1LL8l1KGkRShhngwdXK1UgqhAzWpZHSiYPc09/NwDQIGyg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js" integrity="sha512-5CYOlHXGh6QpOFA/TeTylKLWfB3ftPsde7AnmhuitiTX4K5SqCLBeKro6sPS8ilsz1Q4NRx3v8Ko2IBiszzdww==" crossorigin="anonymous"></script><!-- CSS --><style type="text/css">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <title>Chapter 3 To call an mp4 file using the function above. Place it in an r chunk in an rmd file to include the mp4 in the html document | Reimagine Your Business:</title>
+
+    <meta name="author" content="Dan Swart" />
+  
+   <meta name="description" content="<p>The HTML output format for this example is bookdown::bs4_book,
+set in the _output.yml file.</p>" />
+   <meta name="generator" content="placeholder" />
+  <meta property="og:title" content="Chapter 3 To call an mp4 file using the function above. Place it in an r chunk in an rmd file to include the mp4 in the html document | Reimagine Your Business:" />
+  <meta property="og:type" content="book" />
+  
+  
+  <meta property="og:description" content="<p>The HTML output format for this example is bookdown::bs4_book,
+set in the _output.yml file.</p>" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Chapter 3 To call an mp4 file using the function above. Place it in an r chunk in an rmd file to include the mp4 in the html document | Reimagine Your Business:" />
+  
+  <meta name="twitter:description" content="<p>The HTML output format for this example is bookdown::bs4_book,
+set in the _output.yml file.</p>" />
+  
+  <!-- JS -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.js" integrity="sha512-zv6Ywkjyktsohkbp9bb45V6tEMoWhzFzXis+LrMehmJZZSys19Yxf1dopHx7WzIKxr5tK2dVcYmaCk2uqdjF4A==" crossorigin="anonymous"></script>
+  <script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script>
+    <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet" />
+    <script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script>
+    <link href="libs/Libre_Baskerville-0.4.8/font.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=DM%20Mono&amp;display=swap" rel="stylesheet"/>
+    <link href="libs/Frank_Ruhl_Libre-0.4.8/font.css" rel="stylesheet" />
+    <script src="libs/bs3compat-0.6.1/transition.js"></script>
+    <script src="libs/bs3compat-0.6.1/tabs.js"></script>
+    <script src="libs/bs3compat-0.6.1/bs3compat.js"></script>
+    <link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet" />
+    <script src="libs/bs4_book-1.0.0/bs4_book.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/autocomplete.js/0.38.0/autocomplete.jquery.min.js" integrity="sha512-GU9ayf+66Xx2TmpxqJpliWbT5PiGYxpaG8rfnBEk1LL8l1KGkRShhngwdXK1UgqhAzWpZHSiYPc09/NwDQIGyg==" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js" integrity="sha512-5CYOlHXGh6QpOFA/TeTylKLWfB3ftPsde7AnmhuitiTX4K5SqCLBeKro6sPS8ilsz1Q4NRx3v8Ko2IBiszzdww==" crossorigin="anonymous"></script>
+
+  <!-- CSS -->
+  <style type="text/css">
     
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
   </style>
-<link rel="stylesheet" href="r-colors.css">
-<link rel="stylesheet" href="tachyons.min.css">
-<link rel="stylesheet" href="swart.css">
-<link rel="stylesheet" href="style.css">
-<link rel="stylesheet" href="swart-bookdown.css">
+      <link rel="stylesheet" href="r-colors.css" />
+    <link rel="stylesheet" href="tachyons.min.css" />
+    <link rel="stylesheet" href="swart.css" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="swart-bookdown.css" />
+  
 </head>
+
 <body data-spy="scroll" data-target="#toc">
 
 <div class="container-fluid">
 <div class="row">
-  <header class="col-sm-12 col-lg-3 sidebar sidebar-book"><a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+  <header class="col-sm-12 col-lg-3 sidebar sidebar-book">
+    <a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
 
     <div class="d-flex align-items-start justify-content-between">
       <h1>
-        <a href="index.html" title="&lt;em&gt;A Personalized Guide to Becoming a Winner at Business&lt;/em&gt;"><em>Reimagine Your Business:</em></a>:
+        <a href="index.html" title="<em>A Personalized Guide to Becoming a Winner at Business</em>"><em>Reimagine Your Business:</em></a>:
         <small class="text-muted"><em>A Personalized Guide to Becoming a Winner at Business</em></small>
       </h1>
       <button class="btn btn-outline-primary d-lg-none ml-2 mt-1" type="button" data-toggle="collapse" data-target="#main-nav" aria-expanded="true" aria-controls="main-nav"><i class="fas fa-bars"></i><span class="sr-only">Show table of contents</span></button>
@@ -47,57 +74,32 @@
     <div id="main-nav" class="collapse-lg">
       <form role="search">
         <input id="search" class="form-control" type="search" placeholder="Search" aria-label="Search">
-</form>
+      </form>
 
-      <nav aria-label="Table of contents"><h2>Table of contents</h2>
-        <ul class="book-toc list-unstyled"><li><a class="" href="index.html"><span class="header-section-number">Chapter 2</span> DS Book Element Examples</a></li></ul>
+      <nav aria-label="Table of contents">
+        <h2>Table of contents</h2>
+        <div id="book-toc"></div>
 
         <div class="book-extra">
-          <p><a id="book-repo" href="https://github.com/danswart/ryb-book">View book source <i class="fab fa-github"></i></a></p>
+          <p><a id="book-repo" href="#">View book source <i class="fab fa-github"></i></a></li></p>
         </div>
       </nav>
-</div>
-  </header><main class="col-sm-12 col-md-9 col-lg-7" id="content"><div id="ds-book-element-examples" class="section level1" number="2">
-<h1>
-<span class="header-section-number">2</span> DS Book Element Examples<a class="anchor" aria-label="anchor" href="#ds-book-element-examples"><i class="fas fa-link"></i></a>
-</h1>
-<div id="saving-a-gganimate-object-as-an-mp4-file-and-a-function-to-enable-dispaly-of-the-animation-in-an-html-document" class="section level2" number="2.1">
-<h2>
-<span class="header-section-number">2.1</span> Saving a gganimate object as an mp4 file and a function to enable dispaly of the animation in an html document<a class="anchor" aria-label="anchor" href="#saving-a-gganimate-object-as-an-mp4-file-and-a-function-to-enable-dispaly-of-the-animation-in-an-html-document"><i class="fas fa-link"></i></a>
-</h2>
-<p>comment: IF YOU’RE HAPPY WITH THE OUTPUT, SAVE AS MP4. CHANGE THE FILENAMES AS APPROPRIATE. GIF FILES ARE MUCH LARGER THAN MP4 FILES. LIMITED LOOP GIF CREATES A HUGE FILE COMPARED TO REGULAR GIF</p>
-<p>comment YOU NEED THE library(htmltools) FOR THE mp4_vid FUNCTION BELOW.</p>
-<p>gganimate::anim_save(
-“dms-6m-1-exceeds-1-not.mp4”,
-combined_plot,
-renderer = gganimate::ffmpeg_renderer(options = list(pix_fmt = “yuv420p”)),
-width = 800,
-height = 400
-)</p>
-<p>enclose this code in an r chunk: r echo=FALSE, eval=FALSE</p>
-<p>comment: THE FUNCTION PROVIDES A ‘PLAY’ BUTTON FOR THE VIDEO. SEE THE RMD FILE FOR ENTIRE FUNCTION. PAGE CANNOT BE KNITTED WITH HTML CODE IN THE DOCUMENT.</p>
-<!-- mp4_vid <- function(src) { -->
-<!--   htmltools::HTML( -->
-<!--     paste0( -->
-<!--       '<video controls controlsList="nodownload"> -->
-<!--         <source src="', src, '" type="video/mp4"> -->
-<!--         Your browser does not support the video tag. -->
-<!--       </video>' -->
-<!--     ) -->
-<!--   ) -->
-<!-- } -->
+    </div>
+  </header>
+
+  <main class="col-sm-12 col-md-9 col-lg-7" id="content">
+<div id="to-call-an-mp4-file-using-the-function-above.-place-it-in-an-r-chunk-in-an-rmd-file-to-include-the-mp4-in-the-html-document" class="section level1" number="3">
+<h1><span class="header-section-number">Chapter 3</span> To call an mp4 file using the function above. Place it in an r chunk in an rmd file to include the mp4 in the html document</h1>
+<p>“mp4_vid(”vids/inc-steps-degrades-perform.mp4”)”</p>
 <p><br>
 comment: To call an mp4 file using the function above. Place it in an r chunk in an rmd file to include the mp4 in the html document</p>
-<p>mp4_vid(“vids/dms-6m-1-exceeds-1-not.mp4”)</p>
-</div>
-<div id="saving-a-gganimate-object-as-a-gif-file" class="section level2" number="2.2">
-<h2>
-<span class="header-section-number">2.2</span> Saving a gganimate object as a gif file<a class="anchor" aria-label="anchor" href="#saving-a-gganimate-object-as-a-gif-file"><i class="fas fa-link"></i></a>
-</h2>
+<p>mp4_vid(“vids/inc-steps-degrades-perform.mp4”)</p>
+<div id="saving-a-gganimate-object-as-a-gif-file" class="section level2" number="3.1">
+<h2><span class="header-section-number">3.1</span> Saving a gganimate object as a gif file</h2>
 <p>comment: IF YOU WAMT A GIF; LIMIT THE LOOPS IF YOU LIKE. CHANGE THE FILENAMES AS APPROPRIATE. LIMITED LOOPS CREATES A HUGE FILE COMPARED TO REGULAR GIF</p>
 <p>comment: Save as gif file</p>
 <p>gganimate::anim_save(
-“dms-6m-1-exceeds-1-not.gif”,
+“inc-steps-degrades-perform.gif”,
 animation = combined_plot,
 nframes = 400,
 duration = 30,
@@ -107,26 +109,20 @@ width = 800,
 height = 400
 )</p>
 <p>comment: limit the gif loops to 1</p>
-<p>xtractr::lmt_gif_loops(input_gif = “dms-6m-1-exceeds-1-not.gif”, output_gif = “dms-6m-1-exceeds-1-not-ltd.gif”, loop_limit = 2)</p>
+<p>xtractr::lmt_gif_loops(input_gif = “inc-steps-degrades-perform.gif”, output_gif = “inc-steps-degrades-perform-ltd.gif”, loop_limit = 2)</p>
 </div>
-<div id="sample-html-code-can-be-placed-in-labels-to-colorize-individual-words-and-phrases" class="section level2" number="2.3">
-<h2>
-<span class="header-section-number">2.3</span> Sample HTML code can be placed in labels to colorize individual words and phrases:<a class="anchor" aria-label="anchor" href="#sample-html-code-can-be-placed-in-labels-to-colorize-individual-words-and-phrases"><i class="fas fa-link"></i></a>
-</h2>
+<div id="sample-html-code-can-be-placed-in-labels-to-colorize-individual-words-and-phrases" class="section level2" number="3.2">
+<h2><span class="header-section-number">3.2</span> Sample HTML code can be placed in labels to colorize individual words and phrases:</h2>
 <p><span style="font-size:16pt"><b>Which Company Are You Right Now, <span style="color:red;">Red</span> or <span style="color:royalblue;">Blue?</span></b></span></p>
 <p><br><br></p>
 </div>
-<div id="hex-code-for-space-character" class="section level2" number="2.4">
-<h2>
-<span class="header-section-number">2.4</span> Hex Code for Space Character:<a class="anchor" aria-label="anchor" href="#hex-code-for-space-character"><i class="fas fa-link"></i></a>
-</h2>
+<div id="hex-code-for-space-character" class="section level2" number="3.3">
+<h2><span class="header-section-number">3.3</span> Hex Code for Space Character:</h2>
 <p>→
 <br><br></p>
 </div>
-<div id="a-2-column-html-table" class="section level2" number="2.5">
-<h2>
-<span class="header-section-number">2.5</span> A 2-Column HTML Table:<a class="anchor" aria-label="anchor" href="#a-2-column-html-table"><i class="fas fa-link"></i></a>
-</h2>
+<div id="a-2-column-html-table" class="section level2" number="3.4">
+<h2><span class="header-section-number">3.4</span> A 2-Column HTML Table:</h2>
 <!-- PROMPT: -->
 <!-- "Please create an HTML table with the following characteristics: -->
 <!--     The table should have a width of 45vw, height set to auto, and a font size of 18px. -->
@@ -137,7 +133,7 @@ height = 400
 <!--     The fourth row should have the same structure as the third row but with 'Annual Health Insurance' as the text. -->
 <!--     The fifth and sixth rows should have the same structure as the third row, with 'Fixed Labor Cost' and 'Fixed Other Costs' as the text, and '?? %' in the right-aligned cells. -->
 <!--     The seventh row should have the same structure as the third row, with 'Residual Profit' as the text and '$ ???' in the right-aligned cell." -->
-<div class="inline-table"><table style="width: 45vw; height: auto; font-size: 18px" class="table table-sm">
+<table style="width: 45vw; height: auto; font-size: 18px">
 <tr>
 <td class="b darkgreen bb bw2 al">
 Estimate Needed
@@ -194,13 +190,11 @@ Residual Profit
 $ ???
 </td>
 </tr>
-</table></div>
+</table>
 <p><br><br></p>
 </div>
-<div id="a-3-column-html-table" class="section level2" number="2.6">
-<h2>
-<span class="header-section-number">2.6</span> A 3-Column HTML Table<a class="anchor" aria-label="anchor" href="#a-3-column-html-table"><i class="fas fa-link"></i></a>
-</h2>
+<div id="a-3-column-html-table" class="section level2" number="3.5">
+<h2><span class="header-section-number">3.5</span> A 3-Column HTML Table</h2>
 <p><br></p>
 <!-- PROMPT: -->
 <!-- "Please create an HTML document that includes the following components: -->
@@ -216,8 +210,8 @@ $ ???
 <!--             A header row (tr) with three cells (th) titled 'Profit Center,' 'Profit Contribution,' and 'Mgmt Reaction.' -->
 <!--             Eight data rows (tr) with cells (td) containing data for 'Meat,' 'Dairy,' 'Bakery,' 'Fish,' 'Produce,' 'Wine/Liquor,' 'Household,' 'Dry Goods,' and 'Pharmacy.' The 'Profit Center' column should have the corresponding category names, the 'Profit Contribution' column should have dollar amounts in the format '$XX,XXX' (e.g., '$100,000'), and the 'Mgmt Reaction' column should contain text values such as 'Bonus,' 'No Action,' or 'Counsel Mgr.' -->
 <!--             A total row (tr) with a cell in the 'Profit Center' column containing 'Total Profit:', a cell in the 'Profit Contribution' column containing '$425,000', and an empty cell in the 'Mgmt Reaction' column. -->
-
-
+<html>
+<head>
 <style>
   table {
     font-size: 16px;
@@ -249,11 +243,12 @@ $ ???
   
   
 </style>
+</head>
+<body>
 <h2>
 Typical Management Analysis of ‘Contributions’ to Company Profit
-<a class="anchor" aria-label="anchor" href="#a-3-column-html-table"><i class="fas fa-link"></i></a>
 </h2>
-<div class="inline-table"><table class="table table-sm">
+<table>
 <tr>
 <th>
 Profit Center
@@ -374,13 +369,13 @@ $425,000
 <td>
 </td>
 </tr>
-</table></div>
+</table>
+</body>
+</html>
 <p><br><br><br></p>
 </div>
-<div id="arrow-like-characters-in-unicode" class="section level2" number="2.7">
-<h2>
-<span class="header-section-number">2.7</span> Arrow-like characters in Unicode:<a class="anchor" aria-label="anchor" href="#arrow-like-characters-in-unicode"><i class="fas fa-link"></i></a>
-</h2>
+<div id="arrow-like-characters-in-unicode" class="section level2" number="3.6">
+<h2><span class="header-section-number">3.6</span> Arrow-like characters in Unicode:</h2>
 <pre><code>Leftwards Arrow: ← &amp;#x2190;
 Upwards Arrow: ↑ &amp;#x2191;
 Rightwards Arrow: → &amp;#x2192;
@@ -391,10 +386,8 @@ Bent Arrow: ↪ &amp;#x21AA;
 Bent Arrow: ↩ &amp;#x21A9;</code></pre>
 <p><br><br></p>
 </div>
-<div id="bookdown-callout-boxes" class="section level2" number="2.8">
-<h2>
-<span class="header-section-number">2.8</span> Bookdown Callout Boxes:<a class="anchor" aria-label="anchor" href="#bookdown-callout-boxes"><i class="fas fa-link"></i></a>
-</h2>
+<div id="bookdown-callout-boxes" class="section level2" number="3.7">
+<h2><span class="header-section-number">3.7</span> Bookdown Callout Boxes:</h2>
 <div class="rmdcaution">
 <p>RED BOX Example of an <strong>.rmdcaution</strong> block.</p>
 </div>
@@ -409,10 +402,8 @@ Bent Arrow: ↩ &amp;#x21A9;</code></pre>
 </div>
 <p><br><br></p>
 </div>
-<div id="my-box-style-to-do-that-diagram" class="section level2" number="2.9">
-<h2>
-<span class="header-section-number">2.9</span> ‘my-box’ Style “To-Do-That” Diagram:<a class="anchor" aria-label="anchor" href="#my-box-style-to-do-that-diagram"><i class="fas fa-link"></i></a>
-</h2>
+<div id="my-box-style-to-do-that-diagram" class="section level2" number="3.8">
+<h2><span class="header-section-number">3.8</span> ‘my-box’ Style “To-Do-That” Diagram:</h2>
 <!-- PROMPT: -->
 <!-- "Create an HTML span element with the following style: -->
 <!--     Text color should be maroon. -->
@@ -420,10 +411,8 @@ Bent Arrow: ↩ &amp;#x21A9;</code></pre>
 <p><span style="color: maroon;"><strong><em>I WANT TO…RETIRE A BAZILLONAIRE → SELL TO HIGH-TECH GIANT → PUSH MY APP INTO MARKETPLACE → GET INVESTORS → LAUNCH STARTUP → INVENT STRING OF COMPELLING NEW APPS</em></strong></span></p>
 <p><br><br><br></p>
 </div>
-<div id="sequencing-diagram" class="section level2" number="2.10">
-<h2>
-<span class="header-section-number">2.10</span> Sequencing Diagram<a class="anchor" aria-label="anchor" href="#sequencing-diagram"><i class="fas fa-link"></i></a>
-</h2>
+<div id="sequencing-diagram" class="section level2" number="3.9">
+<h2><span class="header-section-number">3.9</span> Sequencing Diagram</h2>
 <!-- PROMPT: -->
 <!-- "Create an HTML block with the following components: -->
 <!--     A blockquote with the class 'my-box' and centered text. -->
@@ -459,10 +448,8 @@ Bent Arrow: ↩ &amp;#x21A9;</code></pre>
 </blockquote>
 <p><br><br></p>
 </div>
-<div id="my-quote-style-quote-box" class="section level2" number="2.11">
-<h2>
-<span class="header-section-number">2.11</span> ‘my-quote’ Style Quote Box:<a class="anchor" aria-label="anchor" href="#my-quote-style-quote-box"><i class="fas fa-link"></i></a>
-</h2>
+<div id="my-quote-style-quote-box" class="section level2" number="3.10">
+<h2><span class="header-section-number">3.10</span> ‘my-quote’ Style Quote Box:</h2>
 <!-- PROMPT: -->
 <!--     create a blockquote with the class 'my-quote' containing the following content: -->
 <!--         The text 'He who has a why to live for can bear almost any how.' in strong tags. -->
@@ -481,34 +468,34 @@ Bent Arrow: ↩ &amp;#x21A9;</code></pre>
 </blockquote>
 <p><br><br></p>
 </div>
-<div id="shiny-app-call" class="section level2" number="2.12">
-<h2>
-<span class="header-section-number">2.12</span> Shiny app call:<a class="anchor" aria-label="anchor" href="#shiny-app-call"><i class="fas fa-link"></i></a>
-</h2>
+<div id="shiny-app-call" class="section level2" number="3.11">
+<h2><span class="header-section-number">3.11</span> Shiny app call:</h2>
 <p><span style="color: red;"><strong>Interactive Online Version:</strong></span> [<a href="https://danswart.shinyapps.io/ryb-exercises-1-1/" class="uri">https://danswart.shinyapps.io/ryb-exercises-1-1/</a>]
 <br><br></p>
 
 </div>
 </div>
-  <div class="chapter-nav">
-<div class="empty"></div>
-<div class="empty"></div>
-</div></main><div class="col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-chapter">
-    <nav id="toc" data-toggle="toc" aria-label="On this page"><h2>On this page</h2>
+  </main>
+
+  <div class="col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-chapter">
+    <nav id="toc" data-toggle="toc" aria-label="On this page">
+      <h2>On this page</h2>
       <div id="book-on-this-page"></div>
 
       <div class="book-extra">
         <ul class="list-unstyled">
-          
+          <li><a id="book-source" href="#">View source <i class="fab fa-github"></i></a></li>
+          <li><a id="book-edit" href="#">Edit this page <i class="fab fa-github"></i></a></li>
         </ul>
-</div>
+      </div>
     </nav>
-</div>
+  </div>
 
 </div>
 </div> <!-- .container -->
 
-<footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
+<footer class="bg-primary text-light mt-5">
+  <div class="container"><div class="row">
 
   <div class="col-12 col-md-6 mt-3">
     <p>"<strong><em>Reimagine Your Business:</em></strong>: <em>A Personalized Guide to Becoming a Winner at Business</em>" was written by Dan Swart. It was last built on 2023-12-26.</p>
@@ -520,5 +507,8 @@ Bent Arrow: ↩ &amp;#x21A9;</code></pre>
 
 </div></div>
 </footer>
+
+
 </body>
+
 </html>

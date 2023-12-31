@@ -40,12 +40,55 @@ Attention grabbers using HTML <span> tags yields:<br><br>
 
 <span class="red-box">R</span>evenue
 
+<br><br>
+This is an example of embedding an mp4 file in rmarkdown file with a 'Play' bar:
+
+
+```{=html}
+<video controls controlsList="nodownload">
+        <source src="vid/dms-6m-1-exceeds-1-not.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+```
+
+```{=html}
+<video controls controlsList="nodownload">
+        <source src="vid/gganimate.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+```
+
+```{=html}
+<video controls controlsList="nodownload">
+        <source src="vid/ts-zoom.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+```
+
+
+<br><br>
+Same animation, but with a gif call
+
+<br>
+<img src="_book/gif/dms-6m-1-exceeds-1-not.gif" width = 800 height = 400 />
+
+
 <br><br><br>
 
 START NARRATIVE HERE ********
 <br><br>
 
-The arithmetic of business is just that; arithmetic.  Not even algebra.  Certainly not calculus.  Just simple addition, subtraction, multiplication and division.  ANYONE can do it, so don't shy away from it.  As they love to say these days: "Embrace It!"  "Celebrate It!"
+The arithmetic of business is just that; arithmetic.  Not even algebra.  Certainly not calculus.  Just simple addition, subtraction, multiplication and division.  ANYONE can do it, so don't shy away from it.  Find the basic arithmetic of your business and repeat it over and over.
+
+::: {.rmdimportant}
+Retailers are particularly good a business arithmetic.  One of the (arguably) richest men in southern Ohio started out selling watermelons at a roadside produce stand.  He explained it to me this way:
+
+"When I found out that I could drive to Indiana, fill my trunk with watermelons that cost me 5 cents each and sell them back in Ohio for 7 cents each I wore my car out buying and selling watermelons!"
+
+He went far beyond that original roadside produce stand.
+
+Simple arithmetic, taken very seriously - indeed.
+:::
 
 There are situations in business when higher mathematics can help solve complex problems such as distribution chains, fulfillment networks, and product mix challenges.  But, those are problems that arise AFTER you get the fundamental arithmetic right.  Remember that these types of problems were being 'solved' long before computer algorithms and data mining were supposed to save our companies.
 
@@ -78,7 +121,7 @@ Each individual step has a very high performance rate, yet the performance of th
 :::
 <br>
 
-Watch as this graph illustrates how adding steps to a process (multiplication) can degrade performance:
+Watch how adding steps to a process (multiplication) can degrade performance:
 <br>
 
 <img src="gif/inc-steps-degrades-perform-ltd.gif" width="600" height="450" />

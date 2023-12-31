@@ -162,3 +162,17 @@ metadata-for-sharing
 gif-library-as-of-2023-12-06
 img-library-as-of-2023-12-06
 url-your-book-url-like-httpsbookdown.orgyihuibookdown
+sample-html-code-can-be-placed-in-labels-to-colorize-individual-words-and-phrases
+hex-code-for-space-character
+a-2-column-html-table
+a-3-column-html-table
+arrow-like-characters-in-unicode
+bookdown-callout-boxes
+my-box-style-to-do-that-diagram
+logical-sequencing-diagram
+my-quote-style-quote-box
+shiny-app-call
+saving-a-gganimate-object-as-an-mp4-file-and-a-function-to-enable-dispaly-of-the-animation-in-an-html-document
+saving-a-gganimate-object-as-a-gif-file
+sequencing-diagram
+to-call-an-mp4-file-using-the-function-above.-place-it-in-an-r-chunk-in-an-rmd-file-to-include-the-mp4-in-the-html-document
