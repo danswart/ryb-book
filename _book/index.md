@@ -2,7 +2,7 @@
 title: "*Reimagine Your Business:*"
 subtitle: "*A Personalized Guide to Becoming a Winner at Business*"
 author: "Dan Swart"
-date: "2023-12-26"
+date: "2023-12-31"
 site: bookdown::bookdown_site
 github-repo: danswart/ryb-book
 output: 
@@ -24,7 +24,6 @@ biblio-style: apalike
 csl: chicago-fullnote-bibliography.csl
 ---
 
- 
 
 # Welcome {-}
 
@@ -83,7 +82,6 @@ These books will also help you:
 * __"[Beyond Command and Control (2019)](https://www.amazon.com/Beyond-Command-Control-John-Seddon/dp/152723956X)"__ wherein John Seddon explains the pitfalls of the Command & Control management style, what it is, and how this style of management might be good for the military but is wholly incompatible with most of the quality practices of the most successful organizations. (He spells words in that funny British way, but don't let that stop you!) https://whatisthevanguardmethod.net/
 
 * __"[Entrepreneur to Millionaire: How to Build a Highly Profitable, Fast-Growth Company and Become Embarrassingly Rich Doing It (2021) ](https://www.amazon.com/Entrepreneur-Millionaire-Profitable-Fast-Growth-Embarrassingly/dp/1264257120)"__ Mr. Billingsley teaches you the power of knowing ***exactly*** why your company exists, and how to make the most of that knowledge in the marketplace of today.
-
 
 
 

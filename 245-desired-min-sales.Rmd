@@ -1,8 +1,38 @@
 
-<!-- <img src="html/I Need HOW MUCH in Sales 2023-07-12.html" height=200> -->
+<!-- <img src="html/I Need HOW MUCH in Sales 2023-07-12.html" style="width: 35vw; height: auto;"> -->
 
 
-# Calculate Your Desired Minimum Sales Level
+# Calculate Your Desired Minimum Sales
+
+```{r}
+
+# add resizing toolbar for every plot and table
+r2resize::add.resizer(
+  theme.color = "black",
+  position = "top",
+  # font.size = "12px",
+  font.color = "black",
+  tables = TRUE,
+  images = TRUE,
+  line.color = "orange",
+  line.height = 5,
+  line.width = 100,
+  default.image.width = "70%"
+)
+
+# add function to render mp4 files in html documents
+mp4_vid <- function(src) {
+  htmltools::HTML(
+    paste0(
+      '<video controls controlsList="nodownload">
+                    <source src="', src, '" type="video/mp4">
+                    Your browser does not support the video tag.
+                 </video>'
+    )
+  )
+}
+
+```
 
 PRINCIPLE: Know Your Desired Minimum Sales Level Before You Begin Marketing.  Your Desired Minimum Sales will determine the type of customer you need to attract to your business.
 
@@ -10,28 +40,28 @@ What is your DESIRED MINIMUM SALES level?
 
 HOW do you figure that out?! &nbsp;&nbsp;&nbsp;WHY is it so important?<br><br>  
 
-<img src="img/confused.woman.jpg" height=200>
+<img src="img/confused.woman.jpg" style="width: 35vw; height: auto;">
 
 <br>
 If Your SALES are TOO SMALL Your TOTAL PROFIT will be TOO SMALL.<br><br>
 If your total profit is too small:<br><br>
     
 You can work your life away and never gain financial security,<br><br>
-    <img src="gif/idris-frustrated.gif" height=200><br><br>
+    <img src="gif/idris-frustrated.gif" style="width: 35vw; height: auto;"><br><br>
     
 It can drain your life savings,<br><br>
-    <img src="gif/baby-throwing-money-out-window.gif" height=200><br><br>
+    <img src="gif/baby-throwing-money-out-window.gif" style="width: 35vw; height: auto;"><br><br>
 
 The strain on your personal life can lead to serious health and life problems,<br><br>
-  <img src="gif/ekg.gif" height=200><br><br>
+  <img src="gif/ekg.gif" style="width: 35vw; height: auto;"><br><br>
 
-  <img src="gif/divorce.gif" height=200><br><br>
+  <img src="gif/divorce.gif" style="width: 35vw; height: auto;"><br><br>
   
 Your disappointments will be many, and<br><br>
-  <img src="gif/disappointed-zoey.gif" height=200><br><br>
+  <img src="gif/disappointed-zoey.gif" style="width: 35vw; height: auto;"><br><br>
     
 You will work forever, with no possibility of retirement <br><br>
-  <img src="gif/old-man-working-flea-market.gif" height=200>
+  <img src="gif/old-man-working-flea-market.gif" style="width: 35vw; height: auto;">
 <br><br>
 
 
@@ -58,41 +88,32 @@ Now, the first thing on that list is a 'Desired Salary'.  Right now you are prob
 
 Your Desired Salary must be large enough to cover your cash requirements for: 
 
-* food,<br>
-<img src="img/food.water.shelter.jpg" height=50> 
+* food &nbsp;&nbsp;&nbsp;<img src="img/food.water.shelter.jpg" style="width: 7vw; height: auto;">
 
-* utilities,<br>
-<img src="img/home.png" height=50>
+* utilities &nbsp;&nbsp;&nbsp;<img src="img/home.png"  style="width: 7vw; height: auto;">
 
-* shelter (in a safe neighborhood),<br>
-<img src="img/secure.home.png" height=50>
+* shelter (in a safe neighborhood) &nbsp;&nbsp;&nbsp;<img src="img/secure.home.png" style="width: 7vw; height: auto;">
 
-* some financial security,<br>
-<img src="img/financial.security.png" height=50>
+* some financial security &nbsp;&nbsp;&nbsp;<img src="img/financial.security.png" style="width: 7vw; height: auto;">
 
-* healthcare safety,<br>
-<img src="img/heart.health.png" height=50>
-<img src="img/health.insurance.png" height=50>
+* healthcare safety &nbsp;&nbsp;&nbsp;<img src="img/heart.health.png" style="width: 7vw; height: auto;">
 
-* education for loved ones, and<br>
-<img src="img/education.cost.png" height=50>
-<img src="img/certification.png" height=50>
+* education for loved ones &nbsp;&nbsp;&nbsp;<img src="img/certification.png" style="width: 7vw; height: auto;">
 
-* charitable giving (if you're so inclined)<br>
-<img src="img/loaning.money.png" height=50>
+* charitable giving (if you're so inclined) &nbsp;&nbsp;&nbsp;<img src="img/loaning.money.png" style="width: 7vw; height: auto;">
   
 Add these items up.and that's your NET desired salary.  A simple conversion factor will transform the net salary figure into a GROSS Salary figure.
 
 Here's an example of the entire calculation using fictitious amounts:<br>
 
-<img src="img/desired-salary-table-complete.png" width=800 height=600>
+<img src="img/desired-salary-table-complete.png" style="width: 7vw; height: auto;">
 
 
-## Estimating Your Desired Minimum Sales Level
+## Estimating Your Desired Minimum Sales
 
 In outline form the calculation grid looks like this:<br>
 
-<table style="width: 45vw; height: auto; font-size: 18px">
+<table style="width: 35vw; height: auto; font-size: 18px">
   <tr>
     <td class="b darkgreen bb bw2 al">Estimate Needed</td>
     <td class="b darkgreen bb bw2 ar">Amount</td>
@@ -127,7 +148,7 @@ In outline form the calculation grid looks like this:<br>
 
 Assume you worked out the calculation and you want your GROSS salary to be $150,000 annually<br>
 
-<table style="width: 50vw; height: auto; font-size: 18px">
+<table style="width: 35vw; height: auto; font-size: 18px">
   <tr>
     <td class="b darkgreen bb bw2 al">Estimate Needed</td>
     <td class="b darkgreen bb bw2 ar">Amount</td>
@@ -149,7 +170,7 @@ $11,000
 annually to
 reach $1M by
 age 66:<br><br>
-<img src="img/M.starting.at.30.ggplot.static.png" height=400>
+<img src="img/M.starting.at.30.ggplot.static.png" style="width: 75vw; height: auto;">
 
 
 Starting at
@@ -158,7 +179,7 @@ $15,000
 annually to
 reach $1M by
 age 66:<br><br>
-<img src="img/M.starting.at.35.ggplot.static.png" height=400>
+<img src="img/M.starting.at.35.ggplot.static.png" style="width: 75vw; height: auto;">
 
 
 Starting at
@@ -167,7 +188,7 @@ $20,000
 annually to
 reach $1M by
 age 66:<br><br>
-<img src="img/M.starting.at.40.ggplot.static.png" height=400>
+<img src="img/M.starting.at.40.ggplot.static.png" style="width: 75vw; height: auto;">
 
 
 Starting at
@@ -176,8 +197,7 @@ $30,000
 annually to
 reach $1M by
 age 66:<br><br>
-<img src="img/M.starting.at.45.ggplot.static.png" height=400>
-
+<img src="img/M.starting.at.45.ggplot.static.png" style="width: 75vw; height: auto;">
 
 Starting at
 age 50:
@@ -185,7 +205,7 @@ $45,000
 annually to
 reach $1M by
 age 66:<br><br>
-<img src="img/M.starting.at.50.ggplot.static.png" height=400>
+<img src="img/M.starting.at.50.ggplot.static.png" style="width: 75vw; height: auto;">
 
 
 <br><br>
@@ -211,7 +231,7 @@ The Inspirational Story of Enterprise Rent A Car Warren Buffet
 Let's say your choice of retirement plan contribution turns out to be $15,000.  The calculation grid now looks like this:
 <br>
 
-<table style="width: 45vw; height: auto; font-size: 18px">
+<table style="width: 35vw; height: auto; font-size: 18px">
   <tr>
     <td class="b darkgreen bb bw2 al">Estimate Needed</td>
     <td class="b darkgreen bb bw2 ar">Amount</td>
@@ -230,7 +250,7 @@ Let's say your choice of retirement plan contribution turns out to be $15,000.  
 <br><br>
 After salary and retirement, you must estimate your annual family healthcare premiums.  You're probably already paying premiums so that should be an easy one to estimate. Let's say you pay premiums of $18,000 annually for a family of 3.   The calculation grid now looks like this:
 
-<table style="width: 45vw; height: auto; font-size: 18px">
+<table style="width: 35vw; height: auto; font-size: 18px">
   <tr>
     <td class="b darkgreen bb bw2 al">Estimate Needed</td>
     <td class="b darkgreen bb bw2 ar">Amount</td>
@@ -253,7 +273,7 @@ After salary and retirement, you must estimate your annual family healthcare pre
 <br><br>
 Next, estimate your desired net profit (after expenses).  This represents next year's working capital.  For demonstration purposes let's say that $50,000 of profit will allow you to safely operate in the new year.   The calculation grid now looks like:
 
-<table style="width: 45vw; height: auto; font-size: 18px">
+<table style="width: 35vw; height: auto; font-size: 18px">
   <tr>
     <td class="b darkgreen bb bw2 al">Estimate Needed</td>
     <td class="b darkgreen bb bw2 ar">Amount</td>
@@ -283,7 +303,7 @@ Finally, you must estimate your:
 
 FIXED labor expenses as a percentage of your gross revenue.  Fixed expenses stay almost the same no matter how much you have in sales (they're 'fixed').
 
-<img src="img/percentages.piechart.jpg" class="center-image" width="200" height="150">
+<img src="img/percentages.piechart.jpg" class="center-image" style="width: 35vw; height: auto;">
 
 For a personal service company those percentages are usually around 33% for 'Fixed Labor...' and 33% for 'Fixed Other Expenses'
 
@@ -295,7 +315,7 @@ Reporting line items on the Profit & Loss Statement as percentages of gross sale
 
 <span class="b bg-royalblue white center-text">   HERE IS A "NORMALIZED" PROFIT & LOSS STATEMENT   </span>
 
-<table style="width: 45vw; height: auto; font-size: 18px">
+<table style="width: 35vw; height: auto; font-size: 18px">
   <tr>
     <td class="b darkgreen al"></td>
     <td class="b darkgreen bb bw2 ar">Amount</td>
@@ -340,7 +360,7 @@ Reporting line items on the Profit & Loss Statement as percentages of gross sale
 
 Let's recap...
  
- <table style="width: 45vw; height: auto; font-size: 18px">
+ <table style="width: 35vw; height: auto; font-size: 18px">
   <tr>
     <td class="b darkgreen bb bw2 al">Estimate Needed</td>
     <td class="b darkgreen bb bw2 ar">Amount</td>

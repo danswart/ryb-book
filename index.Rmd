@@ -24,7 +24,6 @@ biblio-style: apalike
 csl: chicago-fullnote-bibliography.csl
 ---
 
-`r if (knitr::is_latex_output()) '<!--'` 
 
 # Welcome {-}
 
@@ -85,6 +84,5 @@ These books will also help you:
 * __"[Entrepreneur to Millionaire: How to Build a Highly Profitable, Fast-Growth Company and Become Embarrassingly Rich Doing It (2021) ](https://www.amazon.com/Entrepreneur-Millionaire-Profitable-Fast-Growth-Embarrassingly/dp/1264257120)"__ Mr. Billingsley teaches you the power of knowing ***exactly*** why your company exists, and how to make the most of that knowledge in the marketplace of today.
 
 
-`r if (knitr::is_latex_output()) '-->'`
 
 

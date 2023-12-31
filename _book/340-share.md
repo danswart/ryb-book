@@ -22,9 +22,6 @@ https://pkgs.rstudio.com/bookdown/reference/bs4_book.html
 Or use:
 
 
-```r
-?bookdown::bs4_book
-```
 
 
 

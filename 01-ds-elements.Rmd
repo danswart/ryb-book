@@ -1,3 +1,5 @@
+
+
 # DS Book Element Examples
 
 
@@ -24,10 +26,10 @@ comment:  THE FUNCTION PROVIDES A 'PLAY' BUTTON FOR THE VIDEO.  SEE THE RMD FILE
 <!-- mp4_vid <- function(src) { -->
 <!--   htmltools::HTML( -->
 <!--     paste0( -->
-<!--       '<video controls controlsList="nodownload"> -->
+<!--       <video controls controlsList="nodownload"> -->
 <!--         <source src="', src, '" type="video/mp4"> -->
 <!--         Your browser does not support the video tag. -->
-<!--       </video>' -->
+<!--       </video> -->
 <!--     ) -->
 <!--   ) -->
 <!-- } -->

@@ -1,6 +1,5 @@
 
 
-
 # Business Arithmetic
 
 <span style="color: maroon;">***COMPONENTS are &#x2192; combined into ASSEMBLIES &#x2192; and INTEGRATED &#x2192; into A COMPELLING FINAL PRODUCT OR SERVICE***</span>
@@ -261,7 +260,7 @@ The idea to remember that multiplication is more powerful than addition.  So, lo
 Here's a plot illustrating what the effects are when elements are added together versus when elements are multiplied together:
 
 
-<img src="175-business-arithmetic_files/figure-html/add vs multiply-1.png" width="672" />
+<img src="175-business-arithmetic_files/figure-html/add vs multiply-1.png" width="672" style="display: block; margin: auto;" />
 
 <br><br>
 

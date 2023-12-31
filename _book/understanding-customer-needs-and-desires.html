@@ -95,7 +95,7 @@
 <li class="book-part">Part III - IMPLEMENTATION</li>
 <li><a class="" href="exploring-listen-then-provide.html"><span class="header-section-number">15</span> Exploring ‘Listen, then Provide’</a></li>
 <li><a class="" href="a-framework-for-progress.html"><span class="header-section-number">16</span> A Framework for Progress</a></li>
-<li><a class="" href="calculate-your-desired-minimum-sales-level.html"><span class="header-section-number">17</span> Calculate Your Desired Minimum Sales Level</a></li>
+<li><a class="" href="calculate-your-desired-minimum-sales.html"><span class="header-section-number">17</span> Calculate Your Desired Minimum Sales</a></li>
 <li><a class="" href="implementing-the-listen-then-provide-strategy.html"><span class="header-section-number">18</span> Implementing the ‘Listen, then Provide’ Strategy</a></li>
 <li><a class="active" href="understanding-customer-needs-and-desires.html"><span class="header-section-number">19</span> Understanding Customer Needs and Desires</a></li>
 <li><a class="" href="design-of-product-and-service.html"><span class="header-section-number">20</span> Design of Product and Service</a></li>
@@ -157,9 +157,6 @@
 </h2>
 <p>Figures and tables <em>with captions</em> can also be cross-referenced from elsewhere in your book using <code>\@ref(fig:chunk-label)</code> and <code>\@ref(tab:chunk-label)</code>, respectively.</p>
 <p>See Figure <a href="understanding-customer-needs-and-desires.html#fig:nice-fig">19.1</a>.</p>
-<div class="sourceCode" id="cb4"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span><span class="fu"><a href="https://rdrr.io/r/graphics/par.html">par</a></span><span class="op">(</span>mar <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/c.html">c</a></span><span class="op">(</span><span class="fl">4</span>, <span class="fl">4</span>, <span class="fl">.1</span>, <span class="fl">.1</span><span class="op">)</span><span class="op">)</span></span>
-<span><span class="fu"><a href="https://rdrr.io/r/graphics/plot.default.html">plot</a></span><span class="op">(</span><span class="va">pressure</span>, type <span class="op">=</span> <span class="st">'b'</span>, pch <span class="op">=</span> <span class="fl">19</span><span class="op">)</span></span></code></pre></div>
 <div class="figure" style="text-align: center">
 <span style="display:block;" id="fig:nice-fig"></span>
 <img src="260-understand-customer-needs-cross-refs_files/figure-html/nice-fig-1.png" alt="Plot with connected points showing that vapor pressure of mercury increases exponentially as temperature increases." width="80%"><p class="caption">
@@ -167,11 +164,6 @@ Figure 19.1: Here is a nice figure!
 </p>
 </div>
 <p>Don’t miss Table <a href="understanding-customer-needs-and-desires.html#tab:nice-tab">19.1</a>.</p>
-<div class="sourceCode" id="cb5"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span><span class="fu">knitr</span><span class="fu">::</span><span class="fu"><a href="https://rdrr.io/pkg/knitr/man/kable.html">kable</a></span><span class="op">(</span></span>
-<span>  <span class="fu"><a href="https://rdrr.io/r/utils/head.html">head</a></span><span class="op">(</span><span class="va">pressure</span>, <span class="fl">10</span><span class="op">)</span>, caption <span class="op">=</span> <span class="st">'Here is a nice table!'</span>,</span>
-<span>  booktabs <span class="op">=</span> <span class="cn">TRUE</span></span>
-<span><span class="op">)</span></span></code></pre></div>
 <div class="inline-table"><table class="table table-sm">
 <caption>
 <span id="tab:nice-tab">Table 19.1: </span>Here is a nice table!</caption>
@@ -251,7 +243,7 @@ Figure 19.1: Here is a nice figure!
 <footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
 
   <div class="col-12 col-md-6 mt-3">
-    <p>"<strong><em>Reimagine Your Business:</em></strong>: <em>A Personalized Guide to Becoming a Winner at Business</em>" was written by Dan Swart. It was last built on 2023-12-26.</p>
+    <p>"<strong><em>Reimagine Your Business:</em></strong>: <em>A Personalized Guide to Becoming a Winner at Business</em>" was written by Dan Swart. It was last built on 2023-12-31.</p>
   </div>
 
   <div class="col-12 col-md-6 mt-3">

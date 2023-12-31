@@ -1,3 +1,5 @@
+
+
 # DS Book Element Examples
 
 
@@ -24,10 +26,10 @@ comment:  THE FUNCTION PROVIDES A 'PLAY' BUTTON FOR THE VIDEO.  SEE THE RMD FILE
 <!-- mp4_vid <- function(src) { -->
 <!--   htmltools::HTML( -->
 <!--     paste0( -->
-<!--       '<video controls controlsList="nodownload"> -->
+<!--       <video controls controlsList="nodownload"> -->
 <!--         <source src="', src, '" type="video/mp4"> -->
 <!--         Your browser does not support the video tag. -->
-<!--       </video>' -->
+<!--       </video> -->
 <!--     ) -->
 <!--   ) -->
 <!-- } -->
@@ -37,7 +39,7 @@ comment:  THE FUNCTION PROVIDES A 'PLAY' BUTTON FOR THE VIDEO.  SEE THE RMD FILE
 comment:  To call an mp4 file using the function above.  Place it in an r chunk in an rmd file to include the mp4 in the html document
 
 
-mp4_vid("vids/dms-6m-1-exceeds-1-not.mp4")
+mp4_vid("vid/dms-6m-1-exceeds-1-not.mp4")
 
 
 
@@ -382,6 +384,20 @@ BLUEVIOLET BOX Example of an **.rmdwarning** block.
 
 
 
+
+```{=html}
+<video controls controlsList="nodownload">
+                    <source src="resources/gganimate.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                 </video>
+```
+
+```{=html}
+<video controls controlsList="nodownload">
+                    <source src="resources/ts-zoom.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                 </video>
+```
 
 
 

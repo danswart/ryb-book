@@ -33,26 +33,12 @@ Figures and tables *with captions* can also be cross-referenced from elsewhere i
 
 See Figure \@ref(fig:nice-fig).
 
-
-```r
-par(mar = c(4, 4, .1, .1))
-plot(pressure, type = 'b', pch = 19)
-```
-
 <div class="figure" style="text-align: center">
 <img src="260-understand-customer-needs-cross-refs_files/figure-html/nice-fig-1.png" alt="Plot with connected points showing that vapor pressure of mercury increases exponentially as temperature increases." width="80%" />
 <p class="caption">(\#fig:nice-fig)Here is a nice figure!</p>
 </div>
 
 Don't miss Table \@ref(tab:nice-tab).
-
-
-```r
-knitr::kable(
-  head(pressure, 10), caption = 'Here is a nice table!',
-  booktabs = TRUE
-)
-```
 
 
 
