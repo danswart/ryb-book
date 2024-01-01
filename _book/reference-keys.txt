@@ -15,6 +15,7 @@ saving-a-gganimate-object-as-an-mp4-file-and-a-function-to-enable-dispaly-of-the
 saving-a-gganimate-object-as-a-gif-file
 sample-html-code-can-be-placed-in-labels-to-colorize-individual-words-and-phrases
 hex-code-for-space-character
+hex-code-for-right-arrow
 a-2-column-html-table
 a-3-column-html-table
 arrow-like-characters-in-unicode
@@ -22,6 +23,7 @@ bookdown-callout-boxes
 my-box-style-to-do-that-diagram
 sequencing-diagram
 my-quote-style-quote-box
+call-for-i-need-how-much-in-sales-widget
 shiny-app-call
 the-power-of-rules-of-thumb
 one-particular-way
@@ -108,8 +110,9 @@ hello-bookdown
 a-section
 calculate-your-desired-minimum-sales
 how-to-figure-out-your-desired-minimum-sales-level
-estimating-a-desired-salary-level
+estimate-your-desired-gross-salary-level
 estimating-your-desired-minimum-sales
+using-the-extimation-wizard
 implementing-the-listen-then-provide-strategy
 define-your-general-mission
 make-then-sell

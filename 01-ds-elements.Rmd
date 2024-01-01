@@ -78,6 +78,11 @@ xtractr::lmt_gif_loops(input_gif = "dms-6m-1-exceeds-1-not.gif", output_gif = "d
 
 ## Hex Code for Space Character:
 
+&nbsp;
+<br><br>
+
+## Hex Code for Right Arrow:
+
 &#x2192;
 <br><br>
 
@@ -375,6 +380,9 @@ BLUEVIOLET BOX Example of an **.rmdwarning** block.
 <br><br>
 
 
+## Call for 'I Need HOW MUCH in Sales' widget
+
+<a href="html/I Need HOW MUCH in Sales 2023-07-12.html" target="_blank"> .f1.tq[I Need .y[HOW MUCH] in Sales!?!]</a>
 
 
 ## Shiny app call:
