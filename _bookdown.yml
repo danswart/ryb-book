@@ -9,13 +9,15 @@ output:
       branch: main
       subdir: book
   tidy: true # Custom setting for line width
-  css: [r-colors.css, tachyons.min.css, swart.css, style.css, swart-bookdown.css]
+  css: []
 documentclass: book
 language:
   ui:
     chapter_name: "Chapter "
 edit: github
 
+
+# swart-bookdown.css, swart.css, style.css , tachyons.min.css, r-colors.css
 
 # rmd_files:
 #   [

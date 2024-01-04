@@ -3,7 +3,7 @@ bookdown::bs4_book:
   in_header: <link rel="stylesheet" href="https://unpkg.com/tachyons@4/css/tachyons.min.css">
   header-includes:
   - "\\usepackage{tcolorbox}"
-  css: [r-colors.css, tachyons.min.css, swart.css, style.css, swart-bookdown.css]
+  css: [swart.css, tachyons.min.css, r-colors.css]
   theme:
     primary: "teal" # "#0d6efd"   # default .rmdnote = blue
     danger:  "#dc3545"   # default .rmdcaution = red
@@ -26,7 +26,7 @@ bookdown::bs4_book:
     branch: main
     subdir: book
 
-
+# swart-bookdown.css, swart.css, style.css , tachyons.min.css, r-colors.css
 
 # bookdown::gitbook:
 #   config:

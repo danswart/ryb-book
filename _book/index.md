@@ -2,7 +2,7 @@
 title: "*Reimagine Your Business:*"
 subtitle: "*A Personalized Guide to Becoming a Winner at Business*"
 author: "Dan Swart"
-date: "2024-01-01"
+date: "2024-01-03"
 site: bookdown::bookdown_site
 github-repo: danswart/ryb-book
 output: 
@@ -12,7 +12,7 @@ output:
       base: https://github.com/danswart/ryb-book
       branch: main
       subdir: book
-  css: [r-colors.css, tachyons.min.css, swart.css, style.css, swart-bookdown.css]
+  css: []
 documentclass: book
 bibliography: [book.bib, packages.bib]
 # url: your book url like https://bookdown.org/yihui/bookdown
@@ -24,6 +24,7 @@ biblio-style: apalike
 csl: chicago-fullnote-bibliography.csl
 ---
 
+<!-- swart-bookdown.css, swart.css, style.css , tachyons.min.css, r-colors.css -->
 
 # Welcome {-}
 
