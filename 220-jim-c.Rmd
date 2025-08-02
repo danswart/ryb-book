@@ -1,0 +1,33 @@
+
+
+# Case Study - Jim's Framing Business
+
+This chapter includes long-form narrative content.  I worked with Jim from inception of the business until its closure several years after the 'Housing Boom and Bust' in America and can attest to these results.  The names, locations, and some of the particulars are changed to protect the privacy of the business, owners, and employees.  Now read, enjoy, and be inspired!
+
+::: {.rmdimportant}
+Every example in this book comes with this caution:<br>
+
+<span style="color: red;">'Don't copy 'Best Practices'</span>... &nbsp; &nbsp; <span style="color: blue;">'INSTEAD, TEST THEORIES AND PRINCIPLES'</span>.
+
+The practices and procedures you see in the examples are the creative expression of an underlying principle or theory that is being tested for success in a specific setting.  
+
+They represent part of a chain reaction (theory) the company hopes will bring the results they desire.  You must understand the chain reaction behind the practice to understand how the idea might help your company.
+
+Remember:  Every company is one-of-a-kind.  Different owners, people, products or services, machines, methods, measures, marketplaces, and locations.  Your setting will always be different, even though you might be in the same industry.
+
+One of the best lessons of an example is:  <span style="color: blue;">'TRY NOVEL IDEAS BECAUSE YOUR COMPETITORS WON'T'</span>
+:::
+
+
+
+Here's a chain reaction (theory) that describes WHY Dr. T's Animal Hospital operates the way it does:
+
+<div align="center">
+
+**HAPPY PEOPLE <span style="font-size: 24px;">&#x2192;</span> HAPPY CUSTOMERS <span style="font-size: 24px;">&#x2192;</span> HAPPY BANKER <span style="font-size: 24px;">&#x2192;</span> HAPPY OWNER**
+
+</div>
+
+(Where you see <span style="font-size: 20px;">&#x2192;</span>, read "...leads to...)
+
+
