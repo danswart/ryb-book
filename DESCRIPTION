@@ -2,3 +2,5 @@ Package: ryb-book
 Title: Reimagine Your Business
 Version: 0.0.0.1000
 Authors@R: "Dan Swart"
+URL: https://github.com/danswart/ryb-book
+BugReports: https://github.com/danswart/ryb-book/issues
